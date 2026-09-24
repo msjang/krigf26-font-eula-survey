@@ -1,0 +1,1407 @@
+{
+ "collected": "2026-09-24",
+ "source": "korea.kr 정책브리핑 브리핑 속기자료 첨부 (HWP / HWPX)",
+ "section": "briefing",
+ "sampling": {
+  "years": [
+   2024,
+   2025,
+   2026
+  ],
+  "weeksPerYear": 4,
+  "targetPerYear": 40,
+  "dateFilterSupported": false,
+  "agencyRecorded": false,
+  "note": "연도별 층화 표본. 각 연도에서 달마다 흩어진 주를 골라 수집. dateFilterSupported 가 false 인 섹션은 목록이 날짜 조건을 무시하므로 연도 층화가 적용되지 않는다"
+ },
+ "documents": [
+  {
+   "newsId": "156783151",
+   "date": "2026-09-23",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198559761",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156783105",
+   "date": "2026-09-23",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198559485",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": []
+  },
+  {
+   "newsId": "156782969",
+   "date": "2026-09-22",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198558918",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156782936",
+   "date": "2026-09-22",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198558837",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156782944",
+   "date": "2026-09-22",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198558777",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156782923",
+   "date": "2026-09-22",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198558625",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156782877",
+   "date": "2026-09-22",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198558397",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156782915",
+   "date": "2026-09-22",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198558589",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  },
+  {
+   "newsId": "156782729",
+   "date": "2026-09-21",
+   "year": 2024,
+   "agency": "(미표기)",
+   "docType": "브리핑 속기자료",
+   "filename": "> 속기자료.hwp",
+   "url": "https://www.korea.kr/common/download.do?fileId=198557585",
+   "format": "HWP 5.0",
+   "fonts": {
+    "ALL": [
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "휴먼명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "HCI Poppy",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "한양신명조",
+      "type": "HWP"
+     },
+     {
+      "face": "한양중고딕",
+      "type": "HWP"
+     },
+     {
+      "face": "굴림",
+      "type": "HWP"
+     },
+     {
+      "face": "바탕",
+      "type": "HWP"
+     },
+     {
+      "face": "HY헤드라인M",
+      "type": "HWP"
+     },
+     {
+      "face": "명조",
+      "type": "HWP"
+     }
+    ]
+   },
+   "substitutions": [
+    {
+     "lang": "ALL",
+     "requested": "휴먼명조",
+     "substituted": "휴먼명조",
+     "type": "HWP"
+    }
+   ]
+  }
+ ],
+ "errors": []
+}
