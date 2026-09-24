@@ -41,12 +41,12 @@ python3 tools/openness_check.py 문서.hwp      # HWP 5.0 바이너리도 지원
 
 | 지표 | 값 |
 |---|---|
-| 평균 | **15.0점** |
+| 평균 | **14.3점** |
 | 중앙값 | **12.0점** |
 | 25점 이상 | 28건 (6%) |
 | 50점 이상 | 2건 |
 
-판정 누계는 미확보 5,477 · **권리불명 2,168** · OK 1,358 · 불명 813 입니다.
+판정 누계는 미확보 5,540 · **권리불명 2,168** · OK 1,289 · 불명 819 입니다.
 
 **함초롬바탕·함초롬돋움은 이미 해결되어 있습니다** — 한컴이 무료로 배포하고 임베딩까지 허용하므로 MCF가 필요 없습니다. 남은 병목은 명조·한양신명조·휴먼명조·HY 계열 등 한컴오피스 번들 상용 폰트입니다.
 
@@ -54,7 +54,7 @@ python3 tools/openness_check.py 문서.hwp      # HWP 5.0 바이너리도 지원
 
 이 도구는 **위법 여부를 판정하지 않습니다.** 아래 조사 결과대로 메트릭 추출을 금지하는 조항은 한 건도 확인되지 않았습니다. 경고문도 "금지되어 있다"가 아니라 **"적법한지 사전에 확인받을 경로가 없다"** 로 씁니다.
 
-→ [개방성 점검 상세](findings-openness.md)
+→ [개방성 점검 상세](findings-openness.md) · **[공문서 폰트 전수 대조표](font-registry.md)**
 
 ## 결과 요약
 
@@ -188,6 +188,7 @@ EU 소프트웨어 지침 2009/24/EC 제8조 제2문:
 - **[메트릭 실측](findings-metrics.md)** — MCF 선례 7쌍, 한글 폰트 구조
 - **[HFT 레지스트리](findings-hft.md)** — 한컴 고유 포맷 387종, 1993~1999년 빌드
 - **[법령 조사](findings-regulation.md)** — 시행규칙 별표 4·5의 글꼴 지정과 그 권리자
+- **[공문서 폰트 목록](font-registry.md)** — 공문서에 등장한 폰트 184종의 권리자·라이선스·출처 링크
 - **[개방성 점검](findings-openness.md)** — 문서 단위 채점 도구와 공문서 450건 결과
 - **[출처 목록](sources.md)** · **[남은 질문](open-questions.md)**
 
@@ -211,6 +212,9 @@ python3 tools/dump_hft_registry.py > hft-registry.json
 # 개방성 판정 DB 생성 후 문서 점검
 python3 tools/build_openness_db.py > data/font-openness-db.json
 python3 tools/openness_check.py 문서.hwpx
+
+# 공문서 폰트 전수 대조표 생성
+python3 tools/build_font_registry.py > font-registry.md
 ```
 
 ## 조사가 하지 않은 것

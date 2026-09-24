@@ -62,6 +62,16 @@
 
 원문 공문서(기안문)가 있는 정보공개포털이 가장 적합한 자료이나 robots.txt가 전면 금지이므로 수집 대상에서 제외했다.
 
+## 다-2. 라이선스 고지 보존 사본
+
+| 문서 | 사본 | 원 출처 |
+|---|---|---|
+| 한컴 서체 라이선스 | [`sources/licenses/hancom-fonts_license_2026-09-24.md`](sources/licenses/hancom-fonts_license_2026-09-24.md) | https://font.hancom.com/pc/sub/sub3_1.php |
+| 한컴 FAQ 2681 (Windows 기본 글꼴 라이선스 고지) | [`sources/licenses/hancom-faq2681_windows-fonts_2026-09-24.md`](sources/licenses/hancom-faq2681_windows-fonts_2026-09-24.md) | https://www.hancom.com/support/faqCenter/faq/detail/2681 |
+| 함초롬체 안내 | 발췌 인용 — [findings-openness.md](findings-openness.md) | https://noonnu.cc/font_page/654 |
+
+폰트별 권리자·라이선스·출처는 [font-registry.md](font-registry.md)에 전수 정리했다.
+
 ## 라. 판례
 
 | 사건 | 출처 | 상태 |
