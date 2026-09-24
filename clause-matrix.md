@@ -37,8 +37,8 @@
 
 ### 가. 한컴오피스 한/글 for Mac 12.30.0 제품 EULA
 
-- 출처: `/Applications/Hancom Office HWP.app/Contents/Resources/Readme/eula_ko.pdf` (5쪽, 국문)
-- 사본: `sources/eula/hancom-office-hwp_12.30.0_eula_ko_2026-09-24.txt`
+- 출처: 설치본 내 `Contents/Resources/Readme/eula_ko.pdf` (5쪽, 국문). 한컴오피스 for Mac 설치 시 동일 경로에서 확인 가능
+- 사본은 이 레포에 싣지 않음. 아래는 조항 분석에 필요한 범위의 발췌 인용
 - 구성: 12개 조 (공통약관 / 사용권 정의 / 계약 운용 / 양도 / 자동 업데이트 / 저작권 / **글꼴 및 클립아트의 사용 범위** / 보증 / 계약준수 확인 / 개인정보 / 고객지원 / 인정)
 
 | 분류 | 유무 | 근거 |
@@ -61,8 +61,7 @@
 
 ### 나. 한컴오피스 2020 / 2022 한/글 "사용권" 도움말
 
-- 출처: `help.hancom.com/hoffice110|120/ko-KR/Hwp/rights/rights.htm`
-- 사본: `sources/eula/hancom-office-{2020,2022}-win_rights-help_2026-09-24.md`
+- 출처: [한컴오피스 2020 사용권](https://help.hancom.com/hoffice110/ko-KR/Hwp/rights/rights.htm) · [한컴오피스 2022 사용권](https://help.hancom.com/hoffice120/ko-KR/Hwp/rights/rights.htm)
 - 성격: 제품 패키지 사용 계약서 자체가 아니라 **도움말 내 권리 고지 페이지**. 본문에서 "제품 패키지에 포함된 (주)한컴 소프트웨어 사용 계약서"를 별도 문서로 지칭함 → Windows판 제품 EULA 원문은 **미확보**
 
 | 분류 | 유무 | 근거 |
@@ -86,8 +85,7 @@
 
 ### 다. (주)한양정보통신 EULA — 조사 대상 중 유일하게 역설계 금지 조항 보유
 
-- 출처: https://www.hanyang.co.kr/license_20131011.php
-- 사본: `sources/eula/hanyang-ic_2013-10-10_eula_ko_2026-09-24.md`
+- 출처: [(주)한양정보통신 폰트라이선스](https://www.hanyang.co.kr/license_20131011.php) — 전문은 원문 링크에서 확인. 아래는 발췌 인용
 - 시행일: 2013-10-10 (부칙 제1조). 이후 개정판 페이지는 확인되지 않음
 - 중요도: 공문서 본문 폰트(굴림·바탕·돋움·궁서, HY 계열, 한컴바탕/돋움)의 원권리자
 
@@ -116,8 +114,7 @@
 
 ### 라. 윤디자인 (FONCO) — 공개 문서에 제한 조항 없음
 
-- 출처: https://font.co.kr/policy/license (사용범위), https://font.co.kr/policy/service (이용약관)
-- 사본: `sources/eula/yoondesign-fonco_*.md`
+- 출처: [FONCO 사용범위](https://font.co.kr/policy/license) · [FONCO 이용약관](https://font.co.kr/policy/service)
 - 중요도: 함초롬바탕·함초롬돋움 제작사, 한컴 윤고딕 계열 권리자
 
 | 분류 | 유무 | 근거 |
