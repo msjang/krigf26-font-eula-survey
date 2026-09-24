@@ -1019,9 +1019,12 @@
    "copyright": "Typeface © 1992 Stephenson Blake (Holdings) Ltd. Data © 1992 URW. Portions © 1992 Microsoft Corp. All rights reserved."
   },
   "Bauhaus 93": {
-   "status": "unknown",
-   "copyright": "URW Software, Copyright 1993 by URW",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "금지 범위가 'You may not copy or distribute this software'까지",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "URW Software, Copyright 1993 by URW"
   },
   "Beirut": {
    "status": "unknown",
@@ -1185,14 +1188,20 @@
    "source": "https://github.com/huertatipografica/Caladea"
   },
   "Calibri": {
-   "status": "free",
-   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
-   "source": "폰트 파일 name ID 13"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© 2017 Microsoft Corporation. All Rights Reserved. Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock &"
   },
   "Calibri Light": {
-   "status": "free",
-   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
-   "source": "폰트 파일 name ID 13"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© 2017 Microsoft Corporation. All Rights Reserved. Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock &"
   },
   "Calisto MT": {
    "status": "proprietary",
@@ -1453,9 +1462,12 @@
    "source": "폰트 파일 저작권 표시"
   },
   "David": {
-   "status": "free",
-   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
-   "source": "폰트 파일 name ID 13"
+   "status": "proprietary",
+   "holder": "Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "금지 범위가 'You may not copy or distribute this software'까지",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© 1991-1993 Kivun Computers Ltd. Portions © The Monotype Corporation. Hebrew OpenType Layout logic copyright © 2003 & 20"
   },
   "DecoType Naskh": {
    "status": "unknown",
@@ -1519,19 +1531,28 @@
    "buildDate": null
   },
   "Dubai": {
-   "status": "unknown",
-   "copyright": "Copyright © 2016 Dubai Executive Council. All rights reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2016 Dubai Executive Council. All rights reserved."
   },
   "Dubai Light": {
-   "status": "unknown",
-   "copyright": "Copyright © 2016 Dubai Executive Council. All rights reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2016 Dubai Executive Council. All rights reserved."
   },
   "Dubai Medium": {
-   "status": "unknown",
-   "copyright": "Copyright © 2016 Dubai Executive Council. All rights reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2016 Dubai Executive Council. All rights reserved."
   },
   "Edwardian Script ITC": {
    "status": "proprietary",
@@ -2223,9 +2244,12 @@
    "source": "폰트 파일 저작권 표시"
   },
   "Helvetica Neue": {
-   "status": "unknown",
-   "copyright": "Copyright (c) 1981, 1982, 1983, 1989 and 1993, Linotype Library GmbH or its affiliated Linotype-Hell companies. All righ",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "금지 범위가 'You may not copy or distribute this software'까지",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted © 2008 -"
   },
   "Herculanum": {
    "status": "unknown",
@@ -2884,9 +2908,12 @@
    "source": "폰트 파일 저작권 표시"
   },
   "MingLiU-ExtB": {
-   "status": "unknown",
-   "copyright": "© DynaComware Corp. 2008",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© DynaComware Corp. 2008"
   },
   "MingLiU_HKSCS": {
    "status": "unknown",
@@ -2894,9 +2921,12 @@
    "source": "폰트 파일 저작권 표시"
   },
   "MingLiU_HKSCS-ExtB": {
-   "status": "unknown",
-   "copyright": "© DynaComware Corp. 2008",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© DynaComware Corp. 2008"
   },
   "Mishafi": {
    "status": "unknown",
@@ -3875,9 +3905,12 @@
    "source": "폰트 파일 저작권 표시"
   },
   "PMingLiU-ExtB": {
-   "status": "unknown",
-   "copyright": "© DynaComware Corp. 2008",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© DynaComware Corp. 2008"
   },
   "PT Mono": {
    "status": "unknown",
@@ -4153,9 +4186,12 @@
    "copyright": "C 2006 Microsoft Corporation. All Rights Reserved."
   },
   "Segoe UI Historic": {
-   "status": "free",
-   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
-   "source": "폰트 파일 name ID 13"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© 2014 Microsoft. All Rights Reserved. Portions Copyright 2012 Google Inc. All Rights Reserved. Portions Copyright © 201"
   },
   "Segoe UI Symbol": {
    "status": "proprietary",
@@ -4300,14 +4336,20 @@
    "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation All Rights Reserved"
   },
   "TH SarabunPSK": {
-   "status": "unknown",
-   "copyright": "Copyright (c) 2006 by Department of Intellectual Property (DIP), Ministry of Commerce and Software Industry Promotion Ag",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright (c) 2006 by Department of Intellectual Property (DIP), Ministry of Commerce and Software Industry Promotion Ag"
   },
   "Tahoma": {
-   "status": "free",
-   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
-   "source": "폰트 파일 name ID 13"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© 2006 Microsoft Corporation. All rights reserved."
   },
   "Tamil MN": {
    "status": "unknown",
@@ -4340,9 +4382,12 @@
    "source": "폰트 파일 저작권 표시"
   },
   "Times New Roman": {
-   "status": "free",
-   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
-   "source": "폰트 파일 name ID 13"
+   "status": "proprietary",
+   "holder": "Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "금지 범위가 'You may not copy or distribute this software'까지",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "© 2006 The Monotype Corporation. All Rights Reserved."
   },
   "Trattatello": {
    "status": "unknown",
@@ -4448,54 +4493,84 @@
    "copyright": "Wingdings 3 designed by Bigelow & Holmes Inc. for Microsoft Corporation. Copyright © 1992 Microsoft Corporation. Pat. pe"
   },
   "Yu Gothic": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Gothic Light": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Gothic Medium": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Gothic UI": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Gothic UI Light": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Gothic UI Semibold": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Gothic UI Semilight": {
-   "status": "unknown",
-   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2018 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Mincho": {
-   "status": "unknown",
-   "copyright": "Copyright © 2017 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2017 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Mincho Demibold": {
-   "status": "unknown",
-   "copyright": "Copyright © 2017 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2017 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Yu Mincho Light": {
-   "status": "unknown",
-   "copyright": "Copyright © 2017 JIYUKOBO Ltd. All Rights Reserved.",
-   "source": "폰트 파일 저작권 표시"
+   "status": "proprietary",
+   "holder": "Microsoft / Monotype",
+   "reverseEngineeringClause": false,
+   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
+   "source": "폰트 파일 name ID 13",
+   "copyright": "Copyright © 2017 JIYUKOBO Ltd. All Rights Reserved."
   },
   "Zapf Dingbats": {
    "status": "unknown",

@@ -1,14 +1,14 @@
 {
  "documents": 450,
- "mean": 15.0,
+ "mean": 14.3,
  "median": 12.0,
  "max": 100.0,
  "zeroScore": 5,
  "verdictTotals": {
   "UNLICENSED": 2168,
-  "MISSING": 5477,
-  "OK": 1358,
-  "UNKNOWN": 813
+  "MISSING": 5540,
+  "OK": 1289,
+  "UNKNOWN": 819
  },
  "missingTop": [
   {
@@ -76,6 +76,10 @@
    "documents": 153
   },
   {
+   "font": "Times New Roman",
+   "documents": 45
+  },
+  {
    "font": "Arial",
    "documents": 38
   },
@@ -102,6 +106,10 @@
   {
    "font": "한컴 윤고딕 240",
    "documents": 18
+  },
+  {
+   "font": "Calibri",
+   "documents": 15
   },
   {
    "font": "-윤명조120",
@@ -162,14 +170,6 @@
   {
    "font": "한컴 윤고딕 250",
    "documents": 6
-  },
-  {
-   "font": "-윤고딕330",
-   "documents": 5
-  },
-  {
-   "font": "-윤고딕320",
-   "documents": 5
   }
  ],
  "unlicensedTop": [
