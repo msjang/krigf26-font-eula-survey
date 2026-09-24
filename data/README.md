@@ -10,6 +10,7 @@
 | `gov-doc-fonts_summary_2026-09-24.json` | 위 집계 — 폰트별 등장 문서 수, 대체 쌍 | — |
 | `mcf-metric-verification_2026-09-24.json` | MCF 7쌍의 advance width·수직 메트릭·윤곽선 대조 | 7 |
 | `mcf-pairs_2026-09-24.json` | 위 비교에 사용한 원본/MCF 파일 경로 | 7 |
+| `hft-registry_2026-09-24.json` | 한컴 고유 포맷(HFT) 폰트의 이름·공급사·저작권·빌드일자 | 387 |
 
 ## 스키마
 
@@ -86,3 +87,21 @@
 - 원본 폰트를 개변하지 않았다. 규격(OpenType 사양, HWPX/OWPML)이 정한 위치의 값을 읽었을 뿐이다
 - 공문서 수집은 robots.txt를 확인하고 순차 요청 + 0.35초 지연으로 진행했다. 본문 내용은 저장하지 않았다
 - 정보공개포털(open.go.kr)·NTIS는 robots.txt가 `Disallow: /` 이므로 수집하지 않았다
+
+### hft-registry
+
+```jsonc
+{
+  "file": "HCENSMJ.HFT",
+  "name": "#신명조",
+  "names": ["#신명조"],              // 여러 스크립트 섹션에 걸친 이름
+  "vendor": "한글과컴퓨터",           // hftinfo.dat 이 기록한 공급사
+  "latinName": "HCI Sin Myeongjo",
+  "styles": ["Regular"],            // 파일이 차지한 슬롯 (R/B/I/BI)
+  "sections": ["Font Definition - Hangul"],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",  // 파일 헤더 평문
+  "buildDate": "19960531"
+}
+```
+
+`vendor`(공급사)와 `copyright`(저작권 표시)는 일치하지 않을 수 있다. 예: `한양신명조`는 공급사가 한글과컴퓨터이나 파일 헤더 저작권은 한양시스템즈다. 두 값을 모두 보존한 이유다.
