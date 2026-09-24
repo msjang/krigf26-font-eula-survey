@@ -11,6 +11,8 @@
 | `mcf-metric-verification_2026-09-24.json` | MCF 7쌍의 advance width·수직 메트릭·윤곽선 대조 | 7 |
 | `mcf-pairs_2026-09-24.json` | 위 비교에 사용한 원본/MCF 파일 경로 | 7 |
 | `hft-registry_2026-09-24.json` | 한컴 고유 포맷(HFT) 폰트의 이름·공급사·저작권·빌드일자 | 387 |
+| `font-openness-db.json` | 폰트 이름 → 개방성 판정(free/proprietary/unknown)과 근거 | 906 |
+| `gov-doc-openness_2026-09-24.json` | 공문서 450건 개방성 채점 집계 | — |
 
 ## 스키마
 

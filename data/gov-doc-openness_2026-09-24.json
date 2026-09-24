@@ -1,0 +1,173 @@
+{
+ "documents": 450,
+ "mean": 1.2,
+ "median": 0.0,
+ "zeroScore": 377,
+ "verdictTotals": {
+  "MISSING": 8854,
+  "UNKNOWN": 832,
+  "OK": 130
+ },
+ "missingTop": [
+  {
+   "font": "함초롬바탕",
+   "documents": 445
+  },
+  {
+   "font": "한양신명조",
+   "documents": 443
+  },
+  {
+   "font": "명조",
+   "documents": 443
+  },
+  {
+   "font": "휴먼명조",
+   "documents": 440
+  },
+  {
+   "font": "함초롬돋움",
+   "documents": 435
+  },
+  {
+   "font": "돋움체",
+   "documents": 431
+  },
+  {
+   "font": "바탕",
+   "documents": 423
+  },
+  {
+   "font": "맑은 고딕",
+   "documents": 416
+  },
+  {
+   "font": "HY헤드라인M",
+   "documents": 384
+  },
+  {
+   "font": "한컴바탕",
+   "documents": 365
+  },
+  {
+   "font": "돋움",
+   "documents": 329
+  },
+  {
+   "font": "산세리프",
+   "documents": 323
+  },
+  {
+   "font": "굴림",
+   "documents": 319
+  },
+  {
+   "font": "신명조■얒a",
+   "documents": 285
+  },
+  {
+   "font": "HY중고딕",
+   "documents": 281
+  },
+  {
+   "font": "-윤고딕130",
+   "documents": 280
+  },
+  {
+   "font": "신명 태명조",
+   "documents": 279
+  },
+  {
+   "font": "신명 견명조",
+   "documents": 278
+  },
+  {
+   "font": "#신명조",
+   "documents": 275
+  },
+  {
+   "font": "한양견명조",
+   "documents": 275
+  },
+  {
+   "font": "-윤고딕220",
+   "documents": 274
+  },
+  {
+   "font": "HY각헤드라인M",
+   "documents": 273
+  },
+  {
+   "font": "#세명조",
+   "documents": 272
+  },
+  {
+   "font": "바탕체",
+   "documents": 214
+  },
+  {
+   "font": "한양중고딕",
+   "documents": 153
+  },
+  {
+   "font": "Times New Roman",
+   "documents": 45
+  },
+  {
+   "font": "Arial",
+   "documents": 38
+  },
+  {
+   "font": "굴림체",
+   "documents": 29
+  },
+  {
+   "font": "HY울릉도M",
+   "documents": 28
+  },
+  {
+   "font": "휴먼고딕",
+   "documents": 27
+  },
+  {
+   "font": "한컴 윤고딕 230",
+   "documents": 25
+  },
+  {
+   "font": "HY견고딕",
+   "documents": 18
+  },
+  {
+   "font": "한컴 윤고딕 240",
+   "documents": 18
+  },
+  {
+   "font": "-윤명조120",
+   "documents": 14
+  },
+  {
+   "font": "한컴돋움",
+   "documents": 14
+  },
+  {
+   "font": "한양견고딕",
+   "documents": 12
+  },
+  {
+   "font": "신명 신명조",
+   "documents": 11
+  },
+  {
+   "font": "함초롬바탕 확장B",
+   "documents": 10
+  },
+  {
+   "font": "신명 세명조",
+   "documents": 10
+  },
+  {
+   "font": "Cambria",
+   "documents": 9
+  }
+ ]
+}
