@@ -1,0 +1,9 @@
+[
+ ["Calibri -> Carlito", "/Applications/Microsoft Word.app/Contents/Resources/DFonts/Calibri.ttf", "/tmp/ossfonts/dl/Carlito-GF-Regular.ttf"],
+ ["Calibri Bold -> Carlito Bold", "/Applications/Microsoft Word.app/Contents/Resources/DFonts/Calibrib.ttf", "/tmp/ossfonts/ext/carlito/carlito-main/fonts/ttf/Carlito-Bold.ttf"],
+ ["Cambria -> Caladea", "/Applications/Microsoft Word.app/Contents/Resources/DFonts/Cambria.ttc", "/tmp/ossfonts/dl/Caladea-GF-Regular.ttf"],
+ ["Arial -> Liberation Sans", "/Applications/Microsoft Word.app/Contents/Resources/DFonts/arial.ttf", "/tmp/ossfonts/ext/liberation/LiberationSans-Regular.ttf"],
+ ["Arial Bold -> Liberation Sans Bold", "/Applications/Microsoft Word.app/Contents/Resources/DFonts/arialbd.ttf", "/tmp/ossfonts/ext/liberation/LiberationSans-Bold.ttf"],
+ ["Times New Roman -> Liberation Serif", "/Applications/Microsoft Word.app/Contents/Resources/DFonts/times.ttf", "/tmp/ossfonts/ext/liberation/LiberationSerif-Regular.ttf"],
+ ["Courier New -> Liberation Mono", "/System/Library/Fonts/Supplemental/Courier New.ttf", "/tmp/ossfonts/ext/liberation/LiberationMono-Regular.ttf"]
+]

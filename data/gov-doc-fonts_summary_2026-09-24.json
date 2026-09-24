@@ -1,0 +1,1487 @@
+{
+ "collected": "2026-09-24",
+ "source": "korea.kr 정책브리핑 보도자료 첨부 HWPX",
+ "documentCount": 450,
+ "errorCount": 10,
+ "documentsWithFontSubstitution": 413,
+ "hangulFontFormatCounts": {
+  "TTF": 5742,
+  "HFT": 1434
+ },
+ "fontUsageByDocumentCount": [
+  {
+   "face": "함초롬바탕",
+   "documents": 445,
+   "pct": 98.9
+  },
+  {
+   "face": "휴먼명조",
+   "documents": 440,
+   "pct": 97.8
+  },
+  {
+   "face": "함초롬돋움",
+   "documents": 435,
+   "pct": 96.7
+  },
+  {
+   "face": "돋움체",
+   "documents": 431,
+   "pct": 95.8
+  },
+  {
+   "face": "바탕",
+   "documents": 422,
+   "pct": 93.8
+  },
+  {
+   "face": "맑은 고딕",
+   "documents": 416,
+   "pct": 92.4
+  },
+  {
+   "face": "HY헤드라인M",
+   "documents": 383,
+   "pct": 85.1
+  },
+  {
+   "face": "한양신명조",
+   "documents": 353,
+   "pct": 78.4
+  },
+  {
+   "face": "돋움",
+   "documents": 329,
+   "pct": 73.1
+  },
+  {
+   "face": "한컴바탕",
+   "documents": 320,
+   "pct": 71.1
+  },
+  {
+   "face": "굴림",
+   "documents": 318,
+   "pct": 70.7
+  },
+  {
+   "face": "HY중고딕",
+   "documents": 281,
+   "pct": 62.4
+  },
+  {
+   "face": "-윤고딕130",
+   "documents": 280,
+   "pct": 62.2
+  },
+  {
+   "face": "신명 태명조",
+   "documents": 278,
+   "pct": 61.8
+  },
+  {
+   "face": "-윤고딕220",
+   "documents": 274,
+   "pct": 60.9
+  },
+  {
+   "face": "#신명조",
+   "documents": 274,
+   "pct": 60.9
+  },
+  {
+   "face": "한양견명조",
+   "documents": 273,
+   "pct": 60.7
+  },
+  {
+   "face": "HY각헤드라인M",
+   "documents": 273,
+   "pct": 60.7
+  },
+  {
+   "face": "바탕체",
+   "documents": 214,
+   "pct": 47.6
+  },
+  {
+   "face": "한양중고딕",
+   "documents": 146,
+   "pct": 32.4
+  },
+  {
+   "face": "굴림체",
+   "documents": 29,
+   "pct": 6.4
+  },
+  {
+   "face": "HY울릉도M",
+   "documents": 28,
+   "pct": 6.2
+  },
+  {
+   "face": "휴먼고딕",
+   "documents": 27,
+   "pct": 6.0
+  },
+  {
+   "face": "한컴 윤고딕 230",
+   "documents": 25,
+   "pct": 5.6
+  },
+  {
+   "face": "KoPub돋움체 Bold",
+   "documents": 21,
+   "pct": 4.7
+  },
+  {
+   "face": "한컴 윤고딕 240",
+   "documents": 18,
+   "pct": 4.0
+  },
+  {
+   "face": "HY견고딕",
+   "documents": 17,
+   "pct": 3.8
+  },
+  {
+   "face": "Arial-BoldMT",
+   "documents": 16,
+   "pct": 3.6
+  },
+  {
+   "face": "KoPub돋움체 Light",
+   "documents": 16,
+   "pct": 3.6
+  },
+  {
+   "face": "KoPub바탕체 Light",
+   "documents": 15,
+   "pct": 3.3
+  },
+  {
+   "face": "-윤명조120",
+   "documents": 14,
+   "pct": 3.1
+  },
+  {
+   "face": "한컴돋움",
+   "documents": 14,
+   "pct": 3.1
+  },
+  {
+   "face": "나눔고딕",
+   "documents": 13,
+   "pct": 2.9
+  },
+  {
+   "face": "한양견고딕",
+   "documents": 12,
+   "pct": 2.7
+  },
+  {
+   "face": "KoPub돋움체 Medium",
+   "documents": 9,
+   "pct": 2.0
+  },
+  {
+   "face": "신명 신명조",
+   "documents": 8,
+   "pct": 1.8
+  },
+  {
+   "face": "Times New Roman",
+   "documents": 8,
+   "pct": 1.8
+  },
+  {
+   "face": "문체부 바탕체",
+   "documents": 8,
+   "pct": 1.8
+  },
+  {
+   "face": "-윤고딕120",
+   "documents": 7,
+   "pct": 1.6
+  },
+  {
+   "face": "Arial",
+   "documents": 7,
+   "pct": 1.6
+  },
+  {
+   "face": "한컴 윤고딕 720",
+   "documents": 7,
+   "pct": 1.6
+  },
+  {
+   "face": "HY신명조",
+   "documents": 6,
+   "pct": 1.3
+  },
+  {
+   "face": "HY울릉도B",
+   "documents": 6,
+   "pct": 1.3
+  },
+  {
+   "face": "MD솔체",
+   "documents": 6,
+   "pct": 1.3
+  },
+  {
+   "face": "궁서",
+   "documents": 6,
+   "pct": 1.3
+  },
+  {
+   "face": "한컴 윤고딕 250",
+   "documents": 6,
+   "pct": 1.3
+  },
+  {
+   "face": "-윤고딕330",
+   "documents": 5,
+   "pct": 1.1
+  },
+  {
+   "face": "HY그래픽",
+   "documents": 5,
+   "pct": 1.1
+  },
+  {
+   "face": "한컴 고딕",
+   "documents": 5,
+   "pct": 1.1
+  },
+  {
+   "face": "MS Mincho",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "해수체B",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "신명 태고딕",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "휴먼옛체",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "HCI Poppy",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "새굴림",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "Noto Sans CJK KR",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "한컴 윤고딕 760",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "HY견명조",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "신명 세고딕",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "KoPubWorld돋움체 Light",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "신명조",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "나눔바른고딕",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "나눔명조OTF ExtraBold",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "-윤명조310",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "중고딕",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "산돌명조 L",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "Calibri",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "SimSun",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "KoPubWorld돋움체 Bold",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "-윤고딕320",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "신명조\\,한컴돋움",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "한컴산뜻돋움",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "나눔명조",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "한양그래픽",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "가는둥근제목체",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "Yoon가변 윤고딕 110_TT",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "영화체",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "Arial Narrow",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "#신세고딕",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "문체부 제목 돋음체",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "다음_Regular",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "신명 순명조",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "신명 중고딕",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "HYHeadLine M",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "양재 튼튼B",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "-윤명조350",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤고딕340",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "태 나무",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "강한공군체 Bold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "바른공군체 Bold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "경기천년바탕 Regular",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 중명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "HY그래픽M",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "맑은고딕",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "고딕",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KAI/KASB",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "한컴 윤고딕 740",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "나눔스퀘어 네오 ExtraBold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "궁서체",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "가는안상수체",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤고딕140",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "옥션고딕 B",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "학교안심 바른돋움 R",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "NanumSquare",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 태그래픽",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 신그래픽",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "태 가는 헤드라인D",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "휴먼모음T",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "산돌고딕M",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "문화바탕제목",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "은 돋움",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "경기천년제목 Light",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KOHI나눔 Light",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KOHI나눔 Bold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "한양신명조\\,한컴돋움",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Helvetica Neue",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "산돌고딕 M",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "한컴 훈민정음 가로쓰기",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "HY궁서",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Noto Sans CJK SC",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "함초롬바탕 확장",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Tahoma",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Microsoft YaHei",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "D2Coding",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Aptos",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "MS Gothic",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "THE명품고딕B_U",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "휴먼신문명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "휴먼엑스포",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "AppleSDGothicNeoR00",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Aptos Narrow",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "휴먼굵은샘체",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "다음_SemiBold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Rix모던고딕 M",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 견명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 신신명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "나눔스퀘어 ExtraBold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Microsoft Sans Serif",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KoPubWorld바탕체 Medium",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Arial Unicode MS",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Noto Sans CJK DemiLight",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤고딕110",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "맑은 고딕 Semilight",
+   "documents": 1,
+   "pct": 0.2
+  }
+ ],
+ "substitutedFontsByDocumentCount": [
+  {
+   "face": "신명조■얒a",
+   "documents": 285,
+   "pct": 63.3
+  },
+  {
+   "face": "-윤고딕130",
+   "documents": 273,
+   "pct": 60.7
+  },
+  {
+   "face": "HY각헤드라인M",
+   "documents": 273,
+   "pct": 60.7
+  },
+  {
+   "face": "-윤고딕220",
+   "documents": 268,
+   "pct": 59.6
+  },
+  {
+   "face": "휴먼명조",
+   "documents": 195,
+   "pct": 43.3
+  },
+  {
+   "face": "한양중고딕",
+   "documents": 19,
+   "pct": 4.2
+  },
+  {
+   "face": "KoPub돋움체 Bold",
+   "documents": 17,
+   "pct": 3.8
+  },
+  {
+   "face": "KoPub바탕체 Light",
+   "documents": 17,
+   "pct": 3.8
+  },
+  {
+   "face": "Arial-BoldMT",
+   "documents": 16,
+   "pct": 3.6
+  },
+  {
+   "face": "Arial TUR",
+   "documents": 15,
+   "pct": 3.3
+  },
+  {
+   "face": "KoPub돋움체 Light",
+   "documents": 14,
+   "pct": 3.1
+  },
+  {
+   "face": "-윤명조120",
+   "documents": 13,
+   "pct": 2.9
+  },
+  {
+   "face": "HCI Poppy",
+   "documents": 11,
+   "pct": 2.4
+  },
+  {
+   "face": "HY중고딕",
+   "documents": 10,
+   "pct": 2.2
+  },
+  {
+   "face": "한양중고딕&quot;",
+   "documents": 9,
+   "pct": 2.0
+  },
+  {
+   "face": "Aptos",
+   "documents": 9,
+   "pct": 2.0
+  },
+  {
+   "face": "Arial",
+   "documents": 8,
+   "pct": 1.8
+  },
+  {
+   "face": "Times New Roman",
+   "documents": 8,
+   "pct": 1.8
+  },
+  {
+   "face": "-윤고딕120",
+   "documents": 7,
+   "pct": 1.6
+  },
+  {
+   "face": "KoPub돋움체 Medium",
+   "documents": 7,
+   "pct": 1.6
+  },
+  {
+   "face": "한양신명조",
+   "documents": 6,
+   "pct": 1.3
+  },
+  {
+   "face": "-윤고딕330",
+   "documents": 5,
+   "pct": 1.1
+  },
+  {
+   "face": "MS Mincho",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "해수체B",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "Noto Sans CJK KR",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "KoPubWorld돋움체 Light",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "신명조",
+   "documents": 4,
+   "pct": 0.9
+  },
+  {
+   "face": "-윤고딕320",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "한양견명조",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "#신명조",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "신명 태명조",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "나눔명조OTF ExtraBold",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "-윤명조310",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "중고딕",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "산돌명조 L",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "Calibri",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "-윤고딕120-90%",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "SimSun",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "KoPubWorld돋움체 Bold",
+   "documents": 3,
+   "pct": 0.7
+  },
+  {
+   "face": "(한)문화방송",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "-윤고딕340",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "신명조확장둘",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "신명조\\,한컴돋움",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "Aptos Display",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "명조",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "가는둥근제목체",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "-윤고딕310",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "Yoon가변 윤고딕 110_TT",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "영화체",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "HY특견명조",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "Arial Narrow",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "KoPub바탕체 Bold",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "문체부 제목 돋음체",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "다음_Regular",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "산돌명조 L\\,한컴돋움",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "HYHeadLine M",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "나눔고딕",
+   "documents": 2,
+   "pct": 0.4
+  },
+  {
+   "face": "-윤명조350",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤명조320",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 견명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "산세리프",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "HCI Tulip",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "#세명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "나눔명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "바른공군체 Bold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "강한공군체 Bold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "경기천년바탕 Regular",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "맑은고딕",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KAI/KASB",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "나눔스퀘어 네오 ExtraBold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "나눔바른고딕",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "옥션고딕 B",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤고딕140",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KoPub바탕체 Medium",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "학교안심 바른돋움 R",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "NanumSquare",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "산돌고딕M",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "문화바탕제목",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Calibri \\(Body\\)",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "은 돋움",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "경기천년제목 Light",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KOHI나눔 Bold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KOHI나눔 Light",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "한양신명조\\,한컴돋움",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Helvetica Neue",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "문체부 바탕체",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "산돌고딕 M",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "한컴 훈민정음 가로쓰기",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 태고딕",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "신명 순명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Noto Sans CJK SC",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KoPubWorld바탕체 Light",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Microsoft YaHei",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Tahoma",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "D2Coding",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "MS Gothic",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "THE명품고딕B_U",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Yoon 윤명조 550_TT",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "휴먼신문명조",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "AppleSDGothicNeoR00",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Aptos Narrow",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "다음_SemiBold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "나눔스퀘어 ExtraBold",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Microsoft Sans Serif",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Traditional Arabic",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Arial Unicode MS",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "KoPubWorld바탕체 Medium",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "Noto Sans CJK DemiLight",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤고딕110-WinCharSetFFFF-H",
+   "documents": 1,
+   "pct": 0.2
+  },
+  {
+   "face": "-윤고딕110",
+   "documents": 1,
+   "pct": 0.2
+  }
+ ],
+ "substitutionPairs": [
+  {
+   "requested": "HY각헤드라인M",
+   "substituted": "한컴바탕",
+   "count": 1869
+  },
+  {
+   "requested": "-윤고딕220",
+   "substituted": "함초롬돋움",
+   "count": 1716
+  },
+  {
+   "requested": "휴먼명조",
+   "substituted": "한컴바탕",
+   "count": 387
+  },
+  {
+   "requested": "-윤고딕130",
+   "substituted": "한컴바탕",
+   "count": 384
+  },
+  {
+   "requested": "신명조■얒a",
+   "substituted": "한컴바탕",
+   "count": 274
+  },
+  {
+   "requested": "휴먼명조",
+   "substituted": "휴먼명조",
+   "count": 192
+  },
+  {
+   "requested": "-윤고딕220",
+   "substituted": "한컴바탕",
+   "count": 140
+  },
+  {
+   "requested": "KoPub돋움체 Bold",
+   "substituted": "한컴바탕",
+   "count": 100
+  },
+  {
+   "requested": "KoPub바탕체 Light",
+   "substituted": "한컴바탕",
+   "count": 87
+  },
+  {
+   "requested": "KoPub돋움체 Light",
+   "substituted": "한컴바탕",
+   "count": 82
+  },
+  {
+   "requested": "휴먼명조",
+   "substituted": "함초롬바탕",
+   "count": 78
+  },
+  {
+   "requested": "-윤명조120",
+   "substituted": "한컴바탕",
+   "count": 71
+  },
+  {
+   "requested": "HY중고딕",
+   "substituted": "한컴바탕",
+   "count": 60
+  },
+  {
+   "requested": "KoPub돋움체 Medium",
+   "substituted": "한컴바탕",
+   "count": 43
+  },
+  {
+   "requested": "-윤고딕120",
+   "substituted": "한컴바탕",
+   "count": 38
+  },
+  {
+   "requested": "한양중고딕",
+   "substituted": "한컴바탕",
+   "count": 36
+  },
+  {
+   "requested": "HCI Poppy",
+   "substituted": "한컴바탕",
+   "count": 29
+  },
+  {
+   "requested": "HY각헤드라인M",
+   "substituted": "함초롬바탕",
+   "count": 29
+  },
+  {
+   "requested": "해수체B",
+   "substituted": "한컴바탕",
+   "count": 28
+  },
+  {
+   "requested": "-윤고딕330",
+   "substituted": "한컴바탕",
+   "count": 27
+  },
+  {
+   "requested": "Arial TUR",
+   "substituted": "한컴바탕",
+   "count": 26
+  },
+  {
+   "requested": "KoPubWorld돋움체 Light",
+   "substituted": "한컴바탕",
+   "count": 24
+  },
+  {
+   "requested": "-윤고딕130",
+   "substituted": "함초롬바탕",
+   "count": 23
+  },
+  {
+   "requested": "신명조",
+   "substituted": "한컴바탕",
+   "count": 23
+  },
+  {
+   "requested": "중고딕",
+   "substituted": "한컴바탕",
+   "count": 20
+  },
+  {
+   "requested": "-윤명조310",
+   "substituted": "한컴바탕",
+   "count": 18
+  },
+  {
+   "requested": "Times New Roman",
+   "substituted": "한컴바탕",
+   "count": 18
+  },
+  {
+   "requested": "KoPubWorld돋움체 Bold",
+   "substituted": "한컴바탕",
+   "count": 18
+  },
+  {
+   "requested": "Noto Sans CJK KR",
+   "substituted": "한컴바탕",
+   "count": 16
+  },
+  {
+   "requested": "KoPub돋움체 Bold",
+   "substituted": "함초롬바탕",
+   "count": 15
+  },
+  {
+   "requested": "한양중고딕",
+   "substituted": "한양중고딕",
+   "count": 15
+  },
+  {
+   "requested": "산돌명조 L",
+   "substituted": "한컴바탕",
+   "count": 15
+  },
+  {
+   "requested": "-윤고딕220",
+   "substituted": "함초롬바탕",
+   "count": 14
+  },
+  {
+   "requested": "Arial-BoldMT",
+   "substituted": "한컴바탕",
+   "count": 14
+  },
+  {
+   "requested": "가는둥근제목체",
+   "substituted": "한컴바탕",
+   "count": 14
+  },
+  {
+   "requested": "다음_Regular",
+   "substituted": "한컴바탕",
+   "count": 14
+  },
+  {
+   "requested": "Aptos",
+   "substituted": "한컴바탕",
+   "count": 14
+  },
+  {
+   "requested": "KoPub바탕체 Light",
+   "substituted": "함초롬바탕",
+   "count": 13
+  },
+  {
+   "requested": "-윤고딕320",
+   "substituted": "한컴바탕",
+   "count": 12
+  },
+  {
+   "requested": "KoPub돋움체 Light",
+   "substituted": "함초롬바탕",
+   "count": 12
+  }
+ ]
+}
