@@ -9,6 +9,10 @@
 | `gov-doc-fonts_2026-09-24.json` | 공문서 HWPX 450건 (2026-09-21~23 사흘치) | 450 |
 | `gov-doc-fonts-stratified_2026-09-24.json` | **연도 층화 표본** 2010~2026년, HWP/HWPX 모두, 부처·게시일 포함 | 1,020 |
 | `gov-doc-trend_2026-09-24.json` | 위 표본의 연도별·부처별·폰트별 집계 | — |
+| `gov-doc-fonts-mois_2026-09-24.json` | **행정안전부 계보** 부처코드 A00031, 2010~2026년 연도당 25건 | 425 |
+| `gov-doc-fonts-actually_2026-09-24.json` | 보도참고·해명자료 | 44 |
+| `gov-doc-fonts-briefing_2026-09-24.json` | 브리핑 속기자료 | 9 |
+| `gov-doc-genre-agency_2026-09-24.json` | 장르별·행안부 계보 집계 | — |
 | `gov-doc-fonts_summary_2026-09-24.json` | 위 집계 — 폰트별 등장 문서 수, 대체 쌍 | — |
 | `mcf-metric-verification_2026-09-24.json` | MCF 7쌍의 advance width·수직 메트릭·윤곽선 대조 | 7 |
 | `mcf-pairs_2026-09-24.json` | 위 비교에 사용한 원본/MCF 파일 경로 | 7 |
