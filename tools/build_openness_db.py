@@ -8,8 +8,12 @@
   - 아래 KNOWN_FREE / RIGHTS_HOLDERS          공개 라이선스 문서로 확인한 것
 
 판정값
-  free        자유 라이선스가 확인됨 (OFL, Apache, 공공 무료배포 등)
-  proprietary 상용·독점 폰트임이 저작권 표시나 약관으로 확인됨
+  free        수정·재배포까지 자유 (OFL, Apache 등)
+  freeware    무료 사용과 임베딩이 허용되나 수정은 금지 (함초롬체, 한컴 서체,
+              문체부체, 지자체 배포 서체 등). 문서 재현 목적에는 충분하다
+  unlicensed  한컴이 "우리가 라이선스를 보유한 것은 아니다"라고 밝힌 Windows 기본
+              글꼴 9종. 권리 관계를 확인할 창구가 사용자에게 열려 있지 않다
+  proprietary 제품 내 사용으로 한정되는 상용 폰트
   unknown     판단 근거를 찾지 못함
 
 중요
@@ -76,7 +80,36 @@ COPYRIGHT_PATTERNS = [
     (r"monotype", "Monotype"),
 ]
 
-# 공개 라이선스 문서로 자유 이용이 확인된 폰트 (이름 접두 일치)
+# 무료 사용·임베딩이 허용되나 수정은 금지된 폰트.
+# 문서를 그대로 재현하는 데는 제약이 없으므로 개방성 판정에서는 재현 가능으로 본다.
+KNOWN_FREEWARE = {
+    "함초롬": ("한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. "
+             "수정·상업적 배포 금지",
+             "https://noonnu.cc/font_page/654"),
+    "한컴 산스": ("한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+                "https://font.hancom.com/pc/sub/sub3_1.php"),
+    "한컴 말랑말랑": ("한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+                  "https://font.hancom.com/pc/sub/sub3_1.php"),
+    "한컴 훈민정음": ("한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+                  "https://font.hancom.com/pc/sub/sub3_1.php"),
+    "한컴 울주": ("한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+                "https://font.hancom.com/pc/sub/sub3_1.php"),
+    "문체부": ("출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+             "https://www.happyjung.com/font/21"),
+    "경기천년": ("경기도 배포 무료 글꼴", "https://www.gg.go.kr/contents/contents.do?ciIdx=679"),
+    "전주 완판본": ("전주시 배포 무료 글꼴", "https://www.jeonju.go.kr/"),
+}
+
+# 한컴이 "라이선스를 보유한 것은 아니다"라고 명시한 Windows 기본 글꼴 9종
+# 출처: https://www.hancom.com/support/faqCenter/faq/detail/2681
+WINDOWS_BUNDLED = {
+    "굴림", "굴림체", "궁서", "궁서체", "돋움", "돋움체", "맑은 고딕", "바탕", "바탕체",
+}
+WINDOWS_NOTE = ("한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 "
+                "라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함")
+WINDOWS_SOURCE = "https://www.hancom.com/support/faqCenter/faq/detail/2681"
+
+# 수정·재배포까지 자유로운 폰트 (이름 접두 일치)
 KNOWN_FREE = {
     "나눔": ("SIL Open Font License 1.1", "https://hangeul.naver.com/font"),
     "본고딕": ("SIL Open Font License 1.1", "https://github.com/adobe-fonts/source-han-sans"),
@@ -120,11 +153,22 @@ def known_free(name):
     return None
 
 
+def known_freeware(name):
+    for prefix, (license_name, url) in KNOWN_FREEWARE.items():
+        if name and name.startswith(prefix):
+            return {"license": license_name, "source": url}
+    return None
+
+
+def windows_bundled(name):
+    return name in WINDOWS_BUNDLED
+
+
 def add(db, name, entry):
     """이름이 겹치면 판정 근거가 더 확실한 쪽을 남긴다."""
     if not name:
         return
-    rank = {"free": 2, "proprietary": 2, "unknown": 0}
+    rank = {"free": 3, "freeware": 3, "unlicensed": 3, "proprietary": 2, "unknown": 0}
     cur = db.get(name)
     if cur is None or rank[entry["status"]] > rank[cur["status"]]:
         db[name] = entry
@@ -139,6 +183,17 @@ def main():
             continue
         name = row.get("family") or ""
         lic = row.get("license") or ""
+        if windows_bundled(name):
+            add(db, name, {"status": "unlicensed", "note": WINDOWS_NOTE,
+                           "source": WINDOWS_SOURCE,
+                           "copyright": (row.get("copyright") or "")[:120]})
+            continue
+        ware = known_freeware(name)
+        if ware:
+            add(db, name, {"status": "freeware", "license": ware["license"],
+                           "source": ware["source"], "reproducible": True,
+                           "copyright": (row.get("copyright") or "")[:120]})
+            continue
         free = known_free(name)
         if free or FREE_LICENSE_RE.search(lic):
             add(db, name, {
@@ -170,6 +225,16 @@ def main():
         holder_key = classify_holder(row.get("copyright"), row.get("vendor"))
         for name in row.get("names") or []:
             if known_free(name):
+                continue
+            if windows_bundled(name):
+                add(db, name, {"status": "unlicensed", "note": WINDOWS_NOTE,
+                               "source": WINDOWS_SOURCE, "format": "HFT"})
+                continue
+            ware = known_freeware(name)
+            if ware:
+                add(db, name, {"status": "freeware", "license": ware["license"],
+                               "source": ware["source"], "reproducible": True,
+                               "format": "HFT"})
                 continue
             if holder_key:
                 meta = RIGHTS_HOLDERS[holder_key]
@@ -205,16 +270,22 @@ def main():
                 "source": (free or {}).get("source") or "폰트 파일 name ID 13",
             })
 
-    # 4. 명시적 자유 폰트 목록 (설치되어 있지 않아도 이름으로 판정)
+    # 4. 이름만으로 판정 가능한 목록 (설치되어 있지 않아도 적용)
     for prefix, (license_name, url) in KNOWN_FREE.items():
         add(db, prefix, {"status": "free", "license": license_name,
                          "source": url, "matchMode": "prefix"})
+    for prefix, (license_name, url) in KNOWN_FREEWARE.items():
+        add(db, prefix, {"status": "freeware", "license": license_name,
+                         "source": url, "reproducible": True, "matchMode": "prefix"})
+    for name in WINDOWS_BUNDLED:
+        add(db, name, {"status": "unlicensed", "note": WINDOWS_NOTE,
+                       "source": WINDOWS_SOURCE})
 
     out = {
         "generated": "2026-09-24",
         "note": "이 DB는 위법 여부를 판정하지 않는다. 확인된 라이선스 상태와 "
                 "권리자 약관의 조항 유무를 기록한 것이다.",
-        "prefixRules": sorted(KNOWN_FREE),
+        "prefixRules": sorted(set(KNOWN_FREE) | set(KNOWN_FREEWARE)),
         "fonts": dict(sorted(db.items())),
     }
     json.dump(out, sys.stdout, ensure_ascii=False, indent=1)
