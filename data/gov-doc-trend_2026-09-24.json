@@ -1,0 +1,1845 @@
+{
+ "generated": "2026-09-24",
+ "documents": 1020,
+ "sampling": {
+  "years": [
+   2010,
+   2011,
+   2012,
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2020,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025,
+   2026
+  ],
+  "weeksPerYear": 8,
+  "targetPerYear": 60,
+  "note": "연도별 층화 표본. 각 연도에서 달마다 흩어진 주를 골라 수집"
+ },
+ "byYear": [
+  {
+   "year": 2010,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 0.1,
+   "meanFontCount": 13.1,
+   "withSubstitution": 28
+  },
+  {
+   "year": 2011,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 0.0,
+   "meanFontCount": 14.6,
+   "withSubstitution": 28
+  },
+  {
+   "year": 2012,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 0.5,
+   "meanFontCount": 16,
+   "withSubstitution": 26
+  },
+  {
+   "year": 2013,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 0.9,
+   "meanFontCount": 15.7,
+   "withSubstitution": 36
+  },
+  {
+   "year": 2014,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 3.9,
+   "meanFontCount": 17.1,
+   "withSubstitution": 36
+  },
+  {
+   "year": 2015,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 3.5,
+   "meanFontCount": 15.3,
+   "withSubstitution": 31
+  },
+  {
+   "year": 2016,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 4.3,
+   "meanFontCount": 18.7,
+   "withSubstitution": 41
+  },
+  {
+   "year": 2017,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 6.0,
+   "meanFontCount": 15.8,
+   "withSubstitution": 42
+  },
+  {
+   "year": 2018,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 8.2,
+   "meanFontCount": 17.4,
+   "withSubstitution": 35
+  },
+  {
+   "year": 2019,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 7.4,
+   "meanFontCount": 17.4,
+   "withSubstitution": 40
+  },
+  {
+   "year": 2020,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 12.2,
+   "meanFontCount": 15.8,
+   "withSubstitution": 33
+  },
+  {
+   "year": 2021,
+   "documents": 60,
+   "hwp": 60,
+   "hwpx": 0,
+   "meanScore": 12.4,
+   "meanFontCount": 18.6,
+   "withSubstitution": 37
+  },
+  {
+   "year": 2022,
+   "documents": 60,
+   "hwp": 48,
+   "hwpx": 12,
+   "meanScore": 12.4,
+   "meanFontCount": 18.9,
+   "withSubstitution": 37
+  },
+  {
+   "year": 2023,
+   "documents": 60,
+   "hwp": 15,
+   "hwpx": 45,
+   "meanScore": 13.3,
+   "meanFontCount": 19.5,
+   "withSubstitution": 45
+  },
+  {
+   "year": 2024,
+   "documents": 60,
+   "hwp": 12,
+   "hwpx": 48,
+   "meanScore": 13.6,
+   "meanFontCount": 22.6,
+   "withSubstitution": 49
+  },
+  {
+   "year": 2025,
+   "documents": 60,
+   "hwp": 12,
+   "hwpx": 48,
+   "meanScore": 13.6,
+   "meanFontCount": 22.6,
+   "withSubstitution": 53
+  },
+  {
+   "year": 2026,
+   "documents": 60,
+   "hwp": 29,
+   "hwpx": 31,
+   "meanScore": 13.8,
+   "meanFontCount": 22.5,
+   "withSubstitution": 51
+  }
+ ],
+ "fontTrend": {
+  "함초롬바탕": [
+   {
+    "year": 2010,
+    "pct": 0
+   },
+   {
+    "year": 2011,
+    "pct": 0
+   },
+   {
+    "year": 2012,
+    "pct": 3
+   },
+   {
+    "year": 2013,
+    "pct": 3
+   },
+   {
+    "year": 2014,
+    "pct": 20
+   },
+   {
+    "year": 2015,
+    "pct": 25
+   },
+   {
+    "year": 2016,
+    "pct": 38
+   },
+   {
+    "year": 2017,
+    "pct": 43
+   },
+   {
+    "year": 2018,
+    "pct": 52
+   },
+   {
+    "year": 2019,
+    "pct": 52
+   },
+   {
+    "year": 2020,
+    "pct": 65
+   },
+   {
+    "year": 2021,
+    "pct": 80
+   },
+   {
+    "year": 2022,
+    "pct": 80
+   },
+   {
+    "year": 2023,
+    "pct": 93
+   },
+   {
+    "year": 2024,
+    "pct": 100
+   },
+   {
+    "year": 2025,
+    "pct": 98
+   },
+   {
+    "year": 2026,
+    "pct": 100
+   }
+  ],
+  "함초롬돋움": [
+   {
+    "year": 2010,
+    "pct": 0
+   },
+   {
+    "year": 2011,
+    "pct": 0
+   },
+   {
+    "year": 2012,
+    "pct": 3
+   },
+   {
+    "year": 2013,
+    "pct": 3
+   },
+   {
+    "year": 2014,
+    "pct": 18
+   },
+   {
+    "year": 2015,
+    "pct": 23
+   },
+   {
+    "year": 2016,
+    "pct": 22
+   },
+   {
+    "year": 2017,
+    "pct": 32
+   },
+   {
+    "year": 2018,
+    "pct": 43
+   },
+   {
+    "year": 2019,
+    "pct": 40
+   },
+   {
+    "year": 2020,
+    "pct": 63
+   },
+   {
+    "year": 2021,
+    "pct": 63
+   },
+   {
+    "year": 2022,
+    "pct": 53
+   },
+   {
+    "year": 2023,
+    "pct": 40
+   },
+   {
+    "year": 2024,
+    "pct": 100
+   },
+   {
+    "year": 2025,
+    "pct": 98
+   },
+   {
+    "year": 2026,
+    "pct": 98
+   }
+  ],
+  "굴림": [
+   {
+    "year": 2010,
+    "pct": 92
+   },
+   {
+    "year": 2011,
+    "pct": 93
+   },
+   {
+    "year": 2012,
+    "pct": 93
+   },
+   {
+    "year": 2013,
+    "pct": 95
+   },
+   {
+    "year": 2014,
+    "pct": 90
+   },
+   {
+    "year": 2015,
+    "pct": 82
+   },
+   {
+    "year": 2016,
+    "pct": 80
+   },
+   {
+    "year": 2017,
+    "pct": 80
+   },
+   {
+    "year": 2018,
+    "pct": 50
+   },
+   {
+    "year": 2019,
+    "pct": 65
+   },
+   {
+    "year": 2020,
+    "pct": 60
+   },
+   {
+    "year": 2021,
+    "pct": 62
+   },
+   {
+    "year": 2022,
+    "pct": 62
+   },
+   {
+    "year": 2023,
+    "pct": 67
+   },
+   {
+    "year": 2024,
+    "pct": 85
+   },
+   {
+    "year": 2025,
+    "pct": 77
+   },
+   {
+    "year": 2026,
+    "pct": 82
+   }
+  ],
+  "돋움체": [
+   {
+    "year": 2010,
+    "pct": 2
+   },
+   {
+    "year": 2011,
+    "pct": 3
+   },
+   {
+    "year": 2012,
+    "pct": 2
+   },
+   {
+    "year": 2013,
+    "pct": 3
+   },
+   {
+    "year": 2014,
+    "pct": 3
+   },
+   {
+    "year": 2015,
+    "pct": 5
+   },
+   {
+    "year": 2016,
+    "pct": 13
+   },
+   {
+    "year": 2017,
+    "pct": 5
+   },
+   {
+    "year": 2018,
+    "pct": 13
+   },
+   {
+    "year": 2019,
+    "pct": 17
+   },
+   {
+    "year": 2020,
+    "pct": 8
+   },
+   {
+    "year": 2021,
+    "pct": 13
+   },
+   {
+    "year": 2022,
+    "pct": 37
+   },
+   {
+    "year": 2023,
+    "pct": 82
+   },
+   {
+    "year": 2024,
+    "pct": 95
+   },
+   {
+    "year": 2025,
+    "pct": 100
+   },
+   {
+    "year": 2026,
+    "pct": 98
+   }
+  ],
+  "맑은 고딕": [
+   {
+    "year": 2010,
+    "pct": 28
+   },
+   {
+    "year": 2011,
+    "pct": 37
+   },
+   {
+    "year": 2012,
+    "pct": 37
+   },
+   {
+    "year": 2013,
+    "pct": 43
+   },
+   {
+    "year": 2014,
+    "pct": 60
+   },
+   {
+    "year": 2015,
+    "pct": 47
+   },
+   {
+    "year": 2016,
+    "pct": 88
+   },
+   {
+    "year": 2017,
+    "pct": 77
+   },
+   {
+    "year": 2018,
+    "pct": 85
+   },
+   {
+    "year": 2019,
+    "pct": 87
+   },
+   {
+    "year": 2020,
+    "pct": 95
+   },
+   {
+    "year": 2021,
+    "pct": 93
+   },
+   {
+    "year": 2022,
+    "pct": 97
+   },
+   {
+    "year": 2023,
+    "pct": 87
+   },
+   {
+    "year": 2024,
+    "pct": 93
+   },
+   {
+    "year": 2025,
+    "pct": 88
+   },
+   {
+    "year": 2026,
+    "pct": 95
+   }
+  ],
+  "휴먼명조": [
+   {
+    "year": 2010,
+    "pct": 93
+   },
+   {
+    "year": 2011,
+    "pct": 88
+   },
+   {
+    "year": 2012,
+    "pct": 97
+   },
+   {
+    "year": 2013,
+    "pct": 100
+   },
+   {
+    "year": 2014,
+    "pct": 98
+   },
+   {
+    "year": 2015,
+    "pct": 98
+   },
+   {
+    "year": 2016,
+    "pct": 100
+   },
+   {
+    "year": 2017,
+    "pct": 100
+   },
+   {
+    "year": 2018,
+    "pct": 98
+   },
+   {
+    "year": 2019,
+    "pct": 100
+   },
+   {
+    "year": 2020,
+    "pct": 100
+   },
+   {
+    "year": 2021,
+    "pct": 100
+   },
+   {
+    "year": 2022,
+    "pct": 100
+   },
+   {
+    "year": 2023,
+    "pct": 100
+   },
+   {
+    "year": 2024,
+    "pct": 100
+   },
+   {
+    "year": 2025,
+    "pct": 100
+   },
+   {
+    "year": 2026,
+    "pct": 100
+   }
+  ],
+  "한양신명조": [
+   {
+    "year": 2010,
+    "pct": 100
+   },
+   {
+    "year": 2011,
+    "pct": 98
+   },
+   {
+    "year": 2012,
+    "pct": 98
+   },
+   {
+    "year": 2013,
+    "pct": 98
+   },
+   {
+    "year": 2014,
+    "pct": 98
+   },
+   {
+    "year": 2015,
+    "pct": 98
+   },
+   {
+    "year": 2016,
+    "pct": 100
+   },
+   {
+    "year": 2017,
+    "pct": 98
+   },
+   {
+    "year": 2018,
+    "pct": 100
+   },
+   {
+    "year": 2019,
+    "pct": 100
+   },
+   {
+    "year": 2020,
+    "pct": 100
+   },
+   {
+    "year": 2021,
+    "pct": 100
+   },
+   {
+    "year": 2022,
+    "pct": 98
+   },
+   {
+    "year": 2023,
+    "pct": 100
+   },
+   {
+    "year": 2024,
+    "pct": 100
+   },
+   {
+    "year": 2025,
+    "pct": 100
+   },
+   {
+    "year": 2026,
+    "pct": 100
+   }
+  ],
+  "명조": [
+   {
+    "year": 2010,
+    "pct": 100
+   },
+   {
+    "year": 2011,
+    "pct": 98
+   },
+   {
+    "year": 2012,
+    "pct": 98
+   },
+   {
+    "year": 2013,
+    "pct": 98
+   },
+   {
+    "year": 2014,
+    "pct": 98
+   },
+   {
+    "year": 2015,
+    "pct": 98
+   },
+   {
+    "year": 2016,
+    "pct": 100
+   },
+   {
+    "year": 2017,
+    "pct": 98
+   },
+   {
+    "year": 2018,
+    "pct": 100
+   },
+   {
+    "year": 2019,
+    "pct": 100
+   },
+   {
+    "year": 2020,
+    "pct": 100
+   },
+   {
+    "year": 2021,
+    "pct": 100
+   },
+   {
+    "year": 2022,
+    "pct": 97
+   },
+   {
+    "year": 2023,
+    "pct": 98
+   },
+   {
+    "year": 2024,
+    "pct": 100
+   },
+   {
+    "year": 2025,
+    "pct": 100
+   },
+   {
+    "year": 2026,
+    "pct": 100
+   }
+  ],
+  "HY헤드라인M": [
+   {
+    "year": 2010,
+    "pct": 73
+   },
+   {
+    "year": 2011,
+    "pct": 77
+   },
+   {
+    "year": 2012,
+    "pct": 83
+   },
+   {
+    "year": 2013,
+    "pct": 93
+   },
+   {
+    "year": 2014,
+    "pct": 90
+   },
+   {
+    "year": 2015,
+    "pct": 90
+   },
+   {
+    "year": 2016,
+    "pct": 92
+   },
+   {
+    "year": 2017,
+    "pct": 85
+   },
+   {
+    "year": 2018,
+    "pct": 92
+   },
+   {
+    "year": 2019,
+    "pct": 97
+   },
+   {
+    "year": 2020,
+    "pct": 97
+   },
+   {
+    "year": 2021,
+    "pct": 97
+   },
+   {
+    "year": 2022,
+    "pct": 93
+   },
+   {
+    "year": 2023,
+    "pct": 98
+   },
+   {
+    "year": 2024,
+    "pct": 88
+   },
+   {
+    "year": 2025,
+    "pct": 88
+   },
+   {
+    "year": 2026,
+    "pct": 92
+   }
+  ],
+  "한컴바탕": [
+   {
+    "year": 2010,
+    "pct": 18
+   },
+   {
+    "year": 2011,
+    "pct": 33
+   },
+   {
+    "year": 2012,
+    "pct": 57
+   },
+   {
+    "year": 2013,
+    "pct": 53
+   },
+   {
+    "year": 2014,
+    "pct": 63
+   },
+   {
+    "year": 2015,
+    "pct": 50
+   },
+   {
+    "year": 2016,
+    "pct": 87
+   },
+   {
+    "year": 2017,
+    "pct": 62
+   },
+   {
+    "year": 2018,
+    "pct": 72
+   },
+   {
+    "year": 2019,
+    "pct": 72
+   },
+   {
+    "year": 2020,
+    "pct": 72
+   },
+   {
+    "year": 2021,
+    "pct": 77
+   },
+   {
+    "year": 2022,
+    "pct": 65
+   },
+   {
+    "year": 2023,
+    "pct": 73
+   },
+   {
+    "year": 2024,
+    "pct": 90
+   },
+   {
+    "year": 2025,
+    "pct": 83
+   },
+   {
+    "year": 2026,
+    "pct": 85
+   }
+  ],
+  "나눔고딕": [
+   {
+    "year": 2010,
+    "pct": 0
+   },
+   {
+    "year": 2011,
+    "pct": 0
+   },
+   {
+    "year": 2012,
+    "pct": 0
+   },
+   {
+    "year": 2013,
+    "pct": 2
+   },
+   {
+    "year": 2014,
+    "pct": 0
+   },
+   {
+    "year": 2015,
+    "pct": 0
+   },
+   {
+    "year": 2016,
+    "pct": 3
+   },
+   {
+    "year": 2017,
+    "pct": 3
+   },
+   {
+    "year": 2018,
+    "pct": 0
+   },
+   {
+    "year": 2019,
+    "pct": 5
+   },
+   {
+    "year": 2020,
+    "pct": 2
+   },
+   {
+    "year": 2021,
+    "pct": 7
+   },
+   {
+    "year": 2022,
+    "pct": 5
+   },
+   {
+    "year": 2023,
+    "pct": 2
+   },
+   {
+    "year": 2024,
+    "pct": 0
+   },
+   {
+    "year": 2025,
+    "pct": 5
+   },
+   {
+    "year": 2026,
+    "pct": 5
+   }
+  ],
+  "KoPub돋움체 Bold": [
+   {
+    "year": 2010,
+    "pct": 0
+   },
+   {
+    "year": 2011,
+    "pct": 0
+   },
+   {
+    "year": 2012,
+    "pct": 0
+   },
+   {
+    "year": 2013,
+    "pct": 0
+   },
+   {
+    "year": 2014,
+    "pct": 0
+   },
+   {
+    "year": 2015,
+    "pct": 0
+   },
+   {
+    "year": 2016,
+    "pct": 0
+   },
+   {
+    "year": 2017,
+    "pct": 0
+   },
+   {
+    "year": 2018,
+    "pct": 0
+   },
+   {
+    "year": 2019,
+    "pct": 0
+   },
+   {
+    "year": 2020,
+    "pct": 2
+   },
+   {
+    "year": 2021,
+    "pct": 2
+   },
+   {
+    "year": 2022,
+    "pct": 2
+   },
+   {
+    "year": 2023,
+    "pct": 2
+   },
+   {
+    "year": 2024,
+    "pct": 0
+   },
+   {
+    "year": 2025,
+    "pct": 2
+   },
+   {
+    "year": 2026,
+    "pct": 2
+   }
+  ]
+ },
+ "byAgency": [
+  {
+   "agency": "국토교통부",
+   "documents": 65,
+   "meanScore": 8.7,
+   "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "외교부",
+   "documents": 61,
+   "meanScore": 11.4,
+   "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "고용노동부",
+   "documents": 51,
+   "meanScore": 7.8,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "농림축산식품부",
+   "documents": 51,
+   "meanScore": 7.2,
+   "years": [
+    2014,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "보건복지부",
+   "documents": 45,
+   "meanScore": 6.2,
+   "years": [
+    2010,
+    2011,
+    2013,
+    2014,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "행정안전부",
+   "documents": 40,
+   "meanScore": 7.4,
+   "years": [
+    2011,
+    2012,
+    2013,
+    2018,
+    2019,
+    2020,
+    2021,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "농림수산식품부",
+   "documents": 39,
+   "meanScore": 0.2,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  {
+   "agency": "환경부",
+   "documents": 36,
+   "meanScore": 5.5,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ]
+  },
+  {
+   "agency": "미래창조과학부",
+   "documents": 35,
+   "meanScore": 6.4,
+   "years": [
+    2014,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  {
+   "agency": "산업통상자원부",
+   "documents": 34,
+   "meanScore": 9.0,
+   "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+   ]
+  },
+  {
+   "agency": "기획재정부",
+   "documents": 32,
+   "meanScore": 4.0,
+   "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2018,
+    2019,
+    2020,
+    2022,
+    2023
+   ]
+  },
+  {
+   "agency": "농촌진흥청",
+   "documents": 30,
+   "meanScore": 13.3,
+   "years": [
+    2014,
+    2015,
+    2019,
+    2020,
+    2021,
+    2023,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "과학기술정보통신부",
+   "documents": 30,
+   "meanScore": 18.9,
+   "years": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2026
+   ]
+  },
+  {
+   "agency": "문화체육관광부",
+   "documents": 28,
+   "meanScore": 8.8,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2014,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+   ]
+  },
+  {
+   "agency": "공정거래위원회",
+   "documents": 25,
+   "meanScore": 9.0,
+   "years": [
+    2010,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2020,
+    2021,
+    2022,
+    2024,
+    2025
+   ]
+  },
+  {
+   "agency": "국토해양부",
+   "documents": 23,
+   "meanScore": 0.5,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  {
+   "agency": "금융위원회",
+   "documents": 22,
+   "meanScore": 1.0,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+   ]
+  },
+  {
+   "agency": "해양수산부",
+   "documents": 21,
+   "meanScore": 6.5,
+   "years": [
+    2014,
+    2015,
+    2017,
+    2018,
+    2019,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "국무조정실",
+   "documents": 20,
+   "meanScore": 13.6,
+   "years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2023,
+    2024,
+    2026
+   ]
+  },
+  {
+   "agency": "경찰청",
+   "documents": 18,
+   "meanScore": 7.8,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2016,
+    2017,
+    2018,
+    2022,
+    2023,
+    2024
+   ]
+  },
+  {
+   "agency": "법무부",
+   "documents": 18,
+   "meanScore": 7.5,
+   "years": [
+    2012,
+    2013,
+    2014,
+    2015,
+    2018,
+    2021,
+    2022,
+    2023,
+    2024,
+    2026
+   ]
+  },
+  {
+   "agency": "중소벤처기업부",
+   "documents": 18,
+   "meanScore": 14.7,
+   "years": [
+    2020,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "산림청",
+   "documents": 17,
+   "meanScore": 10.4,
+   "years": [
+    2010,
+    2012,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "국민권익위원회",
+   "documents": 17,
+   "meanScore": 3.3,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2014,
+    2015,
+    2021,
+    2023,
+    2024,
+    2025
+   ]
+  },
+  {
+   "agency": "방송통신위원회",
+   "documents": 17,
+   "meanScore": 1.3,
+   "years": [
+    2011,
+    2012,
+    2013,
+    2018,
+    2020,
+    2024
+   ]
+  },
+  {
+   "agency": "국방부",
+   "documents": 16,
+   "meanScore": 6.5,
+   "years": [
+    2011,
+    2012,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2022,
+    2023,
+    2024
+   ]
+  },
+  {
+   "agency": "방위사업청",
+   "documents": 13,
+   "meanScore": 8.0,
+   "years": [
+    2010,
+    2013,
+    2014,
+    2022,
+    2024,
+    2025
+   ]
+  },
+  {
+   "agency": "조달청",
+   "documents": 12,
+   "meanScore": 5.3,
+   "years": [
+    2011,
+    2013,
+    2014,
+    2016,
+    2017,
+    2019,
+    2020,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "해양경찰청",
+   "documents": 12,
+   "meanScore": 13.1,
+   "years": [
+    2018,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2026
+   ]
+  },
+  {
+   "agency": "행정중심복합도시건설청",
+   "documents": 11,
+   "meanScore": 5.1,
+   "years": [
+    2013,
+    2015,
+    2016,
+    2017,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "교육부",
+   "documents": 11,
+   "meanScore": 6.9,
+   "years": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2019,
+    2020,
+    2021
+   ]
+  },
+  {
+   "agency": "관세청",
+   "documents": 10,
+   "meanScore": 12.1,
+   "years": [
+    2017,
+    2018,
+    2022,
+    2023,
+    2024,
+    2025
+   ]
+  },
+  {
+   "agency": "국세청",
+   "documents": 9,
+   "meanScore": 8.5,
+   "years": [
+    2011,
+    2013,
+    2021,
+    2023,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "국민안전처",
+   "documents": 9,
+   "meanScore": 8.2,
+   "years": [
+    2015,
+    2016,
+    2017
+   ]
+  },
+  {
+   "agency": "외교통상부",
+   "documents": 8,
+   "meanScore": 0.0,
+   "years": [
+    2010,
+    2011,
+    2012
+   ]
+  },
+  {
+   "agency": "통일부",
+   "documents": 8,
+   "meanScore": 1.5,
+   "years": [
+    2011,
+    2013,
+    2015,
+    2019,
+    2024
+   ]
+  },
+  {
+   "agency": "문화재청",
+   "documents": 8,
+   "meanScore": 0.8,
+   "years": [
+    2012,
+    2015,
+    2016,
+    2017
+   ]
+  },
+  {
+   "agency": "소방청",
+   "documents": 8,
+   "meanScore": 12.4,
+   "years": [
+    2018,
+    2019,
+    2020,
+    2024,
+    2025,
+    2026
+   ]
+  },
+  {
+   "agency": "행정자치부",
+   "documents": 7,
+   "meanScore": 8.7,
+   "years": [
+    2015,
+    2016,
+    2017
+   ]
+  },
+  {
+   "agency": "인사혁신처",
+   "documents": 7,
+   "meanScore": 11.9,
+   "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2021
+   ]
+  },
+  {
+   "agency": "질병관리청",
+   "documents": 7,
+   "meanScore": 13.4,
+   "years": [
+    2021,
+    2022,
+    2023
+   ]
+  },
+  {
+   "agency": "지식경제부",
+   "documents": 6,
+   "meanScore": 0.0,
+   "years": [
+    2010,
+    2011
+   ]
+  },
+  {
+   "agency": "교육과학기술부",
+   "documents": 6,
+   "meanScore": 0.0,
+   "years": [
+    2010,
+    2011,
+    2012,
+    2013
+   ]
+  },
+  {
+   "agency": "원자력안전위원회",
+   "documents": 6,
+   "meanScore": 5.0,
+   "years": [
+    2013,
+    2014,
+    2017,
+    2020,
+    2022,
+    2025
+   ]
+  },
+  {
+   "agency": "통계청",
+   "documents": 5,
+   "meanScore": 0.0,
+   "years": [
+    2010,
+    2011,
+    2014,
+    2015
+   ]
+  },
+  {
+   "agency": "특허청",
+   "documents": 5,
+   "meanScore": 4.0,
+   "years": [
+    2010,
+    2014,
+    2025
+   ]
+  },
+  {
+   "agency": "병무청",
+   "documents": 5,
+   "meanScore": 0.0,
+   "years": [
+    2012,
+    2014,
+    2015,
+    2020,
+    2022
+   ]
+  },
+  {
+   "agency": "국가보훈처",
+   "documents": 5,
+   "meanScore": 0.0,
+   "years": [
+    2012,
+    2017,
+    2019,
+    2021
+   ]
+  },
+  {
+   "agency": "소방방재청",
+   "documents": 4,
+   "meanScore": 0.0,
+   "years": [
+    2010,
+    2011,
+    2013
+   ]
+  },
+  {
+   "agency": "감사원",
+   "documents": 4,
+   "meanScore": 0.0,
+   "years": [
+    2010,
+    2013,
+    2014,
+    2015
+   ]
+  },
+  {
+   "agency": "새만금개발청",
+   "documents": 4,
+   "meanScore": 11.9,
+   "years": [
+    2017,
+    2024
+   ]
+  },
+  {
+   "agency": "식품의약품안전청",
+   "documents": 3,
+   "meanScore": 0.0,
+   "years": [
+    2011,
+    2012,
+    2013
+   ]
+  },
+  {
+   "agency": "기상청",
+   "documents": 3,
+   "meanScore": 5.6,
+   "years": [
+    2011,
+    2014
+   ]
+  },
+  {
+   "agency": "안전행정부",
+   "documents": 3,
+   "meanScore": 0.0,
+   "years": [
+    2014
+   ]
+  },
+  {
+   "agency": "중소기업청",
+   "documents": 3,
+   "meanScore": 10.0,
+   "years": [
+    2017
+   ]
+  },
+  {
+   "agency": "식품의약품안전처",
+   "documents": 2,
+   "meanScore": 0.0,
+   "years": [
+    2014,
+    2015
+   ]
+  },
+  {
+   "agency": "법제처",
+   "documents": 1,
+   "meanScore": 0.0,
+   "years": [
+    2011
+   ]
+  },
+  {
+   "agency": "국민통합위원회",
+   "documents": 1,
+   "meanScore": 18.2,
+   "years": [
+    2025
+   ]
+  },
+  {
+   "agency": "재외동포청",
+   "documents": 1,
+   "meanScore": 8.3,
+   "years": [
+    2025
+   ]
+  },
+  {
+   "agency": "개인정보보호위원회",
+   "documents": 1,
+   "meanScore": 24.0,
+   "years": [
+    2026
+   ]
+  },
+  {
+   "agency": "경제사회노동위원회",
+   "documents": 1,
+   "meanScore": 6.7,
+   "years": [
+    2026
+   ]
+  },
+  {
+   "agency": "산업통상부",
+   "documents": 1,
+   "meanScore": 16.7,
+   "years": [
+    2026
+   ]
+  },
+  {
+   "agency": "기획예산처",
+   "documents": 1,
+   "meanScore": 12.0,
+   "years": [
+    2026
+   ]
+  }
+ ]
+}
