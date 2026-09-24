@@ -1,0 +1,275 @@
+{
+ "generated": "2026-09-24",
+ "genres": [
+  {
+   "genre": "보도자료 (2014~2026)",
+   "documents": 780,
+   "meanScore": 9.6,
+   "meanFontCount": 18.6,
+   "withSubstitutionPct": 68,
+   "topFonts": [
+    {
+     "font": "휴먼명조",
+     "pct": 100
+    },
+    {
+     "font": "한양신명조",
+     "pct": 99
+    },
+    {
+     "font": "명조",
+     "pct": 99
+    },
+    {
+     "font": "HCI Poppy",
+     "pct": 99
+    },
+    {
+     "font": "HY헤드라인M",
+     "pct": 92
+    },
+    {
+     "font": "맑은 고딕",
+     "pct": 84
+    },
+    {
+     "font": "바탕",
+     "pct": 77
+    },
+    {
+     "font": "한컴바탕",
+     "pct": 73
+    },
+    {
+     "font": "굴림",
+     "pct": 72
+    },
+    {
+     "font": "한양중고딕",
+     "pct": 70
+    }
+   ]
+  },
+  {
+   "genre": "보도참고·해명자료",
+   "documents": 44,
+   "meanScore": 12.5,
+   "meanFontCount": 20.7,
+   "withSubstitutionPct": 75,
+   "topFonts": [
+    {
+     "font": "HCI Poppy",
+     "pct": 100
+    },
+    {
+     "font": "명조",
+     "pct": 100
+    },
+    {
+     "font": "휴먼명조",
+     "pct": 100
+    },
+    {
+     "font": "한양신명조",
+     "pct": 100
+    },
+    {
+     "font": "맑은 고딕",
+     "pct": 93
+    },
+    {
+     "font": "바탕",
+     "pct": 91
+    },
+    {
+     "font": "함초롬바탕",
+     "pct": 91
+    },
+    {
+     "font": "HY헤드라인M",
+     "pct": 84
+    },
+    {
+     "font": "함초롬돋움",
+     "pct": 77
+    },
+    {
+     "font": "굴림",
+     "pct": 77
+    }
+   ]
+  },
+  {
+   "genre": "브리핑 속기자료",
+   "documents": 9,
+   "meanScore": 0.0,
+   "meanFontCount": 8,
+   "withSubstitutionPct": 89,
+   "topFonts": [
+    {
+     "font": "한양중고딕",
+     "pct": 100
+    },
+    {
+     "font": "명조",
+     "pct": 100
+    },
+    {
+     "font": "굴림",
+     "pct": 100
+    },
+    {
+     "font": "바탕",
+     "pct": 100
+    },
+    {
+     "font": "HY헤드라인M",
+     "pct": 100
+    },
+    {
+     "font": "휴먼명조",
+     "pct": 100
+    },
+    {
+     "font": "한양신명조",
+     "pct": 100
+    },
+    {
+     "font": "HCI Poppy",
+     "pct": 100
+    }
+   ]
+  },
+  {
+   "genre": "법정 별지서식 (국가연구개발혁신법)",
+   "documents": 7,
+   "meanScore": 16.8,
+   "meanFontCount": 12.6,
+   "withSubstitutionPct": 0,
+   "source": "https://posep.org/mist_community/2898"
+  }
+ ],
+ "moisLineage": {
+  "documents": 425,
+  "agencyNames": {
+   "행정안전부": 315,
+   "안전행정부": 35,
+   "국민안전처": 42,
+   "행정자치부": 33
+  },
+  "meanScore": 7.8,
+  "overallMeanScore": 7.4,
+  "byYear": [
+   {
+    "year": 2010,
+    "documents": 25,
+    "moisScore": 0.0,
+    "overallScore": 0.1
+   },
+   {
+    "year": 2011,
+    "documents": 25,
+    "moisScore": 0.7,
+    "overallScore": 0.0
+   },
+   {
+    "year": 2012,
+    "documents": 25,
+    "moisScore": 3.0,
+    "overallScore": 0.5
+   },
+   {
+    "year": 2013,
+    "documents": 25,
+    "moisScore": 2.3,
+    "overallScore": 0.9
+   },
+   {
+    "year": 2014,
+    "documents": 25,
+    "moisScore": 4.1,
+    "overallScore": 3.9
+   },
+   {
+    "year": 2015,
+    "documents": 25,
+    "moisScore": 6.0,
+    "overallScore": 3.5
+   },
+   {
+    "year": 2016,
+    "documents": 25,
+    "moisScore": 9.9,
+    "overallScore": 4.3
+   },
+   {
+    "year": 2017,
+    "documents": 25,
+    "moisScore": 9.0,
+    "overallScore": 6.0
+   },
+   {
+    "year": 2018,
+    "documents": 25,
+    "moisScore": 9.3,
+    "overallScore": 8.2
+   },
+   {
+    "year": 2019,
+    "documents": 25,
+    "moisScore": 9.2,
+    "overallScore": 7.4
+   },
+   {
+    "year": 2020,
+    "documents": 25,
+    "moisScore": 10.3,
+    "overallScore": 12.2
+   },
+   {
+    "year": 2021,
+    "documents": 25,
+    "moisScore": 11.6,
+    "overallScore": 12.4
+   },
+   {
+    "year": 2022,
+    "documents": 25,
+    "moisScore": 8.9,
+    "overallScore": 12.4
+   },
+   {
+    "year": 2023,
+    "documents": 25,
+    "moisScore": 7.9,
+    "overallScore": 13.3
+   },
+   {
+    "year": 2024,
+    "documents": 25,
+    "moisScore": 12.2,
+    "overallScore": 13.6
+   },
+   {
+    "year": 2025,
+    "documents": 25,
+    "moisScore": 15.3,
+    "overallScore": 13.6
+   },
+   {
+    "year": 2026,
+    "documents": 25,
+    "moisScore": 12.9,
+    "overallScore": 13.8
+   }
+  ],
+  "annexFontUsagePct": {
+   "돋움체": 36,
+   "맑은 고딕": 75,
+   "HY견고딕": 11,
+   "한양견고딕": 18,
+   "함초롬바탕": 59,
+   "굴림": 82
+  }
+ }
+}
