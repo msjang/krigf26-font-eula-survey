@@ -1,0 +1,488 @@
+[
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationMono-Bold.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Mono",
+  "full": "Liberation Mono Bold",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationMono-BoldItalic.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Mono",
+  "full": "Liberation Mono Bold Italic",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationMono-Italic.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Mono",
+  "full": "Liberation Mono Italic",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationMono-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Mono",
+  "full": "Liberation Mono",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSans-Bold.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Sans",
+  "full": "Liberation Sans Bold",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSans-BoldItalic.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Sans",
+  "full": "Liberation Sans Bold Italic",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSans-Italic.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Sans",
+  "full": "Liberation Sans Italic",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSans-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Sans",
+  "full": "Liberation Sans",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSerif-Bold.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Serif",
+  "full": "Liberation Serif Bold",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSerif-BoldItalic.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Serif",
+  "full": "Liberation Serif Bold Italic",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSerif-Italic.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Serif",
+  "full": "Liberation Serif Italic",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Liberation (MCF)",
+  "file": "LiberationSerif-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/liberation",
+  "family": "Liberation Serif",
+  "full": "Liberation Serif",
+  "version": "Version 2.1.5",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation. Copyright (c) 2012 Red Hat, Inc.",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "license": "Licensed under the SIL Open Font License, Version 1.1",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Carlito (MCF)",
+  "file": "Carlito-Bold.ttf",
+  "dir": "/tmp/ossfonts/ext/carlito/carlito-main/fonts/ttf",
+  "family": "Carlito",
+  "full": "Carlito Bold",
+  "version": "Version 1.104",
+  "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+  "trademark": "Carlito is a trademark of tyPoland Lukasz Dziedzic.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+  "licenseURL": "https://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Carlito (MCF)",
+  "file": "Carlito-BoldItalic.ttf",
+  "dir": "/tmp/ossfonts/ext/carlito/carlito-main/fonts/ttf",
+  "family": "Carlito",
+  "full": "Carlito Bold Italic",
+  "version": "Version 1.104",
+  "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+  "trademark": "Carlito is a trademark of tyPoland Lukasz Dziedzic.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+  "licenseURL": "https://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Carlito (MCF)",
+  "file": "Carlito-Italic.ttf",
+  "dir": "/tmp/ossfonts/ext/carlito/carlito-main/fonts/ttf",
+  "family": "Carlito",
+  "full": "Carlito Italic",
+  "version": "Version 1.104",
+  "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+  "trademark": "Carlito is a trademark of tyPoland Lukasz Dziedzic.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+  "licenseURL": "https://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Carlito (MCF)",
+  "file": "Carlito-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/carlito/carlito-main/fonts/ttf",
+  "family": "Carlito",
+  "full": "Carlito Regular",
+  "version": "Version 1.104",
+  "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+  "trademark": "Carlito is a trademark of tyPoland Lukasz Dziedzic.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+  "licenseURL": "https://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Caladea (MCF)",
+  "file": "Caladea-Bold.ttf",
+  "dir": "/tmp/ossfonts/ext/caladea/Caladea-master/fonts/ttf",
+  "family": "Caladea",
+  "full": "Caladea Bold",
+  "version": "Version 1.001",
+  "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+  "trademark": "Caladea is a trademark of Carolina Giovagnoli & Andres Torresi.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Caladea (MCF)",
+  "file": "Caladea-BoldItalic.ttf",
+  "dir": "/tmp/ossfonts/ext/caladea/Caladea-master/fonts/ttf",
+  "family": "Caladea",
+  "full": "Caladea Bold Italic",
+  "version": "Version 1.001",
+  "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+  "trademark": "Caladea is a trademark of Carolina Giovagnoli & Andres Torresi.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Caladea (MCF)",
+  "file": "Caladea-Italic.ttf",
+  "dir": "/tmp/ossfonts/ext/caladea/Caladea-master/fonts/ttf",
+  "family": "Caladea",
+  "full": "Caladea Italic",
+  "version": "Version 1.001",
+  "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+  "trademark": "Caladea is a trademark of Carolina Giovagnoli & Andres Torresi.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "Caladea (MCF)",
+  "file": "Caladea-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/caladea/Caladea-master/fonts/ttf",
+  "family": "Caladea",
+  "full": "Caladea Regular",
+  "version": "Version 1.001",
+  "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+  "trademark": "Caladea is a trademark of Carolina Giovagnoli & Andres Torresi.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "GothicA1-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "고딕 A1",
+  "full": "고딕 A1 Regular",
+  "version": "Version 2.50",
+  "copyright": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved.",
+  "trademark": "",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "GowunBatang-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "Gowun Batang",
+  "full": "Gowun Batang Regular",
+  "version": "Version 2.000",
+  "copyright": "Copyright 2021 The Gowun Batang Project Authors (https://github.com/yangheeryu/Gowun-Batang)",
+  "trademark": "",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+  "licenseURL": "https://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "IBMPlexSansKR-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "IBM Plex Sans KR",
+  "full": "IBM Plex Sans KR Regular",
+  "version": "Version 1.001",
+  "copyright": "Copyright 2018 IBM Corp. All rights reserved.",
+  "trademark": "IBM Plex(r) is a trademark of IBM Corp, registered in many jurisdictions worldwide.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "NanumBrushScript-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "나눔손글씨 붓",
+  "full": "나눔손글씨 붓",
+  "version": "Version 1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895",
+  "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "trademark": "NanumBrush is a registered trademark of NHN Corporation.",
+  "license": "NHN Corporation",
+  "licenseURL": "http://www.nhncorp.com",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "NanumGothic-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "나눔고딕",
+  "full": "나눔고딕",
+  "version": "Version 3.020;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895",
+  "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "trademark": "NanumGothic Regular is a registered trademark of NHN Corporation.",
+  "license": "NHN Corporation",
+  "licenseURL": "http://www.nhncorp.com",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "NanumMyeongjo-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "나눔명조",
+  "full": "나눔명조",
+  "version": "Version 2.032;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325",
+  "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+  "trademark": "NanumMyeongjo is a registered trademark of NHN Corporation.",
+  "license": "NHN Corporation",
+  "licenseURL": "http://www.nhncorp.com",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ },
+ {
+  "source": "한국 OFL",
+  "file": "NotoSansKR-Regular.ttf",
+  "dir": "/tmp/ossfonts/ext/korean-ofl",
+  "family": "Noto Sans KR Thin",
+  "full": "Noto Sans KR Thin",
+  "version": "Version 2.004-H2;hotconv 1.0.118;makeotfexe 2.5.65603",
+  "copyright": "(c) 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "trademark": "Source is a trademark of Adobe in the United States and/or other countries.",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+  "licenseURL": "http://scripts.sil.org/OFL",
+  "fsType": {
+   "raw": 0,
+   "embedding": "Installable (제한 없음)",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ }
+]
