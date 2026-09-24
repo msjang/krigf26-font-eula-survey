@@ -128,7 +128,15 @@ KNOWN_FREE = {
 }
 
 FREE_LICENSE_RE = re.compile(
-    r"open font license|\bOFL\b|apache license|mit license|gpl|public domain", re.I)
+    r"open font license|\bOFL\b|apache license|public domain", re.I)
+
+# 자유 라이선스 문구가 본문에 섞여 있어도, 아래 표지가 있으면 그 폰트의 지배적
+# 라이선스는 상용이다. 예: Microsoft 폰트의 name ID 13에는 히브리어 레이아웃
+# 로직용 MIT 라이선스가 덧붙어 있으나, 폰트 자체는 "Any other use is prohibited"다.
+PROPRIETARY_MARKER_RE = re.compile(
+    r"any other use is prohibited|microsoft supplied font|"
+    r"microsoft app and services font|property of monotype|"
+    r"valuable (?:asset|property) of|contact the vendor to learn more", re.I)
 
 
 def load(name):
@@ -195,7 +203,8 @@ def main():
                            "copyright": (row.get("copyright") or "")[:120]})
             continue
         free = known_free(name)
-        if free or FREE_LICENSE_RE.search(lic):
+        governed_by_proprietary = bool(PROPRIETARY_MARKER_RE.search(lic))
+        if free or (FREE_LICENSE_RE.search(lic) and not governed_by_proprietary):
             add(db, name, {
                 "status": "free",
                 "license": (free or {}).get("license") or lic[:120],
@@ -203,6 +212,8 @@ def main():
             })
             continue
         holder_key = classify_holder(row.get("copyright"), row.get("trademark"))
+        if not holder_key and governed_by_proprietary:
+            holder_key = "Microsoft" if re.search(r"microsoft", lic, re.I) else "Monotype"
         if holder_key:
             meta = RIGHTS_HOLDERS[holder_key]
             add(db, name, {
@@ -263,7 +274,8 @@ def main():
         name = row.get("family") or ""
         free = known_free(name)
         lic = row.get("license") or ""
-        if free or FREE_LICENSE_RE.search(lic):
+        if free or (FREE_LICENSE_RE.search(lic)
+                    and not PROPRIETARY_MARKER_RE.search(lic)):
             add(db, name, {
                 "status": "free",
                 "license": (free or {}).get("license") or lic[:120],
