@@ -28,6 +28,7 @@
 | macOS 24.6.0 | `/System/Library/Fonts`, `/System/Library/Fonts/Supplemental`, `/Library/Fonts` | 769 |
 | Microsoft Office for Mac | `/Applications/Microsoft {Word,Excel,PowerPoint}.app/Contents/Resources/DFonts` | 906 |
 | 한컴오피스 한/글 12.30.0 | `.../Hnc/Shared/TTF/{Install,All,Hwp}` | 187 |
+| 한컴오피스 HFT (한컴 고유 포맷) | `.../Hnc/Shared/Fonts/*.HFT` + `hftinfo.dat` | 387 |
 
 ### 오픈소스·MCF 폰트
 

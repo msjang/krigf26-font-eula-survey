@@ -1,0 +1,6581 @@
+[
+ {
+  "file": "ENBASKVL.HFT",
+  "name": "Baskerville BT",
+  "names": [
+   "Baskerville BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBERNF.HFT",
+  "name": "BernhardFashion BT",
+  "names": [
+   "BernhardFashion BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBLBK.HFT",
+  "name": "Blippo Blk BT",
+  "names": [
+   "Blippo Blk BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBODB.HFT",
+  "name": "Bodoni Bd BT",
+  "names": [
+   "Bodoni Bd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBODBI.HFT",
+  "name": "Bodoni Bd BT",
+  "names": [
+   "Bodoni Bd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBODBK.HFT",
+  "name": "Bodoni Bk BT",
+  "names": [
+   "Bodoni Bk BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBODBKI.HFT",
+  "name": "Bodoni Bk BT",
+  "names": [
+   "Bodoni Bk BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBRODWY.HFT",
+  "name": "BroadwayEngraved BT",
+  "names": [
+   "BroadwayEngraved BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENBRUSH.HFT",
+  "name": "BrushScript BT",
+  "names": [
+   "BrushScript BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCOBK.HFT",
+  "name": "Cooper Blk BT",
+  "names": [
+   "Cooper Blk BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCOBKI.HFT",
+  "name": "Cooper Blk BT",
+  "names": [
+   "Cooper Blk BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCORN.HFT",
+  "name": "옥수수",
+  "names": [
+   "옥수수"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Corn",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960607"
+ },
+ {
+  "file": "ENCOSCPT.HFT",
+  "name": "CommercialScript BT",
+  "names": [
+   "CommercialScript BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCR10B.HFT",
+  "name": "Courier10 BT",
+  "names": [
+   "Courier10 BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCR10BI.HFT",
+  "name": "Courier10 BT",
+  "names": [
+   "Courier10 BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCSCH.HFT",
+  "name": "CentSchbook BT",
+  "names": [
+   "CentSchbook BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCSCHB.HFT",
+  "name": "CentSchbook BT",
+  "names": [
+   "CentSchbook BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCSCHBI.HFT",
+  "name": "CentSchbook BT",
+  "names": [
+   "CentSchbook BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCSCHI.HFT",
+  "name": "CentSchbook BT",
+  "names": [
+   "CentSchbook BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENCUCMBR.HFT",
+  "name": "오이",
+  "names": [
+   "오이"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Cucumber",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960607"
+ },
+ {
+  "file": "ENDOMCA.HFT",
+  "name": "DomCasual BT",
+  "names": [
+   "DomCasual BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENFREEHD.HFT",
+  "name": "Freehand591 BT",
+  "names": [
+   "Freehand591 BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENFUTUBK.HFT",
+  "name": "FuturaBlack BT",
+  "names": [
+   "FuturaBlack BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGARM.HFT",
+  "name": "AmeriGarmnd BT",
+  "names": [
+   "AmeriGarmnd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGARMB.HFT",
+  "name": "AmeriGarmnd BT",
+  "names": [
+   "AmeriGarmnd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGARMBI.HFT",
+  "name": "AmeriGarmnd BT",
+  "names": [
+   "AmeriGarmnd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGARMI.HFT",
+  "name": "AmeriGarmnd BT",
+  "names": [
+   "AmeriGarmnd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGDOS.HFT",
+  "name": "GoudyOlSt BT",
+  "names": [
+   "GoudyOlSt BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGDOSB.HFT",
+  "name": "GoudyOlSt BT",
+  "names": [
+   "GoudyOlSt BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGDOSBI.HFT",
+  "name": "GoudyOlSt BT",
+  "names": [
+   "GoudyOlSt BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGDOSI.HFT",
+  "name": "GoudyOlSt BT",
+  "names": [
+   "GoudyOlSt BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENGGT.HFT",
+  "name": "한양견고딕",
+  "names": [
+   "한양견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1993 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGGTI.HFT",
+  "name": "한양견고딕",
+  "names": [
+   "한양견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gyeongothic",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGMJ.HFT",
+  "name": "한양견명조",
+  "names": [
+   "한양견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGMJI.HFT",
+  "name": "한양견명조",
+  "names": [
+   "한양견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gyeonmyeongjo",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGRP.HFT",
+  "name": "한양그래픽",
+  "names": [
+   "한양그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Graphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGRPI.HFT",
+  "name": "한양그래픽",
+  "names": [
+   "한양그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Graphic",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGS.HFT",
+  "name": "한양궁서",
+  "names": [
+   "한양궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGSI.HFT",
+  "name": "한양궁서",
+  "names": [
+   "한양궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gungseo",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENGT.HFT",
+  "name": "고딕",
+  "names": [
+   "고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Gothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "ENHOBO.HFT",
+  "name": "Hobo BT",
+  "names": [
+   "Hobo BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENITCNBK.HFT",
+  "name": "Newtext Bk BT",
+  "names": [
+   "Newtext Bk BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENJGT.HFT",
+  "name": "한양중고딕",
+  "names": [
+   "한양중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENJGTI.HFT",
+  "name": "한양중고딕",
+  "names": [
+   "한양중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENLIBRTY.HFT",
+  "name": "Liberty BT",
+  "names": [
+   "Liberty BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENMJ.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19990114"
+ },
+ {
+  "file": "ENMUHB.HFT",
+  "name": "MurrayHill Bd BT",
+  "names": [
+   "MurrayHill Bd BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENOCRA.HFT",
+  "name": "OCR-A BT",
+  "names": [
+   "OCR-A BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENOCRB10.HFT",
+  "name": "OCR-B-10 BT",
+  "names": [
+   "OCR-B-10 BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENORAT10.HFT",
+  "name": "Orator10 BT",
+  "names": [
+   "Orator10 BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENORBITB.HFT",
+  "name": "Orbit-B BT",
+  "names": [
+   "Orbit-B BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENPENHL.HFT",
+  "name": "펜흘림",
+  "names": [
+   "펜흘림"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Penheullim",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960607"
+ },
+ {
+  "file": "ENPG.HFT",
+  "name": "필기",
+  "names": [
+   "필기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Pilgi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940603"
+ },
+ {
+  "file": "ENPKAV.HFT",
+  "name": "ParkAvenue BT",
+  "names": [
+   "ParkAvenue BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENS721LI.HFT",
+  "name": "Swis721 Lt BT",
+  "names": [
+   "Swis721 Lt BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENSMJ.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1997 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENSMJI.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1992,1997 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "ENSS.HFT",
+  "name": "산세리프",
+  "names": [
+   "산세리프"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sans Serif",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "ENSTEN.HFT",
+  "name": "Stencil BT",
+  "names": [
+   "Stencil BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENSW721L.HFT",
+  "name": "Swis721 Lt BT",
+  "names": [
+   "Swis721 Lt BT"
+  ],
+  "vendor": "한글맵시",
+  "latinName": null,
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "ENSYS.HFT",
+  "name": "시스템",
+  "names": [
+   "시스템"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994-1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19990118"
+ },
+ {
+  "file": "ENTYPE.HFT",
+  "name": "타이프",
+  "names": [
+   "타이프"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Type",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19961014"
+ },
+ {
+  "file": "FLMJ.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Other"
+  ],
+  "copyright": "(c) Copyright 1989-1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960727"
+ },
+ {
+  "file": "FLSMJ.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Other"
+  ],
+  "copyright": "(c) Copyright 1989-1996 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "HANB.HFT",
+  "name": "굵은한",
+  "names": [
+   "굵은한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Gulgeunhan",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "HANENGB.HFT",
+  "name": "굵은한",
+  "names": [
+   "굵은한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Gulgeunhan",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "HANENGL.HFT",
+  "name": "가는한",
+  "names": [
+   "가는한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Ganeunhan",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "HANENGM.HFT",
+  "name": "중간한",
+  "names": [
+   "중간한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Jungganhan",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960603"
+ },
+ {
+  "file": "HANL.HFT",
+  "name": "가는한",
+  "names": [
+   "가는한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Ganeunhan",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "HANM.HFT",
+  "name": "중간한",
+  "names": [
+   "중간한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Jungganhan",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960603"
+ },
+ {
+  "file": "HCENBIG.HFT",
+  "name": "#빅",
+  "names": [
+   "#빅"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Big",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENDNR.HFT",
+  "name": "#디나루",
+  "names": [
+   "#디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Dinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENGGT.HFT",
+  "name": "#견고딕",
+  "names": [
+   "#견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENGJ.HFT",
+  "name": "#공작",
+  "names": [
+   "#공작"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gongjak",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENGMJ.HFT",
+  "name": "#견명조",
+  "names": [
+   "#견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENGRP.HFT",
+  "name": "#그래픽",
+  "names": [
+   "#그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Graphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENGS.HFT",
+  "name": "#궁서",
+  "names": [
+   "#궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENHEDA.HFT",
+  "name": "#헤드라인A",
+  "names": [
+   "#헤드라인A"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Headline A",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENHEDB.HFT",
+  "name": "#헤드라인B",
+  "names": [
+   "#헤드라인B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Headline B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENHMJA.HFT",
+  "name": "#화명조A",
+  "names": [
+   "#화명조A"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Hwamyeongjo A",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENHMJB.HFT",
+  "name": "#화명조B",
+  "names": [
+   "#화명조B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Hwamyeongjo B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENJGT.HFT",
+  "name": "#중고딕",
+  "names": [
+   "#중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENJMJ.HFT",
+  "name": "#중명조",
+  "names": [
+   "#중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENPG.HFT",
+  "name": "#필기",
+  "names": [
+   "#필기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Pilgi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSDNR.HFT",
+  "name": "#신디나루",
+  "names": [
+   "#신디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sindinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSEGT.HFT",
+  "name": "#세고딕",
+  "names": [
+   "#세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSEMJ.HFT",
+  "name": "#세명조",
+  "names": [
+   "#세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSGRP.HFT",
+  "name": "#신그래픽",
+  "names": [
+   "#신그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Singraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSJMJ.HFT",
+  "name": "#신중명조",
+  "names": [
+   "#신중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sin Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMA.HFT",
+  "name": "#수암A",
+  "names": [
+   "#수암A"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Suam A",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMB.HFT",
+  "name": "#수암B",
+  "names": [
+   "#수암B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Suam B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMGG.HFT",
+  "name": "#신문견고",
+  "names": [
+   "#신문견고"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungyeongo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMGM.HFT",
+  "name": "#신문견명",
+  "names": [
+   "#신문견명"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungyeonmyeong",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMGT.HFT",
+  "name": "#신문고딕",
+  "names": [
+   "#신문고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMJ.HFT",
+  "name": "#신명조",
+  "names": [
+   "#신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMMJ.HFT",
+  "name": "#신문명조",
+  "names": [
+   "#신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMTG.HFT",
+  "name": "#신문태고",
+  "names": [
+   "#신문태고"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmuntaego",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSMTM.HFT",
+  "name": "#신문태명",
+  "names": [
+   "#신문태명"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmuntaemyeong",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSNR.HFT",
+  "name": "#세나루",
+  "names": [
+   "#세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Senaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSSGT.HFT",
+  "name": "#신세고딕",
+  "names": [
+   "#신세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSSNR.HFT",
+  "name": "#신세나루",
+  "names": [
+   "#신세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsenaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENSTMJ.HFT",
+  "name": "#신태명조",
+  "names": [
+   "#신태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sintaemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENTGRP.HFT",
+  "name": "#태그래픽",
+  "names": [
+   "#태그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENTGT.HFT",
+  "name": "#태고딕",
+  "names": [
+   "#태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENTMJ.HFT",
+  "name": "#태명조",
+  "names": [
+   "#태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCENTSMJ.HFT",
+  "name": "#태신명조",
+  "names": [
+   "#태신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taesinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "HCHGBIG.HFT",
+  "name": "#빅",
+  "names": [
+   "#빅"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Big",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGDNR.HFT",
+  "name": "#디나루",
+  "names": [
+   "#디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Dinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGGGT.HFT",
+  "name": "#견고딕",
+  "names": [
+   "#견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGGJ.HFT",
+  "name": "#공작",
+  "names": [
+   "#공작"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gongjak",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGGMJ.HFT",
+  "name": "#견명조",
+  "names": [
+   "#견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGGRP.HFT",
+  "name": "#그래픽",
+  "names": [
+   "#그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Graphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGGS.HFT",
+  "name": "#궁서",
+  "names": [
+   "#궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGHMJA.HFT",
+  "name": "#화명조A",
+  "names": [
+   "#화명조A"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Hwamyeongjo A",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGHMJB.HFT",
+  "name": "#화명조B",
+  "names": [
+   "#화명조B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Hwamyeongjo B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGJGT.HFT",
+  "name": "#중고딕",
+  "names": [
+   "#중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGJMJ.HFT",
+  "name": "#중명조",
+  "names": [
+   "#중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960522"
+ },
+ {
+  "file": "HCHGSDNR.HFT",
+  "name": "#신디나루",
+  "names": [
+   "#신디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sindinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSEGT.HFT",
+  "name": "#세고딕",
+  "names": [
+   "#세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSEMJ.HFT",
+  "name": "#세명조",
+  "names": [
+   "#세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSGRP.HFT",
+  "name": "#신그래픽",
+  "names": [
+   "#신그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Singraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSJMJ.HFT",
+  "name": "#신중명조",
+  "names": [
+   "#신중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinjungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHGSMA.HFT",
+  "name": "#수암A",
+  "names": [
+   "#수암A"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Suam A",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHGSMB.HFT",
+  "name": "#수암B",
+  "names": [
+   "#수암B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Suam B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSMGG.HFT",
+  "name": "#신문견고",
+  "names": [
+   "#신문견고"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungyeongo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHGSMGM.HFT",
+  "name": "#신문견명",
+  "names": [
+   "#신문견명"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungyeonmyeong",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960422"
+ },
+ {
+  "file": "HCHGSMGT.HFT",
+  "name": "#신문고딕",
+  "names": [
+   "#신문고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSMJ.HFT",
+  "name": "#신명조",
+  "names": [
+   "#신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSMMJ.HFT",
+  "name": "#신문명조",
+  "names": [
+   "#신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSMTG.HFT",
+  "name": "#신문태고",
+  "names": [
+   "#신문태고"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmuntaego",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSMTM.HFT",
+  "name": "#신문태명",
+  "names": [
+   "#신문태명"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmuntaemyeong",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSNR.HFT",
+  "name": "#세나루",
+  "names": [
+   "#세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Senaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSSGT.HFT",
+  "name": "#신세고딕",
+  "names": [
+   "#신세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSSNR.HFT",
+  "name": "#신세나루",
+  "names": [
+   "#신세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsenaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGSTMJ.HFT",
+  "name": "#신태명조",
+  "names": [
+   "#신태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sintaemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960522"
+ },
+ {
+  "file": "HCHGTGRP.HFT",
+  "name": "#태그래픽",
+  "names": [
+   "#태그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGTGT.HFT",
+  "name": "#태고딕",
+  "names": [
+   "#태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHGTMJ.HFT",
+  "name": "#태명조",
+  "names": [
+   "#태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHGTSMJ.HFT",
+  "name": "#태신명조",
+  "names": [
+   "#태신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taesinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960421"
+ },
+ {
+  "file": "HCHJGGT.HFT",
+  "name": "#견고딕",
+  "names": [
+   "#견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJGMJ.HFT",
+  "name": "#견명조",
+  "names": [
+   "#견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJGS.HFT",
+  "name": "#궁서",
+  "names": [
+   "#궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJJGT.HFT",
+  "name": "#중고딕",
+  "names": [
+   "#중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960509"
+ },
+ {
+  "file": "HCHJJMJ.HFT",
+  "name": "#중명조",
+  "names": [
+   "#중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJSDNR.HFT",
+  "name": "#신디나루",
+  "names": [
+   "#신디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sindinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960513"
+ },
+ {
+  "file": "HCHJSMGG.HFT",
+  "name": "#신문견고",
+  "names": [
+   "#신문견고"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungyeongo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJSMGM.HFT",
+  "name": "#신문견명",
+  "names": [
+   "#신문견명"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungyeonmyeong",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJSMGT.HFT",
+  "name": "#신문고딕",
+  "names": [
+   "#신문고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960509"
+ },
+ {
+  "file": "HCHJSMJ.HFT",
+  "name": "#신명조",
+  "names": [
+   "#신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJSMMJ.HFT",
+  "name": "#신문명조",
+  "names": [
+   "#신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJSSGT.HFT",
+  "name": "#신세고딕",
+  "names": [
+   "#신세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJSSNR.HFT",
+  "name": "#신세나루",
+  "names": [
+   "#신세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsenaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960509"
+ },
+ {
+  "file": "HCHJTGT.HFT",
+  "name": "#태고딕",
+  "names": [
+   "#태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCHJTMJ.HFT",
+  "name": "#태명조",
+  "names": [
+   "#태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960517"
+ },
+ {
+  "file": "HCJPJGT.HFT",
+  "name": "#중고딕",
+  "names": [
+   "#중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "HCJPJGTV.HFT",
+  "name": "#중고딕V",
+  "names": [
+   "#중고딕V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Junggothic V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970818"
+ },
+ {
+  "file": "HCJPSEGT.HFT",
+  "name": "#세고딕",
+  "names": [
+   "#세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "HCJPSEGV.HFT",
+  "name": "#세고딕V",
+  "names": [
+   "#세고딕V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Segothic V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970822"
+ },
+ {
+  "file": "HCJPSEMJ.HFT",
+  "name": "#세명조",
+  "names": [
+   "#세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "HCJPSEMV.HFT",
+  "name": "#세명조V",
+  "names": [
+   "#세명조V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Semyeongjo V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970822"
+ },
+ {
+  "file": "HCJPTGT.HFT",
+  "name": "#태고딕",
+  "names": [
+   "#태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "HCJPTGTV.HFT",
+  "name": "#태고딕V",
+  "names": [
+   "#태고딕V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegothic V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970818"
+ },
+ {
+  "file": "HCJPTMJ.HFT",
+  "name": "#태명조",
+  "names": [
+   "#태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "HCJPTMJV.HFT",
+  "name": "#태명조V",
+  "names": [
+   "#태명조V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taemyeongjo V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970818"
+ },
+ {
+  "file": "HCSPBIG.HFT",
+  "name": "#빅",
+  "names": [
+   "#빅"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Big",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPDNR.HFT",
+  "name": "#디나루",
+  "names": [
+   "#디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Dinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPGGT.HFT",
+  "name": "#견고딕",
+  "names": [
+   "#견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPGJ.HFT",
+  "name": "#공작",
+  "names": [
+   "#공작"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gongjak",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPGMJ.HFT",
+  "name": "#견명조",
+  "names": [
+   "#견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPGRP.HFT",
+  "name": "#그래픽",
+  "names": [
+   "#그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Graphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPGS.HFT",
+  "name": "#궁서",
+  "names": [
+   "#궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPJGT.HFT",
+  "name": "#중고딕",
+  "names": [
+   "#중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPJMJ.HFT",
+  "name": "#중명조",
+  "names": [
+   "#중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPPG.HFT",
+  "name": "#필기",
+  "names": [
+   "#필기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Pilgi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSDNR.HFT",
+  "name": "#신디나루",
+  "names": [
+   "#신디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sindinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSEGT.HFT",
+  "name": "#세고딕",
+  "names": [
+   "#세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSEMJ.HFT",
+  "name": "#세명조",
+  "names": [
+   "#세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSGRP.HFT",
+  "name": "#신그래픽",
+  "names": [
+   "#신그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Singraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSMA.HFT",
+  "name": "#수암A",
+  "names": [
+   "#수암A"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Suam A",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSMGT.HFT",
+  "name": "#신문고딕",
+  "names": [
+   "#신문고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSMJ.HFT",
+  "name": "#신명조",
+  "names": [
+   "#신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSMMJ.HFT",
+  "name": "#신문명조",
+  "names": [
+   "#신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSNR.HFT",
+  "name": "#세나루",
+  "names": [
+   "#세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Senaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSSGT.HFT",
+  "name": "#신세고딕",
+  "names": [
+   "#신세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSSNR.HFT",
+  "name": "#신세나루",
+  "names": [
+   "#신세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sinsenaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPSTMJ.HFT",
+  "name": "#신태명조",
+  "names": [
+   "#신태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Sintaemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPTGRP.HFT",
+  "name": "#태그래픽",
+  "names": [
+   "#태그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPTGT.HFT",
+  "name": "#태고딕",
+  "names": [
+   "#태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPTMJ.HFT",
+  "name": "#태명조",
+  "names": [
+   "#태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HCSPTSMJ.HFT",
+  "name": "#태신명조",
+  "names": [
+   "#태신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "#Taesinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970630"
+ },
+ {
+  "file": "HGBT.HFT",
+  "name": "문화바탕",
+  "names": [
+   "문화바탕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Munhwa Batang",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1993 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960221"
+ },
+ {
+  "file": "HGBTJM.HFT",
+  "name": "문화바탕제목",
+  "names": [
+   "문화바탕제목"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Munhwa Batang Jemok",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HGCORN.HFT",
+  "name": "옥수수",
+  "names": [
+   "옥수수"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Corn",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960523"
+ },
+ {
+  "file": "HGCUCMBR.HFT",
+  "name": "오이",
+  "names": [
+   "오이"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Cucumber",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960523"
+ },
+ {
+  "file": "HGDU.HFT",
+  "name": "문화돋움",
+  "names": [
+   "문화돋움"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Munhwa Dotum",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19931124"
+ },
+ {
+  "file": "HGDUJM.HFT",
+  "name": "문화돋움제목",
+  "names": [
+   "문화돋움제목"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Munhwa Dotum Jemok",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HGEGPLNT.HFT",
+  "name": "가지",
+  "names": [
+   "가지"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Eggplant",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960523"
+ },
+ {
+  "file": "HGGGT.HFT",
+  "name": "한양견고딕",
+  "names": [
+   "한양견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HGGMJ.HFT",
+  "name": "한양견명조",
+  "names": [
+   "한양견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HGGRP.HFT",
+  "name": "한양그래픽",
+  "names": [
+   "한양그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Graphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HGGS.HFT",
+  "name": "한양궁서",
+  "names": [
+   "한양궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HGGT.HFT",
+  "name": "고딕",
+  "names": [
+   "고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Gothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940429"
+ },
+ {
+  "file": "HGJGT.HFT",
+  "name": "한양중고딕",
+  "names": [
+   "한양중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HGKDNYBN.HFT",
+  "name": "강낭콩",
+  "names": [
+   "강낭콩"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Kidney bean",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960604"
+ },
+ {
+  "file": "HGMJ.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940527"
+ },
+ {
+  "file": "HGOLD.HFT",
+  "name": "옛한글",
+  "names": [
+   "옛한글"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Yethangeul",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HGPEACH.HFT",
+  "name": "복숭아",
+  "names": [
+   "복숭아"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Peach",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960523"
+ },
+ {
+  "file": "HGPENHL.HFT",
+  "name": "펜흘림",
+  "names": [
+   "펜흘림"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Penheullim",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960529"
+ },
+ {
+  "file": "HGPG.HFT",
+  "name": "필기",
+  "names": [
+   "필기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Pilgi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940528"
+ },
+ {
+  "file": "HGSM.HFT",
+  "name": "샘물",
+  "names": [
+   "샘물"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Saemmul",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HGSMJ.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1997 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HGSTRBRY.HFT",
+  "name": "딸기",
+  "names": [
+   "딸기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Strawberry",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960704"
+ },
+ {
+  "file": "HGSYS.HFT",
+  "name": "시스템",
+  "names": [
+   "시스템"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hangul & Computer",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HGTYPE.HFT",
+  "name": "타이프",
+  "names": [
+   "타이프"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Type",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19961014"
+ },
+ {
+  "file": "HJGHS.HFT",
+  "name": "해서 간자",
+  "names": [
+   "해서 간자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Haeseo Chinese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1999 Han Media",
+  "buildDate": "19990416"
+ },
+ {
+  "file": "HJGJGT.HFT",
+  "name": "중고딕 간자",
+  "names": [
+   "중고딕 간자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Junggothic Chinese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1999 Han Media",
+  "buildDate": "19990416"
+ },
+ {
+  "file": "HJGSMJ.HFT",
+  "name": "신명조 간자",
+  "names": [
+   "신명조 간자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeongjo Chinese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1998 Han Media",
+  "buildDate": "19990414"
+ },
+ {
+  "file": "HJGSYS.HFT",
+  "name": "시스템 간자",
+  "names": [
+   "시스템 간자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System Chinese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1998 Han Media",
+  "buildDate": "19990414"
+ },
+ {
+  "file": "HJJGT.HFT",
+  "name": "한양중고딕",
+  "names": [
+   "한양중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1992,1995 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "HJMJ.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1989,1993 Hangul & Computer Co., Ltd.",
+  "buildDate": "19961009"
+ },
+ {
+  "file": "HJSMJ.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "HJSYS.HFT",
+  "name": "시스템",
+  "names": [
+   "시스템"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19961209"
+ },
+ {
+  "file": "HJYHS.HFT",
+  "name": "해서 약자",
+  "names": [
+   "해서 약자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Haeseo Jananese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1999 Han Media",
+  "buildDate": "19990413"
+ },
+ {
+  "file": "HJYJGT.HFT",
+  "name": "중고딕 약자",
+  "names": [
+   "중고딕 약자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Junggothic Jananese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1999 Han Media",
+  "buildDate": "19990413"
+ },
+ {
+  "file": "HJYSMJ.HFT",
+  "name": "신명조 약자",
+  "names": [
+   "신명조 약자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeongjo Jananese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970312"
+ },
+ {
+  "file": "HJYSYS.HFT",
+  "name": "시스템 약자",
+  "names": [
+   "시스템 약자"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System Jananese",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970312"
+ },
+ {
+  "file": "HMEAC.HFT",
+  "name": "HCI Acacia",
+  "names": [
+   "HCI Acacia"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Acacia",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEACB.HFT",
+  "name": "HCI Acacia",
+  "names": [
+   "HCI Acacia"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Acacia",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEACBI.HFT",
+  "name": "HCI Acacia",
+  "names": [
+   "HCI Acacia"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Acacia",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEACI.HFT",
+  "name": "HCI Acacia",
+  "names": [
+   "HCI Acacia"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Acacia",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEAHNB.HFT",
+  "name": "굵은안상수체영문",
+  "names": [
+   "굵은안상수체영문"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Ahn Bold",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEAHNL.HFT",
+  "name": "가는안상수체영문",
+  "names": [
+   "가는안상수체영문"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Ahn Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEAHNM.HFT",
+  "name": "중간안상수체영문",
+  "names": [
+   "중간안상수체영문"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Ahn Normal",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEBF.HFT",
+  "name": "HCI Bellflower",
+  "names": [
+   "HCI Bellflower"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Bellflower",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEBFB.HFT",
+  "name": "HCI Bellflower",
+  "names": [
+   "HCI Bellflower"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Bellflower",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEBFBI.HFT",
+  "name": "HCI Bellflower",
+  "names": [
+   "HCI Bellflower"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Bellflower",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEBFI.HFT",
+  "name": "HCI Bellflower",
+  "names": [
+   "HCI Bellflower"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Bellflower",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMECENT.HFT",
+  "name": "HCI Centaurea",
+  "names": [
+   "HCI Centaurea"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Centaurea",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMECR.HFT",
+  "name": "HCI Columbine",
+  "names": [
+   "HCI Columbine"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Columbine",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMECRB.HFT",
+  "name": "HCI Columbine",
+  "names": [
+   "HCI Columbine"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Columbine",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMECRBI.HFT",
+  "name": "HCI Columbine",
+  "names": [
+   "HCI Columbine"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Columbine",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMECRI.HFT",
+  "name": "HCI Columbine",
+  "names": [
+   "HCI Columbine"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Columbine",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHL.HFT",
+  "name": "HCI Hollyhock",
+  "names": [
+   "HCI Hollyhock"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLB.HFT",
+  "name": "HCI Hollyhock",
+  "names": [
+   "HCI Hollyhock"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLBI.HFT",
+  "name": "HCI Hollyhock",
+  "names": [
+   "HCI Hollyhock"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLI.HFT",
+  "name": "HCI Hollyhock",
+  "names": [
+   "HCI Hollyhock"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLN.HFT",
+  "name": "HCI Hollyhock Narrow",
+  "names": [
+   "HCI Hollyhock Narrow"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLNB.HFT",
+  "name": "HCI Hollyhock Narrow",
+  "names": [
+   "HCI Hollyhock Narrow"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock Narrow",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLNBI.HFT",
+  "name": "HCI Hollyhock Narrow",
+  "names": [
+   "HCI Hollyhock Narrow"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock Narrow",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEHLNI.HFT",
+  "name": "HCI Hollyhock Narrow",
+  "names": [
+   "HCI Hollyhock Narrow"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Hollyhock Narrow",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEMO.HFT",
+  "name": "HCI Morning Glory",
+  "names": [
+   "HCI Morning Glory"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Morning Glory",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEMOB.HFT",
+  "name": "HCI Morning Glory",
+  "names": [
+   "HCI Morning Glory"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Morning Glory",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEMOBI.HFT",
+  "name": "HCI Morning Glory",
+  "names": [
+   "HCI Morning Glory"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Morning Glory",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEMOI.HFT",
+  "name": "HCI Morning Glory",
+  "names": [
+   "HCI Morning Glory"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Morning Glory",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEPO.HFT",
+  "name": "HCI Poppy",
+  "names": [
+   "HCI Poppy"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Poppy",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEPOB.HFT",
+  "name": "HCI Poppy",
+  "names": [
+   "HCI Poppy"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Poppy",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEPOBI.HFT",
+  "name": "HCI Poppy",
+  "names": [
+   "HCI Poppy"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Poppy",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMEPOI.HFT",
+  "name": "HCI Poppy",
+  "names": [
+   "HCI Poppy"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Poppy",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMETR.HFT",
+  "name": "HCI Tulip",
+  "names": [
+   "HCI Tulip"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Tulip",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMETRB.HFT",
+  "name": "HCI Tulip",
+  "names": [
+   "HCI Tulip"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Tulip",
+  "styles": [
+   "Bold"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMETRBI.HFT",
+  "name": "HCI Tulip",
+  "names": [
+   "HCI Tulip"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Tulip",
+  "styles": [
+   "BoldItalic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMETRI.HFT",
+  "name": "HCI Tulip",
+  "names": [
+   "HCI Tulip"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "HCI Tulip",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKBA.HFT",
+  "name": "굵은안상수체",
+  "names": [
+   "굵은안상수체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Ahn Bold",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKBP.HFT",
+  "name": "휴먼굵은팸체",
+  "names": [
+   "휴먼굵은팸체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Paem Bold",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKBS.HFT",
+  "name": "휴먼굵은샘체",
+  "names": [
+   "휴먼굵은샘체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Saem Bold",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKLA.HFT",
+  "name": "가는안상수체",
+  "names": [
+   "가는안상수체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Ahn Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKLP.HFT",
+  "name": "휴먼가는팸체",
+  "names": [
+   "휴먼가는팸체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Paem Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKLS.HFT",
+  "name": "휴먼가는샘체",
+  "names": [
+   "휴먼가는샘체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Saem Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKMA.HFT",
+  "name": "중간안상수체",
+  "names": [
+   "중간안상수체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Ahn Normal",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKMG.HFT",
+  "name": "휴먼고딕",
+  "names": [
+   "휴먼고딕"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Gothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKMP.HFT",
+  "name": "휴먼중간팸체",
+  "names": [
+   "휴먼중간팸체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Paem Normal",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKMS.HFT",
+  "name": "휴먼중간샘체",
+  "names": [
+   "휴먼중간샘체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Saem Normal",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKOLD.HFT",
+  "name": "휴먼옛체",
+  "names": [
+   "휴먼옛체"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Yet",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HMKSM.HFT",
+  "name": "휴먼명조",
+  "names": [
+   "휴먼명조"
+  ],
+  "vendor": "휴먼컴퓨터",
+  "latinName": "Human Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": null,
+  "buildDate": null
+ },
+ {
+  "file": "HSUSFL.HFT",
+  "name": "수식",
+  "names": [
+   "수식"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Susik",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Other"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HSUSR.HFT",
+  "name": "수식",
+  "names": [
+   "수식"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Susik",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HSUSRI.HFT",
+  "name": "수식",
+  "names": [
+   "수식"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Susik",
+  "styles": [
+   "Italic"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HSUSSP.HFT",
+  "name": "수식",
+  "names": [
+   "수식"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Susik",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "HYENGL.HFT",
+  "name": "HY둥근고딕",
+  "names": [
+   "HY둥근고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Dunggeungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1989,1996 Hanyang System Co., Ltd.",
+  "buildDate": "19990118"
+ },
+ {
+  "file": "HYHGGL.HFT",
+  "name": "HY둥근고딕",
+  "names": [
+   "HY둥근고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Dunggeungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1989,1996 Hanyang System Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "HYJPGL.HFT",
+  "name": "HY둥근고딕",
+  "names": [
+   "HY둥근고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Dunggeungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1989,1996 Hanyang System Co., Ltd.",
+  "buildDate": "19970108"
+ },
+ {
+  "file": "HYSPGL.HFT",
+  "name": "HY둥근고딕",
+  "names": [
+   "HY둥근고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Dunggeungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1989,1996 Hanyang System Co., Ltd.",
+  "buildDate": "19990113"
+ },
+ {
+  "file": "JPGT.HFT",
+  "name": "고딕",
+  "names": [
+   "고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Gothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19950227"
+ },
+ {
+  "file": "JPJGT.HFT",
+  "name": "한양중고딕",
+  "names": [
+   "한양중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1992-1997 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "JPJGTV.HFT",
+  "name": "한양중고딕V",
+  "names": [
+   "한양중고딕V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "JPMJ.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1989,1993 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960209"
+ },
+ {
+  "file": "JPSMJ.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1992-1997 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "JPSMJV.HFT",
+  "name": "한양신명조V",
+  "names": [
+   "한양신명조V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "JPSYS.HFT",
+  "name": "시스템",
+  "names": [
+   "시스템"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1989,1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19961218"
+ },
+ {
+  "file": "KHANB.HFT",
+  "name": "굵은공한",
+  "names": [
+   "굵은공한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Konghan Bold",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "KHANENGB.HFT",
+  "name": "굵은공한",
+  "names": [
+   "굵은공한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Konghan Bold",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "KHANENGL.HFT",
+  "name": "가는공한",
+  "names": [
+   "가는공한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Konghan Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "KHANENGM.HFT",
+  "name": "중간공한",
+  "names": [
+   "중간공한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Konghan Normal",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "KHANL.HFT",
+  "name": "가는공한",
+  "names": [
+   "가는공한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Konghan Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "KHANM.HFT",
+  "name": "중간공한",
+  "names": [
+   "중간공한"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Konghan Normal",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960325"
+ },
+ {
+  "file": "MHHGSSG.HFT",
+  "name": "문화쓰기",
+  "names": [
+   "문화쓰기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Munhwa Sseugi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960317"
+ },
+ {
+  "file": "MHHGSSP.HFT",
+  "name": "문화쓰기흘림",
+  "names": [
+   "문화쓰기흘림"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Munhaw Sseugi Heullim",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960212"
+ },
+ {
+  "file": "SPJGT.HFT",
+  "name": "한양중고딕",
+  "names": [
+   "한양중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1992-1996 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "SPMJ.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1989-1996 Hangul & Computer Co., Ltd.",
+  "buildDate": null
+ },
+ {
+  "file": "SPSMJ.HFT",
+  "name": "한양신명조",
+  "names": [
+   "한양신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "HY Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1992-1997 Hanyang Systems",
+  "buildDate": null
+ },
+ {
+  "file": "SPSYS.HFT",
+  "name": "시스템",
+  "names": [
+   "시스템"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "System",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1989,1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19990113"
+ },
+ {
+  "file": "TAENMREN.HFT",
+  "name": "태 나무",
+  "names": [
+   "태 나무"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Tae Namu",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960531"
+ },
+ {
+  "file": "TAENMRKR.HFT",
+  "name": "태 나무",
+  "names": [
+   "태 나무"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Tae Namu",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940609"
+ },
+ {
+  "file": "TEDNREN.HFT",
+  "name": "신명 디나루",
+  "names": [
+   "신명 디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Dinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEDNRHG.HFT",
+  "name": "신명 디나루",
+  "names": [
+   "신명 디나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Dinaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGGTEN.HFT",
+  "name": "신명 견고딕",
+  "names": [
+   "신명 견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGGTHG.HFT",
+  "name": "신명 견고딕",
+  "names": [
+   "신명 견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGGTHJ.HFT",
+  "name": "신명 견고딕",
+  "names": [
+   "신명 견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGGTSP.HFT",
+  "name": "신명 견고딕",
+  "names": [
+   "신명 견고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeongothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1994,1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970730"
+ },
+ {
+  "file": "TEGMJEN.HFT",
+  "name": "신명 견명조",
+  "names": [
+   "신명 견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGMJHG.HFT",
+  "name": "신명 견명조",
+  "names": [
+   "신명 견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGMJHJ.HFT",
+  "name": "신명 견명조",
+  "names": [
+   "신명 견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGMJJP.HFT",
+  "name": "신명 견명조",
+  "names": [
+   "신명 견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "TEGMJJPV.HFT",
+  "name": "신명 견명조V",
+  "names": [
+   "신명 견명조V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeonmyeongjo V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970807"
+ },
+ {
+  "file": "TEGMJSP.HFT",
+  "name": "신명 견명조",
+  "names": [
+   "신명 견명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gyeonmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970730"
+ },
+ {
+  "file": "TEGNSEN.HFT",
+  "name": "신명 궁서",
+  "names": [
+   "신명 궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGNSHG.HFT",
+  "name": "신명 궁서",
+  "names": [
+   "신명 궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEGNSHJ.HFT",
+  "name": "신명 궁서",
+  "names": [
+   "신명 궁서"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Gungseo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19990118"
+ },
+ {
+  "file": "TEHDDHG.HFT",
+  "name": "태 헤드라인D",
+  "names": [
+   "태 헤드라인D"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Tae Headline D",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEHDDRHG.HFT",
+  "name": "태 가는 헤드라인D",
+  "names": [
+   "태 가는 헤드라인D"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Tae Headline D Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEHDTHG.HFT",
+  "name": "태 헤드라인T",
+  "names": [
+   "태 헤드라인T"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Tae Headline T",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEHDTRHG.HFT",
+  "name": "태 가는 헤드라인T",
+  "names": [
+   "태 가는 헤드라인T"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Tae Headline T Narrow",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEJGTEN.HFT",
+  "name": "신명 중고딕",
+  "names": [
+   "신명 중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEJGTHG.HFT",
+  "name": "신명 중고딕",
+  "names": [
+   "신명 중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEJGTHJ.HFT",
+  "name": "신명 중고딕",
+  "names": [
+   "신명 중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEJGTJP.HFT",
+  "name": "신명 중고딕",
+  "names": [
+   "신명 중고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Junggothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "TEJGTJPV.HFT",
+  "name": "신명 중고딕V",
+  "names": [
+   "신명 중고딕V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Junggothic V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970807"
+ },
+ {
+  "file": "TEJMJEN.HFT",
+  "name": "신명 중명조",
+  "names": [
+   "신명 중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEJMJHG.HFT",
+  "name": "신명 중명조",
+  "names": [
+   "신명 중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TEJMJHJ.HFT",
+  "name": "신명 중명조",
+  "names": [
+   "신명 중명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Jungmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESEGEN.HFT",
+  "name": "신명 세고딕",
+  "names": [
+   "신명 세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESEGHG.HFT",
+  "name": "신명 세고딕",
+  "names": [
+   "신명 세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESEGHJ.HFT",
+  "name": "신명 세고딕",
+  "names": [
+   "신명 세고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Segothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESEMEN.HFT",
+  "name": "신명 세명조",
+  "names": [
+   "신명 세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESEMHG.HFT",
+  "name": "신명 세명조",
+  "names": [
+   "신명 세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESEMHJ.HFT",
+  "name": "신명 세명조",
+  "names": [
+   "신명 세명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Semyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESENEN.HFT",
+  "name": "신명 세나루",
+  "names": [
+   "신명 세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Senaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESENHG.HFT",
+  "name": "신명 세나루",
+  "names": [
+   "신명 세나루"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Senaru",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESGREN.HFT",
+  "name": "신명 신그래픽",
+  "names": [
+   "신명 신그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Singraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESGRHG.HFT",
+  "name": "신명 신그래픽",
+  "names": [
+   "신명 신그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Singraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESMGEN.HFT",
+  "name": "신명 신문고딕",
+  "names": [
+   "신명 신문고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmungothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESMJEN.HFT",
+  "name": "신명 신명조",
+  "names": [
+   "신명 신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESMJHG.HFT",
+  "name": "신명 신명조",
+  "names": [
+   "신명 신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESMJJP.HFT",
+  "name": "신명 신명조",
+  "names": [
+   "신명 신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "TESMJJPV.HFT",
+  "name": "신명 신명조V",
+  "names": [
+   "신명 신명조V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmyeongjo V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970808"
+ },
+ {
+  "file": "TESMMEN.HFT",
+  "name": "신명 신문명조",
+  "names": [
+   "신명 신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESMMHG.HFT",
+  "name": "신명 신문명조",
+  "names": [
+   "신명 신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESMMHJ.HFT",
+  "name": "신명 신문명조",
+  "names": [
+   "신명 신문명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinmunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESSMEN.HFT",
+  "name": "신명 신신명조",
+  "names": [
+   "신명 신신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinsinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESSMHG.HFT",
+  "name": "신명 신신명조",
+  "names": [
+   "신명 신신명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sinsinmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESUNEN.HFT",
+  "name": "신명 순명조",
+  "names": [
+   "신명 순명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TESUNHG.HFT",
+  "name": "신명 순명조",
+  "names": [
+   "신명 순명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Sunmyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETGREN.HFT",
+  "name": "신명 태그래픽",
+  "names": [
+   "신명 태그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETGRHG.HFT",
+  "name": "신명 태그래픽",
+  "names": [
+   "신명 태그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETGRSP.HFT",
+  "name": "신명 태그래픽",
+  "names": [
+   "신명 태그래픽"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegraphic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Symbol"
+  ],
+  "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970730"
+ },
+ {
+  "file": "TETGTEN.HFT",
+  "name": "신명 태고딕",
+  "names": [
+   "신명 태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETGTHG.HFT",
+  "name": "신명 태고딕",
+  "names": [
+   "신명 태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETGTHJ.HFT",
+  "name": "신명 태고딕",
+  "names": [
+   "신명 태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETGTJP.HFT",
+  "name": "신명 태고딕",
+  "names": [
+   "신명 태고딕"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "TETGTJPV.HFT",
+  "name": "신명 태고딕V",
+  "names": [
+   "신명 태고딕V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taegothic",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970807"
+ },
+ {
+  "file": "TETMJEN.HFT",
+  "name": "신명 태명조",
+  "names": [
+   "신명 태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Copmuter Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETMJHG.HFT",
+  "name": "신명 태명조",
+  "names": [
+   "신명 태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETMJHJ.HFT",
+  "name": "신명 태명조",
+  "names": [
+   "신명 태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hanja"
+  ],
+  "copyright": "(c) Copyright 1994,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "TETMJJP.HFT",
+  "name": "신명 태명조",
+  "names": [
+   "신명 태명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taemyeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970823"
+ },
+ {
+  "file": "TETMJJPV.HFT",
+  "name": "신명 태명조V",
+  "names": [
+   "신명 태명조V"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Sinmyeong Taemyeongjo V",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Japanese"
+  ],
+  "copyright": "(c) Copyright 1997 Hangul & Computer Co., Ltd.",
+  "buildDate": "19970807"
+ },
+ {
+  "file": "USER.HFT",
+  "name": "명조",
+  "names": [
+   "명조"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Myeongjo",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - User"
+  ],
+  "copyright": "(c) Copyright 1989-1996 Hangul & Computer Co., Ltd.",
+  "buildDate": "19960213"
+ },
+ {
+  "file": "USHGPL.HFT",
+  "name": "한글 풀어쓰기",
+  "names": [
+   "한글 풀어쓰기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Pureosseugi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - User"
+  ],
+  "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
+  "buildDate": "19940512"
+ },
+ {
+  "file": "YJENBMGM.HFT",
+  "name": "양재 본목각M",
+  "names": [
+   "양재 본목각M"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Bonmoggak M",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19960709"
+ },
+ {
+  "file": "YJENCHM.HFT",
+  "name": "양재 참숯B",
+  "names": [
+   "양재 참숯B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Chamsuch B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJENDNMJ.HFT",
+  "name": "양재 다운명조M",
+  "names": [
+   "양재 다운명조M"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Daun Myeongjo M",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19960709"
+ },
+ {
+  "file": "YJENDUG.HFT",
+  "name": "양재 둘기",
+  "names": [
+   "양재 둘기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Dulgi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJENINI.HFT",
+  "name": "양재 이니셜",
+  "names": [
+   "양재 이니셜"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "Inisyeol",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJENMAE.HFT",
+  "name": "양재 매화",
+  "names": [
+   "양재 매화"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Maehwa",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJENSHN.HFT",
+  "name": "양재 샤넬",
+  "names": [
+   "양재 샤넬"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Syanel",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJENSOSL.HFT",
+  "name": "양재 소슬",
+  "names": [
+   "양재 소슬"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Soseul",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19960709"
+ },
+ {
+  "file": "YJENTTB.HFT",
+  "name": "양재 튼튼B",
+  "names": [
+   "양재 튼튼B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Teunteun B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19960709"
+ },
+ {
+  "file": "YJENWDA.HFT",
+  "name": "양재 와당",
+  "names": [
+   "양재 와당"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Wadang",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Latin"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJHGBMGM.HFT",
+  "name": "양재 본목각M",
+  "names": [
+   "양재 본목각M"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Bonmokgak M",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJHGCHM.HFT",
+  "name": "양재 참숯B",
+  "names": [
+   "양재 참숯B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Chamsut B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJHGDNMJ.HFT",
+  "name": "양재 다운명조M",
+  "names": [
+   "양재 다운명조M"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Daunmyeongjo M",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJHGDUG.HFT",
+  "name": "양재 둘기",
+  "names": [
+   "양재 둘기"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Dulgi",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970728"
+ },
+ {
+  "file": "YJHGINI.HFT",
+  "name": "양재 이니셜",
+  "names": [
+   "양재 이니셜"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Initial",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970728"
+ },
+ {
+  "file": "YJHGMAE.HFT",
+  "name": "양재 매화",
+  "names": [
+   "양재 매화"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Maehwa",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970728"
+ },
+ {
+  "file": "YJHGSHN.HFT",
+  "name": "양재 샤넬",
+  "names": [
+   "양재 샤넬"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Syanel",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJHGSOSL.HFT",
+  "name": "양재 소슬",
+  "names": [
+   "양재 소슬"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Soseul",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19970805"
+ },
+ {
+  "file": "YJHGTTB.HFT",
+  "name": "양재 튼튼B",
+  "names": [
+   "양재 튼튼B"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Teunteun B",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1994,1996 Yangjae LAB",
+  "buildDate": "19970729"
+ },
+ {
+  "file": "YJHGWDA.HFT",
+  "name": "양재 와당",
+  "names": [
+   "양재 와당"
+  ],
+  "vendor": "한글과컴퓨터",
+  "latinName": "YJ Wadang",
+  "styles": [
+   "Regular"
+  ],
+  "sections": [
+   "Font Definition - Hangul"
+  ],
+  "copyright": "(c) Copyright 1997 Yangjae Media",
+  "buildDate": "19970728"
+ }
+]
