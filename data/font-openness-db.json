@@ -10,12 +10,20 @@
   "Liberation",
   "Noto",
   "Pretendard",
+  "경기천년",
   "고딕 A1",
   "고운",
   "나눔",
+  "문체부",
   "본고딕",
   "본명조",
-  "서울"
+  "서울",
+  "전주 완판본",
+  "한컴 말랑말랑",
+  "한컴 산스",
+  "한컴 울주",
+  "한컴 훈민정음",
+  "함초롬"
  ],
  "fonts": {
   "#견고딕": {
@@ -4297,12 +4305,9 @@
    "source": "폰트 파일 저작권 표시"
   },
   "Tahoma": {
-   "status": "proprietary",
-   "holder": "Microsoft / Monotype",
-   "reverseEngineeringClause": false,
-   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
-   "source": "폰트 파일 name ID 13",
-   "copyright": "© 2006 Microsoft Corporation. All rights reserved."
+   "status": "free",
+   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
+   "source": "폰트 파일 name ID 13"
   },
   "Tamil MN": {
    "status": "unknown",
@@ -4335,12 +4340,9 @@
    "source": "폰트 파일 저작권 표시"
   },
   "Times New Roman": {
-   "status": "proprietary",
-   "holder": "Monotype",
-   "reverseEngineeringClause": false,
-   "clauseNote": "금지 범위가 'You may not copy or distribute this software'까지",
-   "source": "폰트 파일 name ID 13",
-   "copyright": "© 2006 The Monotype Corporation. All Rights Reserved."
+   "status": "free",
+   "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms o",
+   "source": "폰트 파일 name ID 13"
   },
   "Trattatello": {
    "status": "unknown",
@@ -4557,6 +4559,13 @@
    "copyright": "(c) Copyright 1994 Hangul & Computer Co., Ltd.",
    "buildDate": "19960604"
   },
+  "경기천년": {
+   "status": "freeware",
+   "license": "경기도 배포 무료 글꼴",
+   "source": "https://www.gg.go.kr/contents/contents.do?ciIdx=679",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "고딕": {
    "status": "proprietary",
    "holder": "(주)한글과컴퓨터",
@@ -4579,19 +4588,15 @@
    "matchMode": "prefix"
   },
   "굴림": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "© 2009 HanYang I&C Co., LTD."
   },
   "굴림체": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "굵은공한": {
@@ -4627,19 +4632,15 @@
    "buildDate": "19960325"
   },
   "궁서": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "궁서체": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "나눔": {
@@ -4664,19 +4665,15 @@
    "source": "https://hangeul.naver.com/font"
   },
   "돋움": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "돋움체": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "딸기": {
@@ -4690,11 +4687,9 @@
    "buildDate": "19960704"
   },
   "맑은 고딕": {
-   "status": "proprietary",
-   "holder": "Microsoft / Monotype",
-   "reverseEngineeringClause": false,
-   "clauseNote": "내장 문구에 역설계 금지 없음. 다만 'Any other use is prohibited'라는 포괄 조항이 있어 문언상 범위가 불명확",
-   "source": "폰트 파일 name ID 13",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "© 2016 Microsoft Corporation. All Rights Reserved."
   },
   "맑은 고딕 Semilight": {
@@ -4715,50 +4710,75 @@
    "copyright": "(c) Copyright 1989,1995 Hangul & Computer Co., Ltd.",
    "buildDate": "19990114"
   },
+  "문체부": {
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "문체부 궁체 정자체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 궁체 흘림체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 돋음체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 바탕체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 쓰기 정체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 쓰기 흘림체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 제목 돋음체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 제목 바탕체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문체부 훈민정음체": {
-   "status": "unknown",
-   "copyright": "(c) Copyright Seoul System Co. 1996",
-   "source": "폰트 파일 저작권 표시"
+   "status": "freeware",
+   "license": "출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지",
+   "source": "https://www.happyjung.com/font/21",
+   "reproducible": true,
+   "copyright": "(c) Copyright Seoul System Co. 1996"
   },
   "문화돋움": {
    "status": "proprietary",
@@ -4821,19 +4841,15 @@
    "buildDate": "19960212"
   },
   "바탕": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "바탕체": {
-   "status": "proprietary",
-   "holder": "(주)한양정보통신",
-   "reverseEngineeringClause": true,
-   "clauseNote": "EULA 2-2)-①에 '역 설계', '폰트간격 및 자간 수정' 문언 있음. 다만 목적어는 라이선스 받은 폰트 파일 자체이며 측정·판독을 가리키는 문언은 없음",
-   "source": "https://www.hanyang.co.kr/license_20131011.php",
+   "status": "unlicensed",
+   "note": "한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권자에게 문의해야 함",
+   "source": "https://www.hancom.com/support/faqCenter/faq/detail/2681",
    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000"
   },
   "복숭아": {
@@ -5399,6 +5415,13 @@
    "copyright": "(c) Copyright 1996 Hangul & Computer Co., Ltd.",
    "buildDate": "19960607"
   },
+  "전주 완판본": {
+   "status": "freeware",
+   "license": "전주시 배포 무료 글꼴",
+   "source": "https://www.jeonju.go.kr/",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "중간공한": {
    "status": "proprietary",
    "holder": "(주)한글과컴퓨터",
@@ -5637,6 +5660,13 @@
    "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
    "copyright": "Copyright (c) 2017 Hancom Inc. All rights reserved. Font designed by FONTRIX Inc."
   },
+  "한컴 말랑말랑": {
+   "status": "freeware",
+   "license": "한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+   "source": "https://font.hancom.com/pc/sub/sub3_1.php",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "한컴 바겐세일 B": {
    "status": "proprietary",
    "holder": "(주)윤디자인연구소",
@@ -5669,6 +5699,13 @@
    "source": "https://font.co.kr/policy/license",
    "copyright": "Copyright (C) 1989-2009 YoonDesign Inc. All Rights Reserved."
   },
+  "한컴 산스": {
+   "status": "freeware",
+   "license": "한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+   "source": "https://font.hancom.com/pc/sub/sub3_1.php",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "한컴 소망 B": {
    "status": "proprietary",
    "holder": "(주)윤디자인연구소",
@@ -5700,6 +5737,13 @@
    "clauseNote": "공개 라이선스 문서 2종에 역설계·수정 금지 문언 없음. 매체별 사용 범위만 열거",
    "source": "https://font.co.kr/policy/license",
    "copyright": "Copyright (C) 1989-2009 YoonDesign Inc. All Rights Reserved."
+  },
+  "한컴 울주": {
+   "status": "freeware",
+   "license": "한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+   "source": "https://font.hancom.com/pc/sub/sub3_1.php",
+   "reproducible": true,
+   "matchMode": "prefix"
   },
   "한컴 윤고딕 230": {
    "status": "proprietary",
@@ -5797,6 +5841,13 @@
    "source": "https://font.co.kr/policy/license",
    "copyright": "Copyright (C) 1989-2009 YoonDesign Inc. All Rights Reserved."
   },
+  "한컴 훈민정음": {
+   "status": "freeware",
+   "license": "한컴 서체 라이선스 — 상업적 사용·임베딩·서버 탑재 허용, 수정·재배포 금지",
+   "source": "https://font.hancom.com/pc/sub/sub3_1.php",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "한컴돋움": {
    "status": "proprietary",
    "holder": "(주)한양정보통신",
@@ -5826,44 +5877,46 @@
    "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
    "copyright": "Copyright (c) 2017 Hancom Inc. All rights reserved. Font designed by FONTRIX Inc."
   },
+  "함초롬": {
+   "status": "freeware",
+   "license": "한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지",
+   "source": "https://noonnu.cc/font_page/654",
+   "reproducible": true,
+   "matchMode": "prefix"
+  },
   "함초롬돋움": {
-   "status": "proprietary",
-   "holder": "(주)한글과컴퓨터",
-   "reverseEngineeringClause": false,
-   "clauseNote": "제품 EULA 12개 조 전문에 역설계·디컴파일·분해 계열 문언 없음. 글꼴 조항(제7조)은 금지가 아니라 원권리자 문의 안내",
-   "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
+   "status": "freeware",
+   "license": "한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지",
+   "source": "https://noonnu.cc/font_page/654",
+   "reproducible": true,
    "copyright": "Copyright (c) 2010-2017 Hancom INC(HNC). All rights reserved."
   },
   "함초롬돋움 확장": {
-   "status": "proprietary",
-   "holder": "(주)한글과컴퓨터",
-   "reverseEngineeringClause": false,
-   "clauseNote": "제품 EULA 12개 조 전문에 역설계·디컴파일·분해 계열 문언 없음. 글꼴 조항(제7조)은 금지가 아니라 원권리자 문의 안내",
-   "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
+   "status": "freeware",
+   "license": "한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지",
+   "source": "https://noonnu.cc/font_page/654",
+   "reproducible": true,
    "copyright": "Copyright (c) 2010-2014 Hancom INC(HNC). All rights reserved."
   },
   "함초롬바탕": {
-   "status": "proprietary",
-   "holder": "(주)한글과컴퓨터",
-   "reverseEngineeringClause": false,
-   "clauseNote": "제품 EULA 12개 조 전문에 역설계·디컴파일·분해 계열 문언 없음. 글꼴 조항(제7조)은 금지가 아니라 원권리자 문의 안내",
-   "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
+   "status": "freeware",
+   "license": "한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지",
+   "source": "https://noonnu.cc/font_page/654",
+   "reproducible": true,
    "copyright": "Copyright (c) 2010-2017 Hancom INC(HNC). All rights reserved."
   },
   "함초롬바탕 확장": {
-   "status": "proprietary",
-   "holder": "(주)한글과컴퓨터",
-   "reverseEngineeringClause": false,
-   "clauseNote": "제품 EULA 12개 조 전문에 역설계·디컴파일·분해 계열 문언 없음. 글꼴 조항(제7조)은 금지가 아니라 원권리자 문의 안내",
-   "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
+   "status": "freeware",
+   "license": "한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지",
+   "source": "https://noonnu.cc/font_page/654",
+   "reproducible": true,
    "copyright": "Copyright (c) 2010-2014 Hancom INC(HNC). All rights reserved."
   },
   "함초롬바탕 확장B": {
-   "status": "proprietary",
-   "holder": "(주)한글과컴퓨터",
-   "reverseEngineeringClause": false,
-   "clauseNote": "제품 EULA 12개 조 전문에 역설계·디컴파일·분해 계열 문언 없음. 글꼴 조항(제7조)은 금지가 아니라 원권리자 문의 안내",
-   "source": "한컴오피스 한/글 for Mac 12.30.0 제품 EULA",
+   "status": "freeware",
+   "license": "한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지",
+   "source": "https://noonnu.cc/font_page/654",
+   "reproducible": true,
    "copyright": "Copyright (c) 2013 Hancom INC(HNC). All rights reserved."
   },
   "해서 간자": {

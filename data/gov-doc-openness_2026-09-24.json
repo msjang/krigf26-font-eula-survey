@@ -1,45 +1,27 @@
 {
  "documents": 450,
- "mean": 1.2,
- "median": 0.0,
- "zeroScore": 377,
+ "mean": 15.0,
+ "median": 12.0,
+ "max": 100.0,
+ "zeroScore": 5,
  "verdictTotals": {
-  "MISSING": 8854,
-  "UNKNOWN": 832,
-  "OK": 130
+  "UNLICENSED": 2168,
+  "MISSING": 5477,
+  "OK": 1358,
+  "UNKNOWN": 813
  },
  "missingTop": [
-  {
-   "font": "함초롬바탕",
-   "documents": 445
-  },
-  {
-   "font": "한양신명조",
-   "documents": 443
-  },
   {
    "font": "명조",
    "documents": 443
   },
   {
+   "font": "한양신명조",
+   "documents": 441
+  },
+  {
    "font": "휴먼명조",
    "documents": 440
-  },
-  {
-   "font": "함초롬돋움",
-   "documents": 435
-  },
-  {
-   "font": "돋움체",
-   "documents": 431
-  },
-  {
-   "font": "바탕",
-   "documents": 423
-  },
-  {
-   "font": "맑은 고딕",
-   "documents": 416
   },
   {
    "font": "HY헤드라인M",
@@ -50,32 +32,20 @@
    "documents": 365
   },
   {
-   "font": "돋움",
-   "documents": 329
-  },
-  {
    "font": "산세리프",
    "documents": 323
   },
   {
-   "font": "굴림",
-   "documents": 319
-  },
-  {
    "font": "신명조■얒a",
-   "documents": 285
+   "documents": 282
   },
   {
    "font": "HY중고딕",
    "documents": 281
   },
   {
-   "font": "-윤고딕130",
-   "documents": 280
-  },
-  {
    "font": "신명 태명조",
-   "documents": 279
+   "documents": 278
   },
   {
    "font": "신명 견명조",
@@ -83,18 +53,14 @@
   },
   {
    "font": "#신명조",
-   "documents": 275
-  },
-  {
-   "font": "한양견명조",
-   "documents": 275
-  },
-  {
-   "font": "-윤고딕220",
    "documents": 274
   },
   {
-   "font": "HY각헤드라인M",
+   "font": "한양견명조",
+   "documents": 274
+  },
+  {
+   "font": "-윤고딕130",
    "documents": 273
   },
   {
@@ -102,28 +68,24 @@
    "documents": 272
   },
   {
-   "font": "바탕체",
-   "documents": 214
+   "font": "HY각헤드라인M",
+   "documents": 269
   },
   {
    "font": "한양중고딕",
    "documents": 153
   },
   {
-   "font": "Times New Roman",
-   "documents": 45
-  },
-  {
    "font": "Arial",
    "documents": 38
   },
   {
-   "font": "굴림체",
-   "documents": 29
-  },
-  {
    "font": "HY울릉도M",
    "documents": 28
+  },
+  {
+   "font": "-윤고딕220",
+   "documents": 27
   },
   {
    "font": "휴먼고딕",
@@ -158,16 +120,94 @@
    "documents": 11
   },
   {
-   "font": "함초롬바탕 확장B",
-   "documents": 10
-  },
-  {
    "font": "신명 세명조",
    "documents": 10
   },
   {
    "font": "Cambria",
    "documents": 9
+  },
+  {
+   "font": "-윤고딕120",
+   "documents": 8
+  },
+  {
+   "font": "신명 태고딕",
+   "documents": 8
+  },
+  {
+   "font": "#태고딕",
+   "documents": 8
+  },
+  {
+   "font": "신명 중고딕",
+   "documents": 8
+  },
+  {
+   "font": "한양중고딕&quot;",
+   "documents": 7
+  },
+  {
+   "font": "한컴 윤고딕 720",
+   "documents": 7
+  },
+  {
+   "font": "HY신명조",
+   "documents": 6
+  },
+  {
+   "font": "HY울릉도B",
+   "documents": 6
+  },
+  {
+   "font": "한컴 윤고딕 250",
+   "documents": 6
+  },
+  {
+   "font": "-윤고딕330",
+   "documents": 5
+  },
+  {
+   "font": "-윤고딕320",
+   "documents": 5
+  }
+ ],
+ "unlicensedTop": [
+  {
+   "font": "돋움체",
+   "documents": 431
+  },
+  {
+   "font": "바탕",
+   "documents": 423
+  },
+  {
+   "font": "맑은 고딕",
+   "documents": 416
+  },
+  {
+   "font": "돋움",
+   "documents": 329
+  },
+  {
+   "font": "굴림",
+   "documents": 319
+  },
+  {
+   "font": "바탕체",
+   "documents": 214
+  },
+  {
+   "font": "굴림체",
+   "documents": 29
+  },
+  {
+   "font": "궁서",
+   "documents": 6
+  },
+  {
+   "font": "궁서체",
+   "documents": 1
   }
  ]
 }

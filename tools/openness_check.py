@@ -13,9 +13,11 @@
   재현 가능한 폰트 수 / 전체 폰트 수 x 100
 
   폰트별 판정
-    OK        자유 라이선스 폰트다
-    OK        상용이지만 자유 라이선스 대체 폰트가 문서에 지정되어 있다
+    OK        수정까지 자유롭거나(OFL 등), 무료 사용·임베딩이 허용된 폰트다.
+              후자는 수정이 금지되어 있으나 문서를 그대로 재현하는 데는 제약이 없다
+    OK        상용이지만 재현 가능한 대체 폰트가 문서에 지정되어 있다
     MISSING   상용인데 대체 지정이 없거나, 지정된 대체 폰트도 상용이다
+    권리불명   한컴이 "라이선스를 보유한 것이 아니다"라고 밝힌 Windows 기본 글꼴 9종
     UNKNOWN   라이선스를 확인할 근거를 찾지 못했다
 
 무엇을 판정하지 않는가
@@ -187,14 +189,20 @@ class Judge:
                         "source": "폰트 이름 계열로 추정"}
         return {"status": "unknown"}
 
+    REPRODUCIBLE = ("free", "freeware")
+
     def judge(self, font):
         own = self.lookup(font["name"])
         if own["status"] == "free":
-            return "OK", "자유 라이선스 폰트", own, None
+            return "OK", "수정·재배포까지 자유로운 폰트", own, None
+        if own["status"] == "freeware":
+            return "OK", "무료 사용·임베딩 허용 (수정은 금지)", own, None
         sub_name = font.get("substitute")
         sub = self.lookup(sub_name) if sub_name else None
-        if sub and sub["status"] == "free":
-            return "OK", f"자유 라이선스 대체 폰트 지정됨 ({sub_name})", own, sub
+        if sub and sub["status"] in self.REPRODUCIBLE:
+            return "OK", f"재현 가능한 대체 폰트 지정됨 ({sub_name})", own, sub
+        if own["status"] == "unlicensed":
+            return "UNLICENSED", own.get("note", "권리 관계 불명"), own, sub
         if own["status"] == "proprietary":
             if sub_name:
                 return "MISSING", f"대체 지정이 있으나 그것도 상용 ({sub_name})", own, sub
@@ -231,7 +239,7 @@ def analyse(path, judge):
 
 # ---------------------------------------------------------------- 출력
 
-MARK = {"OK": "  OK   ", "MISSING": " 미확보 ", "UNKNOWN": " 불명  "}
+MARK = {"OK": "  OK   ", "MISSING": " 미확보 ", "UNLICENSED": " 권리불명 ", "UNKNOWN": " 불명  "}
 
 
 def render(result):
@@ -249,10 +257,19 @@ def render(result):
               f"{r['substitute'] or '-'}")
 
     missing = [r for r in result["fonts"] if r["verdict"] == "MISSING"]
+    unlicensed = [r for r in result["fonts"] if r["verdict"] == "UNLICENSED"]
     unknown = [r for r in result["fonts"] if r["verdict"] == "UNKNOWN"]
 
     print()
-    if not missing and not unknown:
+    if unlicensed:
+        print(f"  Windows 기본 글꼴 {len(unlicensed)}종이 쓰였습니다: "
+              f"{', '.join(r['font'] for r in unlicensed)}")
+        print("  한컴은 이 글꼴들에 대해 \"저작권자와의 계약을 통해 라이선스를 보유한 것은")
+        print("  아니다\"라고 공지하고 있습니다. 권리 관계를 확인할 창구가 사용자에게")
+        print("  열려 있지 않은 상태입니다.")
+        print("    https://www.hancom.com/support/faqCenter/faq/detail/2681")
+        print()
+    if not missing and not unknown and not unlicensed:
         print("  이 문서는 자유 소프트웨어만으로 같은 레이아웃을 재현할 수 있습니다.")
         return
 
