@@ -70,6 +70,33 @@ SECTIONS = {
         "hasAgency": True,
     },
 }
+# 목록 페이지의 chkRepCode 체크박스에서 추출한 부처 코드 (2026-09-24 확인).
+# 코드는 현행 부처 기준이나, 조회하면 승계 이전의 옛 부처명 문서도 함께 반환된다.
+# 예: A00031 로 2015년을 조회하면 행정자치부·국민안전처 문서가 나온다.
+AGENCIES = {
+    "A00001": "고용노동부", "A00002": "교육부", "A00004": "국무조정실",
+    "A00005": "국방부", "A00006": "국토교통부", "A00008": "농림축산식품부",
+    "A00009": "문화체육관광부", "A00010": "법무부", "A00011": "법제처",
+    "A00012": "보건복지부", "A00013": "성평등가족부", "A00014": "외교부",
+    "A00015": "산업통상부", "A00017": "통일부", "A00019": "기후에너지환경부",
+    "A00023": "해양수산부", "A00027": "식품의약품안전처", "A00030": "인사혁신처",
+    "A00031": "행정안전부", "A00032": "중소벤처기업부", "A00033": "과학기술정보통신부",
+    "A00037": "국가보훈부", "A00038": "국가데이터처", "A00039": "지식재산처",
+    "A00040": "기획예산처", "A00041": "재정경제부",
+    "B00001": "검찰청", "B00002": "경찰청", "B00003": "관세청", "B00004": "국세청",
+    "B00005": "기상청", "B00006": "농촌진흥청", "B00008": "방위사업청",
+    "B00009": "병무청", "B00010": "산림청", "B00013": "조달청", "B00017": "해양경찰청",
+    "B00018": "행정중심복합도시건설청", "B00021": "새만금개발청", "B00022": "소방청",
+    "B00023": "질병관리청", "B00024": "재외동포청", "B00025": "국가유산청",
+    "B00026": "우주항공청",
+    "C00001": "공정거래위원회", "C00002": "국민권익위원회", "C00003": "금융위원회",
+    "C00005": "방송미디어통신위원회", "C00012": "원자력안전위원회",
+    "C00019": "개인정보보호위원회", "C00022": "감사원",
+    "E00001": "경제사회노동위원회", "E00023": "국민통합위원회",
+    "E00027": "국가기후위기대응위원회", "E00028": "국가교육위원회",
+    "E00029": "기본사회위원회", "E00030": "인구전략위원회",
+}
+
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
       "AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15")
 
@@ -255,27 +282,41 @@ def main():
                     help="부처 코드 목록만 출력하고 종료")
     ap.add_argument("--out", default="gov-doc-fonts.json")
     args = ap.parse_args()
-    section = SECTIONS[args.section]
 
+    if args.list_agencies:
+        for code, name in sorted(AGENCIES.items(), key=lambda kv: kv[1]):
+            print(f"{code}  {name}")
+        return
+
+    section = SECTIONS[args.section]
     years = parse_years(args.years)
     windows = sample_windows(years, args.weeks)
+    rep_codes = [c.strip() for c in args.rep_codes.split(",") if c.strip()]
     records, errors, seen_files = [], [], set()
     per_year = Counter()
+    per_agency = Counter()
 
-    for start, end, year in windows:
-        if per_year[year] >= args.per_year:
+    # 부처를 지정하면 (부처 x 연도창) 을 순회하고, 아니면 연도창만 순회한다
+    tasks = ([(rc, w) for rc in rep_codes for w in windows] if rep_codes
+             else [(None, w) for w in windows])
+
+    for rep_code, (start, end, year) in tasks:
+        quota_key = (rep_code, year) if rep_code else year
+        limit = args.per_agency if rep_code and args.per_agency else args.per_year
+        bucket = per_agency if rep_code else per_year
+        if bucket[quota_key] >= limit:
             continue
         for page in range(1, args.pages + 1):
-            if per_year[year] >= args.per_year:
+            if bucket[quota_key] >= limit:
                 break
             try:
-                items = list_items(section, start, end, page)
+                items = list_items(section, start, end, page, rep_code=rep_code)
             except Exception as exc:
                 errors.append({"stage": "list", "window": start, "error": str(exc)})
                 continue
             time.sleep(args.delay)
             for item in items:
-                if per_year[year] >= args.per_year:
+                if bucket[quota_key] >= limit:
                     break
                 try:
                     attachments = list_attachments(section, item["newsId"])
@@ -306,6 +347,7 @@ def main():
                         "date": item["date"],
                         "year": year,
                         "agency": item["agency"],
+                        "repCode": rep_code,
                         "docType": section["label"],
                         "filename": label,
                         "url": url,
@@ -313,9 +355,10 @@ def main():
                         "fonts": parsed["fonts"],
                         "substitutions": parsed["substitutions"],
                     })
-                    per_year[year] += 1
+                    bucket[quota_key] += 1
                     break  # 문서당 첨부 1건만
-        print(f"[{year}] {start}~{end} 누적 {per_year[year]}건 "
+        tag = f"{AGENCIES.get(rep_code, rep_code)} " if rep_code else ""
+        print(f"[{tag}{year}] {start}~{end} 누적 {bucket[quota_key]}건 "
               f"(전체 {len(records)})", file=sys.stderr, flush=True)
 
     with open(args.out, "w", encoding="utf-8") as fp:
@@ -326,6 +369,8 @@ def main():
             "sampling": {
                 "years": years, "weeksPerYear": args.weeks,
                 "targetPerYear": args.per_year,
+                "repCodes": rep_codes or None,
+                "perAgency": args.per_agency or None,
                 "dateFilterSupported": section.get("dateFilter", True),
                 "agencyRecorded": section.get("hasAgency", True),
                 "note": ("연도별 층화 표본. 각 연도에서 달마다 흩어진 주를 골라 수집. "
@@ -338,8 +383,8 @@ def main():
 
     print(f"\n문서 {len(records)}건, 오류 {len(errors)}건 → {args.out}", file=sys.stderr)
     print("\n[연도별]", file=sys.stderr)
-    for y in sorted(per_year):
-        print(f"  {y}  {per_year[y]:4d}건", file=sys.stderr)
+    for y, n in sorted(Counter(r["year"] for r in records).items()):
+        print(f"  {y}  {n:4d}건", file=sys.stderr)
     print("\n[부처별 상위 15]", file=sys.stderr)
     for a, n in Counter(r["agency"] for r in records).most_common(15):
         print(f"  {n:4d}  {a}", file=sys.stderr)
