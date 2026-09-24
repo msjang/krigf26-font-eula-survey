@@ -13,6 +13,9 @@
 | `gov-doc-fonts-actually_2026-09-24.json` | 보도참고·해명자료 | 44 |
 | `gov-doc-fonts-briefing_2026-09-24.json` | 브리핑 속기자료 | 9 |
 | `gov-doc-genre-agency_2026-09-24.json` | 장르별·행안부 계보 집계 | — |
+| `gov-doc-fonts-agencies_2026-09-24.json` | 법제처·과기정통부·기획예산처 집중 수집 | 410 |
+| `gov-doc-agency-compare_2026-09-24.json` | 부처 비교 (2020년 이후로 시기 통제) | — |
+| `gov-doc-forms-candidates_2026-09-24.json` | 파일명에 서식·신청서 등이 포함된 후보 (대부분 오탐) | 15 |
 | `gov-doc-fonts_summary_2026-09-24.json` | 위 집계 — 폰트별 등장 문서 수, 대체 쌍 | — |
 | `mcf-metric-verification_2026-09-24.json` | MCF 7쌍의 advance width·수직 메트릭·윤곽선 대조 | 7 |
 | `mcf-pairs_2026-09-24.json` | 위 비교에 사용한 원본/MCF 파일 경로 | 7 |
