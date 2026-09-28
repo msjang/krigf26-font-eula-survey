@@ -5,7 +5,11 @@
 - 작성일: 2026.09.
 - 작성자: 장민석 (msjang@kisti.re.kr)
 
-> 이 저장소의 문서는 **Claude Opus 5**(Anthropic)를 사용해 작성했습니다.
+> [!WARNING]
+> 본 문서는 발표자 개인의 조사 결과이며 소속 기관의 공식 입장이 아닙니다. 법률 의견이 아닙니다. 변호사 검토를 대체하지 않습니다.
+>
+> 이 저장소의 문서는 Claude Opus 5(Anthropic)를 사용하여 작성했습니다. 검수를 하였지만 실수가 있을 수 있습니다. 수정이 필요한 경우 레포의 [Issue](https://github.com/msjang/krigf26-font-eula-survey/issues)에 남겨주세요.
+>
 > 수집·측정에 쓴 도구는 [`tools/`](tools/)에, 원자료는 [`data/`](data/)에 두어 누구나 재현할 수 있게 했습니다.
 
 ## 웹에서 읽으세요
@@ -112,5 +116,3 @@ python3 tools/build_font_registry.py > font-registry.md
 ## 라이선스
 
 조사 문서·도구·추출 데이터는 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ko). 인용한 약관 문언의 권리는 각 권리자에게 있습니다.
-
-발표자 개인의 조사 결과이며 소속 기관의 공식 입장이 아닙니다. **법률 의견이 아닙니다.** 변호사 검토를 대체하지 않습니다.

@@ -111,10 +111,6 @@ def main():
 
     print("# 국내 공문서 폰트 목록 — 권리자와 라이선스")
     print()
-    print("> 이 문서는 **Claude Opus 5**(Anthropic)를 사용해 작성했습니다. "
-          "수집·측정에 쓴 도구는 [`tools/`](tools/)에, 원자료는 [`data/`](data/)에 두어 "
-          "누구나 재현할 수 있게 했습니다.")
-    print()
     print("- 대상: 정책브리핑 보도자료 HWPX **450건**에 등장한 고유 폰트 "
           f"**{len(rows)}종** (2026-09-21~23 게시분)")
     print("- 생성: [`tools/build_font_registry.py`](tools/build_font_registry.py) "

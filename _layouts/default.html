@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<title>{% if page.title and page.title != site.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <style>
 :root{
@@ -38,7 +38,7 @@ main{min-width:0;padding:34px 0 88px}
 #toc{position:sticky;top:20px;margin-top:34px;max-height:calc(100vh - 44px);
   overflow-y:auto;font-size:13.5px;line-height:1.6;
   border-left:1px solid var(--line);padding:2px 0 2px 16px}
-#toc .toc-title{font-weight:700;font-size:12px;letter-spacing:.06em;
+#toc>div>.toc-title{font-weight:700;font-size:12px;letter-spacing:.06em;
   color:var(--ink-soft);text-transform:uppercase;margin-bottom:10px}
 #toc ol{list-style:none;margin:0;padding:0}
 #toc li{margin:0 0 3px}
@@ -46,7 +46,7 @@ main{min-width:0;padding:34px 0 88px}
 #toc a{color:var(--ink-soft);text-decoration:none;display:block;padding:2px 0}
 #toc a:hover{color:var(--accent)}
 #toc a.on{color:var(--accent);font-weight:600}
-#toc:empty{display:none}
+#toc:not(:has(ol)){display:none}
 
 /* ── 본문 ── */
 main h1{font-size:30px;line-height:1.35;margin:0 0 20px;letter-spacing:-.01em}
@@ -82,16 +82,36 @@ td:has(+td:last-child),table td[align=right],table th[align=right]{text-align:ri
 
 footer.site-foot{border-top:1px solid var(--line);background:var(--bg-soft);
   font-size:13px;color:var(--ink-soft)}
-footer.site-foot .inner{max-width:1180px;margin:0 auto;padding:20px}
+footer.site-foot .inner{max-width:1180px;margin:0 auto;padding:22px 20px}
 footer.site-foot a{color:var(--ink-soft)}
+footer.site-foot .disclaimer{max-width:78ch}
+footer.site-foot .disclaimer p{margin:0 0 7px}
+footer.site-foot .meta{margin:14px 0 0;padding-top:12px;
+  border-top:1px solid var(--line);font-size:12.5px}
+
+/* GitHub 경고 블록 — kramdown 은 [!WARNING] 을 모르므로 스크립트로 바꾼다 */
+blockquote.callout{background:#fff8e6;border-left-color:var(--mark);color:#5c4708}
+blockquote.callout .callout-label{display:block;font-weight:700;font-size:13px;
+  letter-spacing:.03em;margin-bottom:6px;color:var(--mark)}
 
 @media (max-width:900px){
+  /* 한 칸으로 접히면 DOM 순서상 목차가 본문 뒤로 간다. 순서를 뒤집어 위로 올린다 */
   .wrap{grid-template-columns:minmax(0,1fr);gap:0}
-  #toc{position:static;max-height:none;margin:0 0 24px;
-    border-left:0;border:1px solid var(--line);border-radius:6px;padding:14px 16px;
+  #toc{order:-1;position:static;max-height:60vh;margin:20px 0 4px;
+    border-left:0;border:1px solid var(--line);border-radius:6px;
     background:var(--bg-soft)}
-  main{padding-top:24px}
+  #toc>summary{display:block;cursor:pointer;padding:11px 16px;font-weight:700;font-size:13px;
+    letter-spacing:.04em;color:var(--ink-soft);list-style:none}
+  #toc>summary::-webkit-details-marker{display:none}
+  #toc>summary::after{content:" ▾";color:var(--ink-soft)}
+  #toc[open]>summary::after{content:" ▴"}
+  #toc>div{padding:0 16px 14px}
+  #toc>div>.toc-title{display:none}
+  main{padding-top:20px}
   main h1{font-size:25px}
+}
+@media (min-width:901px){
+  #toc>summary{display:none}
 }
 @media print{
   .site-head,#toc,footer.site-foot{display:none}
@@ -115,13 +135,18 @@ footer.site-foot a{color:var(--ink-soft)}
 
 <div class="wrap">
   <main>{{ content }}</main>
-  <aside id="toc" aria-label="목차"></aside>
+  <details id="toc" aria-label="목차" open><summary>목차</summary><div></div></details>
 </div>
 
 <footer class="site-foot"><div class="inner">
-  {{ site.description }} ·
+  <div class="disclaimer">
+  {%- for line in site.disclaimer %}
+    <p>{{ line }}</p>
+  {%- endfor %}
+  </div>
+  <p class="meta">{{ site.description }} ·
   <a href="https://github.com/{{ site.repository }}">저장소</a> ·
-  문서·도구·데이터 <a href="https://creativecommons.org/licenses/by/4.0/deed.ko">CC BY 4.0</a>
+  문서·도구·데이터 <a href="https://creativecommons.org/licenses/by/4.0/deed.ko">CC BY 4.0</a></p>
 </div></footer>
 
 <script>
@@ -145,6 +170,20 @@ footer.site-foot a{color:var(--ink-soft)}
       'https://github.com/{{ site.repository }}/blob/master/' + a.getAttribute('href'));
     a.setAttribute('target', '_blank');
     a.setAttribute('rel', 'noopener');
+  });
+
+  // GitHub 의 > [!WARNING] 경고 블록을 살린다. kramdown 은 이 표기를 모른다.
+  var LABEL = { NOTE:'참고', TIP:'도움말', IMPORTANT:'중요',
+                WARNING:'유의', CAUTION:'주의' };
+  main.querySelectorAll('blockquote > p:first-child').forEach(function (p) {
+    var m = /^\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*/.exec(p.textContent || '');
+    if (!m) return;
+    p.innerHTML = p.innerHTML.replace(/^\s*\[!\w+\]\s*(<br\s*\/?>)?\s*/, '');
+    var tag = document.createElement('span');
+    tag.className = 'callout-label';
+    tag.textContent = LABEL[m[1]] || m[1];
+    p.parentNode.classList.add('callout');
+    p.parentNode.insertBefore(tag, p);
   });
 
   // 표는 좁은 화면에서 가로 스크롤되게 감싼다
@@ -177,11 +216,14 @@ footer.site-foot a{color:var(--ink-soft)}
     list.appendChild(li);
   });
 
+  var box = toc.querySelector('div') || toc;
   var title = document.createElement('div');
   title.className = 'toc-title';
   title.textContent = '목차';
-  toc.appendChild(title);
-  toc.appendChild(list);
+  box.appendChild(title);
+  box.appendChild(list);
+  // 좁은 화면에서는 접어 둔다
+  if (window.matchMedia('(max-width:900px)').matches) toc.removeAttribute('open');
 
   // 현재 읽는 절 표시
   var links = {};
