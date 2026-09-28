@@ -36,6 +36,7 @@ KrIGF 2026 세션 [공익적 상호운용성을 위한 사전 법적 확신 메�
 | 4 | 해외 MCF 선례 메트릭 실측 | 7쌍 |
 | 5 | 한컴 고유 포맷(HFT) 레지스트리 | 387종 |
 | 6 | 공문서 서식 글꼴을 정하는 법령 | 시행규칙 별표 4·5 |
+| 7 | Windows 10 기본 글꼴 원본 대조 | 9종 |
 
 ## 답
 
@@ -59,6 +60,7 @@ KrIGF 2026 세션 [공익적 상호운용성을 위한 사전 법적 확신 메�
 | [메트릭 실측](findings-metrics.md) | MCF 선례 7쌍, 한글 폰트 구조 |
 | [개방성 점검](findings-openness.md) | 문서 단위 채점 도구와 결과 |
 | [HFT 레지스트리](findings-hft.md) | 한컴 고유 포맷 387종, 1993~1999년 빌드 |
+| [Windows 판 대조](findings-windows.md) | 기본 글꼴 9종의 권리 구조, 한컴 번들본과의 차이 |
 | [법령 조사](findings-regulation.md) | 시행규칙 별표 4·5의 글꼴 지정 |
 | [공문서 실태](findings-gov-docs.md) | 사흘치 표본 450건 |
 | [출처 목록](sources.md) · [남은 질문](open-questions.md) | |

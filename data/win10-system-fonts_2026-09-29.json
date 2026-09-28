@@ -1,0 +1,172 @@
+[
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "batang.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "바탕",
+  "full": "바탕",
+  "version": "Version 5.02",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "바탕 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 0
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "batang.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "바탕체",
+  "full": "바탕체",
+  "version": "Version 5.02",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "바탕체 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 1
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "batang.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "궁서",
+  "full": "궁서",
+  "version": "Version 5.02",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "궁서 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 2
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "batang.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "궁서체",
+  "full": "궁서체",
+  "version": "Version 5.02",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "궁서체 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 3
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "gulim.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "굴림",
+  "full": "굴림",
+  "version": "Version 5.03",
+  "copyright": "© 2009 HanYang I&C Co., LTD.",
+  "trademark": "굴림 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 0
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "gulim.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "굴림체",
+  "full": "굴림체",
+  "version": "Version 5.03",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "굴림체 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 1
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "gulim.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "돋움",
+  "full": "돋움",
+  "version": "Version 5.03",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "돋움 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 2
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "gulim.ttc",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "돋움체",
+  "full": "돋움체",
+  "version": "Version 5.03",
+  "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+  "trademark": "돋움체 is a registered trademark of the Microsoft Corporation.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  },
+  "faceIndex": 3
+ },
+ {
+  "source": "Windows 10 (10.0.18363) C:\\Windows\\Fonts",
+  "file": "malgun.ttf",
+  "dir": "/private/tmp/claude-501/-Users-msjang-Works-krigf26-later/104ed87e-9e1f-493b-849b-2ede8f8c7747/scratchpad/win/fonts",
+  "family": "맑은 고딕",
+  "full": "맑은 고딕",
+  "version": "Version 6.68",
+  "copyright": "© 2016 Microsoft Corporation. All Rights Reserved.",
+  "trademark": "Malgun Gothic is a trademark of the Microsoft group of companies.",
+  "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+  "licenseURL": "http://www.microsoft.com/typography/fonts",
+  "fsType": {
+   "raw": 8,
+   "embedding": "Editable",
+   "no_subsetting": false,
+   "bitmap_only": false
+  }
+ }
+]

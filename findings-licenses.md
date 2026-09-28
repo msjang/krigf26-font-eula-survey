@@ -113,6 +113,7 @@ TrueType/OpenType의 `name` 테이블과 `OS/2` 테이블은 공개 표준(OpenT
 | 맑은 고딕 | 92% | Monotype 표준문구 | 4 Preview & Print |
 
 - **공문서 본문에 가장 많이 쓰이는 한글 폰트일수록 파일 안에 라이선스 문구가 없고 임베딩 제한도 0이다**
+  - (정정) 이는 **한컴이 번들한 사본**에 대해 참이다. **Windows 원본은 다르다** — 같은 이름의 굴림·바탕 계열이라도 Windows 가 제공하는 파일에는 Microsoft 라이선스 문구가 있고 fsType 도 8(Editable)이다. 버전도 2.24 대 5.02/5.03 으로 다른 빌드다 → [findings-windows.md](findings-windows.md)
 - 함초롬 계열의 ID 13은 `YoonDesign Inc.` 라는 **상호 문자열 하나**이며, 어떤 조건도 기술하지 않는다
 
 ## 사. 오픈소스 폰트 및 MCF 선례 27종

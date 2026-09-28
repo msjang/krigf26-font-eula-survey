@@ -35,6 +35,7 @@ nav:
   - { name: 메트릭 실측,  url: /findings-metrics.html }
   - { name: 개방성 점검,  url: /findings-openness.html }
   - { name: HFT,        url: /findings-hft.html }
+  - { name: Windows,    url: /findings-windows.html }
   - { name: 법령,        url: /findings-regulation.html }
   - { name: 공문서 실태,  url: /findings-gov-docs.html }
   - { name: 출처,        url: /sources.html }
