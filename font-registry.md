@@ -1,5 +1,7 @@
 # 국내 공문서 폰트 목록 — 권리자와 라이선스
 
+> 이 문서는 **Claude Opus 5**(Anthropic)를 사용해 작성했습니다. 수집·측정에 쓴 도구는 [`tools/`](tools/)에, 원자료는 [`data/`](data/)에 두어 누구나 재현할 수 있게 했습니다.
+
 - 대상: 정책브리핑 보도자료 HWPX **450건**에 등장한 고유 폰트 **184종** (2026-09-21~23 게시분)
 - 생성: [`tools/build_font_registry.py`](tools/build_font_registry.py) — 아래 자료를 대조해 자동 생성
   - [`data/gov-doc-fonts_2026-09-24.json`](data/gov-doc-fonts_2026-09-24.json) 공문서 폰트 테이블
@@ -56,8 +58,8 @@
 | 신명 태명조 | 279 | 62% | HFT/TTF | 상용 | (주)한글과컴퓨터 | (c) Copyright 1994,1995 Hangul & Copmuter Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 신명 견명조 | 278 | 62% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1994,1995 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | HCI Tulip | 277 | 62% | HFT | 불명 | 휴먼컴퓨터 | - | - |
-| 한양견명조 | 275 | 61% | HFT/TTF | 상용 | (주)한양정보통신 | (c) Copyright 1992,1995 Hanyang Systems | [원문](https://www.hanyang.co.kr/license_20131011.php) |
 | #신명조 | 275 | 61% | HFT/TTF | 상용 | (주)한글과컴퓨터 | (c) Copyright 1996 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
+| 한양견명조 | 275 | 61% | HFT/TTF | 상용 | (주)한양정보통신 | (c) Copyright 1992,1995 Hanyang Systems | [원문](https://www.hanyang.co.kr/license_20131011.php) |
 | -윤고딕220 | 274 | 61% | TTF | 상용 | (주)윤디자인연구소 | - | [FONCO 사용범위](https://font.co.kr/policy/license) |
 | HY각헤드라인M | 273 | 61% | TTF | 상용 | (주)한양정보통신 | - | [EULA](https://www.hanyang.co.kr/license_20131011.php) |
 | #세명조 | 272 | 60% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1996 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
@@ -105,8 +107,8 @@
 | HY그래픽 | 5 | 1% | TTF | 상용 | (주)한양정보통신 | (c) Copyright HanYang I&C Co.,Ltd. 2002 | [원문](https://www.hanyang.co.kr/license_20131011.php) |
 | 한컴 고딕 | 5 | 1% | TTF | 상용 | (주)한글과컴퓨터 | Copyright (c) 2017 Hancom Inc. All rights reserved. Font designed by F | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | MS Mincho | 4 | 1% | TTF | 상용 | Microsoft / Monotype | © 2017 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO. | [폰트 내장 고지](findings-licenses.md) |
-| 신명조 간자 | 4 | 1% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1998 Han Media | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 한양신명조V | 4 | 1% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1997 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
+| 신명조 간자 | 4 | 1% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1998 Han Media | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 해수체B | 4 | 1% | TTF | 불명 | - | - | - |
 | 한양궁서 | 4 | 1% | HFT | 상용 | (주)한양정보통신 | (c) Copyright 1992,1995 Hanyang Systems | [원문](https://www.hanyang.co.kr/license_20131011.php) |
 | 휴먼옛체 | 4 | 1% | TTF | 상용 | (주)한글과컴퓨터 | HUMAN LICENSE TO HANGUL&COMPUTER | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
@@ -119,8 +121,8 @@
 | KoPubWorld돋움체 Light | 4 | 1% | TTF | 자유 | - | 한국출판인회의 무료 배포 | [원문](https://www.kopus.org/biz-01-02/) |
 | 신명조 | 4 | 1% | TTF | 상용 | 신명시스템즈 / (주)한글과컴퓨터 | - | - |
 | 나눔바른고딕 | 3 | 1% | TTF | 자유 | - | SIL Open Font License 1.1 | [원문](https://hangeul.naver.com/font) |
-| -윤명조310 | 3 | 1% | TTF | 상용 | (주)윤디자인연구소 | - | [FONCO 사용범위](https://font.co.kr/policy/license) |
 | 나눔명조OTF ExtraBold | 3 | 1% | TTF | 자유 | - | SIL Open Font License 1.1 | [원문](https://hangeul.naver.com/font) |
+| -윤명조310 | 3 | 1% | TTF | 상용 | (주)윤디자인연구소 | - | [FONCO 사용범위](https://font.co.kr/policy/license) |
 | Arial Narrow | 3 | 1% | TTF | 상용 | Monotype | Typeface © The Monotype Corporation plc. Data © The Monotype Corporati | [폰트 내장 고지](findings-licenses.md) |
 | Symbol | 3 | 1% | TTF | 상용 | Monotype | Typeface © The Monotype Corporation plc. Data © The Monotype Corporati | [폰트 내장 고지](findings-licenses.md) |
 | 중고딕 | 3 | 1% | TTF | 불명 | - | - | - |
@@ -144,13 +146,13 @@
 | 가는둥근제목체 | 2 | 0% | TTF | 불명 | - | - | - |
 | -윤고딕310 | 2 | 0% | TTF | 상용 | (주)윤디자인연구소 | - | [FONCO 사용범위](https://font.co.kr/policy/license) |
 | Yoon가변 윤고딕 110_TT | 2 | 0% | TTF | 불명 | - | - | - |
-| 영화체 | 2 | 0% | TTF | 불명 | - | - | - |
 | HY특견명조 | 2 | 0% | TTF | 상용 | (주)한양정보통신 | - | [EULA](https://www.hanyang.co.kr/license_20131011.php) |
+| 영화체 | 2 | 0% | TTF | 불명 | - | - | - |
 | HCI Acacia | 2 | 0% | HFT | 불명 | 휴먼컴퓨터 | - | - |
+| 문체부 제목 돋음체 | 2 | 0% | TTF | 무료 | - | 출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지 | [원문](https://www.happyjung.com/font/21) |
 | #신세고딕 | 2 | 0% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1996 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 다음_Regular | 2 | 0% | TTF | 불명 | - | - | - |
 | #세고딕 | 2 | 0% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1996 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
-| 문체부 제목 돋음체 | 2 | 0% | TTF | 무료 | - | 출처를 밝히고 자유롭게 활용 가능. 글꼴 자체의 유료 판매만 금지 | [원문](https://www.happyjung.com/font/21) |
 | 신명 태그래픽 | 2 | 0% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1994,1995 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 산돌명조 L\,한컴돋움 | 2 | 0% | TTF | 불명 | - | - | - |
 | HYHeadLine M | 2 | 0% | TTF | 상용 | (주)한양정보통신 | - | [EULA](https://www.hanyang.co.kr/license_20131011.php) |
@@ -161,8 +163,8 @@
 | -윤명조320 | 1 | 0% | TTF | 상용 | (주)윤디자인연구소 | - | [FONCO 사용범위](https://font.co.kr/policy/license) |
 | 태 나무 | 1 | 0% | TTF | 상용 | (주)한글과컴퓨터 | (c) Copyright 1996 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | AmeriGarmnd BT | 1 | 0% | TTF | 상용 | (주)한글과컴퓨터 | Copyright 1990-1992 as an unpublished work by Bitstream Inc. All right | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
-| 바른공군체 Bold | 1 | 0% | TTF | 불명 | - | - | - |
 | 강한공군체 Bold | 1 | 0% | TTF | 불명 | - | - | - |
+| 바른공군체 Bold | 1 | 0% | TTF | 불명 | - | - | - |
 | 경기천년바탕 Regular | 1 | 0% | TTF | 무료 | - | 경기도 배포 무료 글꼴 | [원문](https://www.gg.go.kr/contents/contents.do?ciIdx=679) |
 | HY그래픽M | 1 | 0% | TTF | 상용 | (주)한양정보통신 | - | [EULA](https://www.hanyang.co.kr/license_20131011.php) |
 | 맑은고딕 | 1 | 0% | TTF | 상용 | Microsoft / Monotype | - | [폰트 내장 고지](findings-licenses.md) |
@@ -171,17 +173,17 @@
 | 한컴 윤고딕 740 | 1 | 0% | TTF | 상용 | (주)윤디자인연구소 | Copyright © 2012-2013 YoonDesign Inc. All rights reserved. | [원문](https://font.co.kr/policy/license) |
 | 궁서체 | 1 | 0% | TTF | 권리불명 | - | 한컴 공지: Windows 기본 글꼴로, (주)한글과컴퓨터가 저작권자와의 계약을 통해 라이선스를 보유한 것이 아님. 권리 관계는 글꼴 저작권 | [원문](https://www.hancom.com/support/faqCenter/faq/detail/2681) |
 | 나눔스퀘어 네오 ExtraBold | 1 | 0% | TTF | 자유 | - | SIL Open Font License 1.1 | [원문](https://hangeul.naver.com/font) |
-| 옥션고딕 B | 1 | 0% | TTF | 불명 | - | - | - |
 | -윤고딕140 | 1 | 0% | TTF | 상용 | (주)윤디자인연구소 | - | [FONCO 사용범위](https://font.co.kr/policy/license) |
-| 학교안심 바른돋움 R | 1 | 0% | TTF | 불명 | - | - | - |
+| 옥션고딕 B | 1 | 0% | TTF | 불명 | - | - | - |
 | KoPub바탕체 Medium | 1 | 0% | TTF | 자유 | - | 한국출판인회의 무료 배포 | [원문](https://www.kopus.org/biz-01-02/) |
+| 학교안심 바른돋움 R | 1 | 0% | TTF | 불명 | - | - | - |
 | NanumSquare | 1 | 0% | TTF | 불명 | - | - | - |
 | 태 가는 헤드라인D | 1 | 0% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1994,1995 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 신명 신그래픽 | 1 | 0% | HFT | 상용 | (주)한글과컴퓨터 | (c) Copyright 1994,1995 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | Hobo BT | 1 | 0% | TTF | 상용 | (주)한글과컴퓨터 | Copyright 1990-1992 as an unpublished work by Bitstream Inc. All right | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 휴먼모음T | 1 | 0% | TTF | 상용 | 휴먼컴퓨터 | - | - |
-| 산돌고딕M | 1 | 0% | TTF | 불명 | - | - | - |
 | 문화바탕제목 | 1 | 0% | HFT/TTF | 상용 | (주)한글과컴퓨터 | (c) Copyright 1994 Hangul & Computer Co., Ltd. | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
+| 산돌고딕M | 1 | 0% | TTF | 불명 | - | - | - |
 | Calibri \(Body\) | 1 | 0% | TTF | 불명 | - | - | - |
 | 은 돋움 | 1 | 0% | TTF | 불명 | - | - | - |
 | 경기천년제목 Light | 1 | 0% | TTF | 무료 | - | 경기도 배포 무료 글꼴 | [원문](https://www.gg.go.kr/contents/contents.do?ciIdx=679) |
@@ -195,17 +197,17 @@
 | HY궁서 | 1 | 0% | TTF | 상용 | (주)한양정보통신 | (c) Copyright HanYang I&C Co.,Ltd. 2002 | [원문](https://www.hanyang.co.kr/license_20131011.php) |
 | Noto Sans CJK SC | 1 | 0% | TTF | 자유 | - | SIL Open Font License 1.1 | [원문](https://fonts.google.com/noto) |
 | 함초롬바탕 확장 | 1 | 0% | TTF | 무료 | - | 한컴 — 무료 제공, 모든 출판물·저작물에 사용 가능, 임베딩 허용. 수정·상업적 배포 금지 | [원문](https://noonnu.cc/font_page/654) |
-| Microsoft YaHei | 1 | 0% | TTF | 상용 | Microsoft / Monotype | © 2008 Microsoft Corporation. All Rights Reserved. Portions © 2008 Bei | [폰트 내장 고지](findings-licenses.md) |
 | KoPubWorld바탕체 Light | 1 | 0% | TTF | 자유 | - | 한국출판인회의 무료 배포 | [원문](https://www.kopus.org/biz-01-02/) |
+| Microsoft YaHei | 1 | 0% | TTF | 상용 | Microsoft / Monotype | © 2008 Microsoft Corporation. All Rights Reserved. Portions © 2008 Bei | [폰트 내장 고지](findings-licenses.md) |
 | D2Coding | 1 | 0% | TTF | 자유 | - | SIL Open Font License 1.1 | [원문](https://github.com/naver/d2codingfont) |
 | MS Gothic | 1 | 0% | TTF | 상용 | Microsoft / Monotype | © 2017 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO. | [폰트 내장 고지](findings-licenses.md) |
 | THE명품고딕B_U | 1 | 0% | TTF | 불명 | - | - | - |
-| Yoon 윤명조 550_TT | 1 | 0% | TTF | 불명 | - | - | - |
 | 휴먼신문명조 | 1 | 0% | TTF | 상용 | 휴먼컴퓨터 | - | - |
+| Yoon 윤명조 550_TT | 1 | 0% | TTF | 불명 | - | - | - |
 | 휴먼엑스포 | 1 | 0% | TTF | 상용 | 휴먼컴퓨터 | - | - |
 | Garamond | 1 | 0% | TTF | 상용 | Monotype | Digitized data copyright Monotype Typography, Ltd 1991-1995. All right | [폰트 내장 고지](findings-licenses.md) |
-| Aptos Narrow | 1 | 0% | TTF | 불명 | - | - | - |
 | AppleSDGothicNeoR00 | 1 | 0% | TTF | 불명 | - | - | - |
+| Aptos Narrow | 1 | 0% | TTF | 불명 | - | - | - |
 | 휴먼굵은샘체 | 1 | 0% | TTF | 상용 | (주)한글과컴퓨터 | HUMAN LICENSE TO HANGUL&COMPUTERS | [한컴 서체 라이선스](sources/licenses/hancom-fonts_license_2026-09-24.md) |
 | 다음_SemiBold | 1 | 0% | TTF | 불명 | - | - | - |
 | Rix모던고딕 M | 1 | 0% | TTF | 불명 | - | - | - |
@@ -225,11 +227,11 @@
 
 | 문서 | 사본 | 원 출처 |
 |---|---|---|
-| 한컴 서체 라이선스 | [사본](sources/licenses/hancom-fonts_license_2026-09-24.md) | https://font.hancom.com/pc/sub/sub3_1.php |
-| 한컴 FAQ 2681 (Windows 기본 글꼴) | [사본](sources/licenses/hancom-faq2681_windows-fonts_2026-09-24.md) | https://www.hancom.com/support/faqCenter/faq/detail/2681 |
-| (주)한양정보통신 EULA | 발췌 인용 — [clause-matrix.md](clause-matrix.md) | https://www.hanyang.co.kr/license_20131011.php |
-| 윤디자인 FONCO 사용범위 | 발췌 인용 — [clause-matrix.md](clause-matrix.md) | https://font.co.kr/policy/license |
-| 함초롬체 안내 | 발췌 인용 — [findings-openness.md](findings-openness.md) | https://noonnu.cc/font_page/654 |
+| 한컴 서체 라이선스 | [사본](sources/licenses/hancom-fonts_license_2026-09-24.md) | <https://font.hancom.com/pc/sub/sub3_1.php> |
+| 한컴 FAQ 2681 (Windows 기본 글꼴) | [사본](sources/licenses/hancom-faq2681_windows-fonts_2026-09-24.md) | <https://www.hancom.com/support/faqCenter/faq/detail/2681> |
+| (주)한양정보통신 EULA | 발췌 인용 — [clause-matrix.md](clause-matrix.md) | <https://www.hanyang.co.kr/license_20131011.php> |
+| 윤디자인 FONCO 사용범위 | 발췌 인용 — [clause-matrix.md](clause-matrix.md) | <https://font.co.kr/policy/license> |
+| 함초롬체 안내 | 발췌 인용 — [findings-openness.md](findings-openness.md) | <https://noonnu.cc/font_page/654> |
 | 한컴오피스 제품 EULA | 발췌 인용 — [clause-matrix.md](clause-matrix.md) | 설치본 `Contents/Resources/Readme/eula_ko.pdf` |
 
 ## 한계

@@ -1,5 +1,7 @@
 # 공문서 서식 글꼴을 지정하는 법령은 무엇인가
 
+> 이 문서는 **Claude Opus 5**(Anthropic)를 사용해 작성했습니다. 수집·측정에 쓴 도구는 [`tools/`](tools/)에, 원자료는 [`data/`](data/)에 두어 누구나 재현할 수 있게 했습니다.
+
 - 조사일: 2026-09-24
 - 대상: 「행정업무의 운영 및 혁신에 관한 규정 시행규칙」(행정안전부령) 및 행정안전부 『행정업무운영 편람』
 - 확인 방법: 시행규칙 조문 전문 텍스트 검색, 편람 PDF 288쪽 텍스트 추출
@@ -141,7 +143,7 @@
 
 | 자료 | 출처 |
 |---|---|
-| 행정업무의 운영 및 혁신에 관한 규정 시행규칙 | https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252189 |
-| 같은 규칙 별표 4 (서식의 설계 기준) | https://www.law.go.kr/lsBylInfoPLinkR.do?lsiSeq=252189&bylNo=0004&bylBrNo=00&bylCls=BE |
-| 행정업무운영 편람 (행정안전부, 288쪽) | https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000012&nttId=83951 |
+| 행정업무의 운영 및 혁신에 관한 규정 시행규칙 | <https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=252189> |
+| 같은 규칙 별표 4 (서식의 설계 기준) | <https://www.law.go.kr/lsBylInfoPLinkR.do?lsiSeq=252189&bylNo=0004&bylBrNo=00&bylCls=BE> |
+| 행정업무운영 편람 (행정안전부, 288쪽) | <https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000012&nttId=83951> |
 | 폰트 권리자 대조 | [`data/font-license-census_2026-09-24.json`](data/font-license-census_2026-09-24.json), [`data/hft-registry_2026-09-24.json`](data/hft-registry_2026-09-24.json) |

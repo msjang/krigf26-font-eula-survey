@@ -111,6 +111,10 @@ def main():
 
     print("# 국내 공문서 폰트 목록 — 권리자와 라이선스")
     print()
+    print("> 이 문서는 **Claude Opus 5**(Anthropic)를 사용해 작성했습니다. "
+          "수집·측정에 쓴 도구는 [`tools/`](tools/)에, 원자료는 [`data/`](data/)에 두어 "
+          "누구나 재현할 수 있게 했습니다.")
+    print()
     print("- 대상: 정책브리핑 보도자료 HWPX **450건**에 등장한 고유 폰트 "
           f"**{len(rows)}종** (2026-09-21~23 게시분)")
     print("- 생성: [`tools/build_font_registry.py`](tools/build_font_registry.py) "
@@ -162,16 +166,16 @@ def main():
     print("| 문서 | 사본 | 원 출처 |")
     print("|---|---|---|")
     print("| 한컴 서체 라이선스 | [사본](sources/licenses/hancom-fonts_license_2026-09-24.md) "
-          "| https://font.hancom.com/pc/sub/sub3_1.php |")
+          "| <https://font.hancom.com/pc/sub/sub3_1.php> |")
     print("| 한컴 FAQ 2681 (Windows 기본 글꼴) | "
           "[사본](sources/licenses/hancom-faq2681_windows-fonts_2026-09-24.md) "
-          "| https://www.hancom.com/support/faqCenter/faq/detail/2681 |")
+          "| <https://www.hancom.com/support/faqCenter/faq/detail/2681> |")
     print("| (주)한양정보통신 EULA | 발췌 인용 — [clause-matrix.md](clause-matrix.md) "
-          "| https://www.hanyang.co.kr/license_20131011.php |")
+          "| <https://www.hanyang.co.kr/license_20131011.php> |")
     print("| 윤디자인 FONCO 사용범위 | 발췌 인용 — [clause-matrix.md](clause-matrix.md) "
-          "| https://font.co.kr/policy/license |")
+          "| <https://font.co.kr/policy/license> |")
     print("| 함초롬체 안내 | 발췌 인용 — [findings-openness.md](findings-openness.md) "
-          "| https://noonnu.cc/font_page/654 |")
+          "| <https://noonnu.cc/font_page/654> |")
     print("| 한컴오피스 제품 EULA | 발췌 인용 — [clause-matrix.md](clause-matrix.md) "
           "| 설치본 `Contents/Resources/Readme/eula_ko.pdf` |")
     print()

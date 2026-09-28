@@ -12,7 +12,7 @@
 
 문서가 길고 표가 많습니다. 목차와 문서 간 이동이 붙은 웹 페이지가 훨씬 읽기 편합니다.
 
-### **https://msjang.github.io/krigf26-font-eula-survey/**
+**→ [msjang.github.io/krigf26-font-eula-survey](https://msjang.github.io/krigf26-font-eula-survey/)**
 
 저장소에는 마크다운 원본과 도구·데이터만 둡니다. HTML은 GitHub Pages가 만듭니다.
 
@@ -103,11 +103,11 @@ python3 tools/build_font_registry.py > font-registry.md
 
 ## 관련 자료
 
-- KrIGF 2026 세션 개요 — https://igf.or.kr/4095
-- 세션 발제 자료 — https://msjang.github.io/krigf26-no-action-letter
-- 세션 영상 — https://www.youtube.com/live/c7Ok_kNfgjI
-- Polaris MCFG — https://github.com/PolarisOffice/polaris_mcfg
-- pypandoc-hwpx — https://github.com/msjang/pypandoc-hwpx
+- KrIGF 2026 세션 개요 — <https://igf.or.kr/4095>
+- 세션 발제 자료 — <https://msjang.github.io/krigf26-no-action-letter>
+- 세션 영상 — <https://www.youtube.com/live/c7Ok_kNfgjI>
+- Polaris MCFG — <https://github.com/PolarisOffice/polaris_mcfg>
+- pypandoc-hwpx — <https://github.com/msjang/pypandoc-hwpx>
 
 ## 라이선스
 
