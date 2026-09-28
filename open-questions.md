@@ -64,7 +64,7 @@
 | 부처별 비교 | 완료. 부처 코드로 행정안전부 계보 425건, 법제처·과기정통부·기획예산처 410건 |
 | 대체 폰트가 폭을 보존하는가 | 완료. 보존하지 않는다 → [findings-substfont.md](findings-substfont.md) |
 | 연구보고서 양식 확보 | 부분 완료. 국가연구개발혁신법 별지서식 7종을 채점했다 |
-| Windows 기본 글꼴 9종 원본 확인 | 완료. 저작권 한양정보통신 / 상표·라이선스 Microsoft 로 갈린다 → [findings-windows.md](findings-windows.md) |
+| Windows 기본 글꼴 원본 확인 | 완료. 시스템 글꼴 189종 전수. 한글 11종 중 8종의 저작권이 한양정보통신이고 상표·라이선스는 Microsoft 다 → [findings-windows.md](findings-windows.md) |
 
 ## 사. 추가 조사 과제
 
