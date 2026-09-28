@@ -1,0 +1,69 @@
+{
+ "collectedAt": "2026-09-29",
+ "host": "Windows 10 (10.0.18363) + 한컴오피스 2024 (HWP 13.0.0.1053)",
+ "method": "CHM(ITSF) 의 파일 인덱스는 비압축 평문이므로 내부 경로만 판독했다. 압축 본문은 풀지 않았다",
+ "chm": [
+  {
+   "file": "Hwp.chm",
+   "bytes": 9590717,
+   "sha256": "4a58d5b015e203cb7d951cf6545fd264c4f11b0fff405a22ec3a838f6b25d485",
+   "htmlCount": 315,
+   "hasRightsPage": true,
+   "licenseRelatedPaths": [
+    "//file/document_properties/document_fontinfo.htm",
+    "/edit/copy.htm",
+    "/file/document_properties/document_license.htm",
+    "/format/copy_page.htm",
+    "/format/font/fonts.htm",
+    "/format/font/fonts_border.htm",
+    "/format/font/fonts_expanded.htm",
+    "/format/font/fonts_general.htm",
+    "/rights/rights.htm"
+   ]
+  },
+  {
+   "file": "HwpPrnMng.chm",
+   "bytes": 9450767,
+   "sha256": "7a99eb6ac83dabf5d525d4695f2a0367c97842bb9038accb030fe6d86d85dbce",
+   "htmlCount": 319,
+   "hasRightsPage": true,
+   "licenseRelatedPaths": [
+    "//file/document_properties/document_fontinfo.htm",
+    "/edit/copy.htm",
+    "/file/document_properties/document_license.htm",
+    "/format/copy_page.htm",
+    "/format/font/fonts.htm",
+    "/format/font/fonts_border.htm",
+    "/format/font/fonts_expanded.htm",
+    "/format/font/fonts_general.htm",
+    "/rights/rights.htm"
+   ]
+  },
+  {
+   "file": "HncCtx.chm",
+   "bytes": 23768,
+   "sha256": "5b41fb31d36297dd689102263c04660584f4086d8dab8951b723c201c98156fc",
+   "htmlCount": 0,
+   "hasRightsPage": false,
+   "licenseRelatedPaths": []
+  }
+ ],
+ "installTree": {
+  "root": "C:\\Program Files (x86)\\Hnc",
+  "fileCount": 5388,
+  "licensePatternHits": 414,
+  "plaintextProductEula": null,
+  "note": "한글 패턴(사용권·계약·약관·라이선스)을 포함해 재검색했다. 걸린 파일은 모두 오픈소스 부품 고지이거나 문서 서식이며, 한컴 제품 사용권 계약서 평문 파일은 없다",
+  "ossFontNoticeDir": "Bin\\Shared\\TTF\\All\\notice",
+  "ossFontNoticeFonts": [
+   "Baloo",
+   "Diplomata",
+   "Limelight",
+   "NanumBrush",
+   "Oleo Script Swash Caps",
+   "Rochester",
+   "Schoolbell",
+   "Vast Shadow"
+  ]
+ }
+}
