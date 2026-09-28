@@ -3,7 +3,7 @@
 - 조사일: 2026-09-29
 - 대상: Windows 10 (10.0.18363) + 한컴오피스 2024 (HWP 13.0.0.1053)
 - 방법: SSH 로 원격 접속해 폰트 파일과 설치 구조를 판독. 파일은 읽기만 했다
-- 원자료: [`data/win10-system-fonts_2026-09-29.json`](data/win10-system-fonts_2026-09-29.json) · [`data/win-hancom-license-artifacts_2026-09-29.json`](data/win-hancom-license-artifacts_2026-09-29.json)
+- 원자료: [`data/win10-system-fonts_2026-09-29.json`](data/win10-system-fonts_2026-09-29.json) · [`data/win-hancom-license-artifacts_2026-09-29.json`](data/win-hancom-license-artifacts_2026-09-29.json) · [`data/win10-font-license-census_2026-09-29.json`](data/win10-font-license-census_2026-09-29.json)
 
 ## 가. 왜 확인했나
 
@@ -52,6 +52,8 @@
 ## 다. Windows 기본 글꼴 9종 — 권리가 셋으로 갈린다
 
 `batang.ttc`(4 face)·`gulim.ttc`(4 face)·`malgun.ttf` 에서 name table 을 읽었다.
+
+(이후 `C:\Windows\Fonts` 전체 189 face 로 범위를 넓혔다 → [내장 라이선스 전수 조사 마.](findings-licenses.md))
 
 | 폰트 | 저작권 (name 0) | 상표 (name 7) | 라이선스 (name 13) | fsType |
 |---|---|---|---|---|

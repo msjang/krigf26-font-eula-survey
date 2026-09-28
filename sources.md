@@ -29,6 +29,8 @@
 | Microsoft Office for Mac | `/Applications/Microsoft {Word,Excel,PowerPoint}.app/Contents/Resources/DFonts` | 906 |
 | 한컴오피스 한/글 12.30.0 | `.../Hnc/Shared/TTF/{Install,All,Hwp}` | 187 |
 | 한컴오피스 HFT (한컴 고유 포맷) | `.../Hnc/Shared/Fonts/*.HFT` + `hftinfo.dat` | 387 |
+| Windows 10 (10.0.18363) 시스템 글꼴 | `C:\Windows\Fonts` — 생성일 2019-03-19/2019-10-07 분 | 189 |
+| 한컴오피스 2024 Windows 설치분 | `C:\Windows\Fonts` — 생성일 2023-03-28 분 | 22 |
 
 ### 오픈소스·MCF 폰트
 
