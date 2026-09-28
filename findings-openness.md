@@ -168,7 +168,7 @@ HWP 5.0 바이너리는 CFB 컨테이너의 `DocInfo` 스트림을 zlib 해제�
 
 판정 분포: `proprietary` 369 · `unknown` 318 · `free` 196 · `freeware` 22 · `unlicensed` 9
 
-공문서에 실제로 등장한 폰트 184종의 전수 대조표는 **[font-registry.md](font-registry.md)** 에 있다. 폰트별 권리자·라이선스·출처 링크를 담았다.
+공문서에 실제로 등장한 폰트 415종의 전수 대조표는 **[font-registry.md](font-registry.md)** 에 있다. 폰트별 권리자·라이선스·출처 링크를 담았다.
 
 ## 마. 무엇을 하면 점수가 오르는가
 

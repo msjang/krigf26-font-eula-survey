@@ -2,7 +2,7 @@
 """공문서에 실제로 등장한 폰트의 권리자·라이선스 대조표를 만든다.
 
 입력
-  data/gov-doc-fonts_2026-09-24.json     공문서 450건의 폰트 테이블
+  data/gov-doc-fonts*.json               수집한 공문서 전부의 폰트 테이블 (URL 로 중복 제거)
   data/font-openness-db.json             폰트 -> 개방성 판정
   data/font-license-census_2026-09-24.json  폰트 파일 내장 저작권·라이선스
   data/hft-registry_2026-09-24.json      HFT 폰트의 공급사·저작권·빌드일자
@@ -15,6 +15,7 @@
 """
 
 import collections
+import glob
 import json
 import os
 import sys
@@ -53,7 +54,16 @@ def main():
 
     db = load("font-openness-db.json")
     judge = Judge(db)
-    docs = load("gov-doc-fonts_2026-09-24.json")["documents"]
+    docs, seen = [], set()
+    for path in sorted(glob.glob(os.path.join(DATA, "gov-doc-fonts*.json"))):
+        rows = json.load(open(path, encoding="utf-8")).get("documents")
+        if not rows:
+            continue
+        for r in rows:
+            if r["url"] in seen:
+                continue
+            seen.add(r["url"])
+            docs.append(r)
     census = {r.get("family"): r for r in load("font-license-census_2026-09-24.json")
               if "error" not in r}
     hft = {}
@@ -111,11 +121,13 @@ def main():
 
     print("# 국내 공문서 폰트 목록 — 권리자와 라이선스")
     print()
-    print("- 대상: 정책브리핑 보도자료 HWPX **450건**에 등장한 고유 폰트 "
-          f"**{len(rows)}종** (2026-09-21~23 게시분)")
+    years = sorted({r["year"] for r in docs if r.get("year")})
+    span = f"{years[0]}~{years[-1]}년" if years else "2026년"
+    print(f"- 대상: 정책브리핑 첨부 공문서 **{total:,}건**({span}, HWP·HWPX)에 "
+          f"등장한 고유 폰트 **{len(rows)}종**")
     print("- 생성: [`tools/build_font_registry.py`](tools/build_font_registry.py) "
           "— 아래 자료를 대조해 자동 생성")
-    print("  - [`data/gov-doc-fonts_2026-09-24.json`](data/gov-doc-fonts_2026-09-24.json) 공문서 폰트 테이블")
+    print("  - `data/gov-doc-fonts*.json` 공문서 폰트 테이블 (URL 로 중복 제거)")
     print("  - [`data/font-openness-db.json`](data/font-openness-db.json) 개방성 판정")
     print("  - [`data/font-license-census_2026-09-24.json`](data/font-license-census_2026-09-24.json) 폰트 파일 내장 저작권")
     print("  - [`data/hft-registry_2026-09-24.json`](data/hft-registry_2026-09-24.json) HFT 레지스트리")
@@ -147,7 +159,7 @@ def main():
 
     print("## 전체 목록")
     print()
-    print("등장 문서 수 내림차순. 비율은 450건 기준.")
+    print(f"등장 문서 수 내림차순. 비율은 {total:,}건 기준.")
     print()
     print("| 폰트 | 문서 | 비율 | 포맷 | 판정 | 권리자 | 저작권 표시 / 라이선스 | 출처 |")
     print("|---|---:|---:|---|---|---|---|---|")
@@ -177,7 +189,8 @@ def main():
     print()
     print("## 한계")
     print()
-    print("- 표본은 2026-09-21~23 게시분 450건이다. 다른 시기·기관에서는 구성이 다를 수 있다")
+    print(f"- 표본은 정책브리핑 첨부 {total:,}건이다. 연도 층화·부처 집중·장르 표본을 "
+          "합치고 URL 로 중복을 제거했다. 민원 서식·내부 기안문은 포함되지 않았다")
     print("- 폰트 테이블 등재가 곧 본문 사용을 뜻하지 않는다")
     print("- 권리자가 `-`인 항목은 이 컴퓨터에 설치되어 있지 않아 파일 저작권을 확인하지 못한 것이다")
     print("- 이름 계열 추정(`HY*` → 한양정보통신 등)이 섞여 있으며, 개별 폰트의 실제 권리 귀속과 다를 수 있다")
