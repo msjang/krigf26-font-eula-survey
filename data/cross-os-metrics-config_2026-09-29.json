@@ -1,0 +1,65 @@
+{
+ "baseline": "굴림",
+ "fonts": [
+  {
+   "group": "Windows 기본",
+   "font": "굴림",
+   "path": "<수집 폴더>/win/fonts/Fonts/gulim.ttc",
+   "face": "굴림"
+  },
+  {
+   "group": "Windows 기본",
+   "font": "돋움",
+   "path": "<수집 폴더>/win/fonts/Fonts/gulim.ttc",
+   "face": "돋움"
+  },
+  {
+   "group": "Windows 기본",
+   "font": "바탕",
+   "path": "<수집 폴더>/win/fonts/Fonts/batang.ttc",
+   "face": "바탕"
+  },
+  {
+   "group": "Windows 기본",
+   "font": "바탕체",
+   "path": "<수집 폴더>/win/fonts/Fonts/batang.ttc",
+   "face": "바탕체"
+  },
+  {
+   "group": "Windows 기본",
+   "font": "맑은 고딕",
+   "path": "<수집 폴더>/win/fonts/Fonts/malgun.ttf"
+  },
+  {
+   "group": "macOS 기본",
+   "font": "Apple SD 산돌고딕 Neo",
+   "path": "/System/Library/Fonts/AppleSDGothicNeo.ttc",
+   "face": "AppleSDGothicNeo-Regular"
+  },
+  {
+   "group": "macOS 기본",
+   "font": "AppleGothic",
+   "path": "/System/Library/Fonts/Supplemental/AppleGothic.ttf"
+  },
+  {
+   "group": "macOS 기본",
+   "font": "AppleMyungjo",
+   "path": "/System/Library/Fonts/Supplemental/AppleMyungjo.ttf"
+  },
+  {
+   "group": "Linux·웹 표준",
+   "font": "Noto Sans KR",
+   "path": "<수집 폴더>/oss/NotoSansKR-Regular.ttf"
+  },
+  {
+   "group": "한컴 번들",
+   "font": "함초롬바탕",
+   "path": "/Applications/Hancom Office HWP.app/Contents/Resources/Hnc/Shared/TTF/Install/HANBatang.ttf"
+  },
+  {
+   "group": "한컴 번들",
+   "font": "함초롬돋움",
+   "path": "/Applications/Hancom Office HWP.app/Contents/Resources/Hnc/Shared/TTF/Install/HANDotum.ttf"
+  }
+ ]
+}
