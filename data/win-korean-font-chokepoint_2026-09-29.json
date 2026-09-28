@@ -1,0 +1,99 @@
+{
+ "measuredAt": "2026-09-29",
+ "question": "Windows 가 제공하는 한글 글꼴의 권리자는 누구이고, 공문서가 거기에 얼마나 묶여 있는가",
+ "windowsKoreanFaces": {
+  "total": 11,
+  "hanYang": [
+   {
+    "face": "바탕",
+    "file": "batang.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "바탕 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 84.6
+   },
+   {
+    "face": "바탕체",
+    "file": "batang.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "바탕체 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 33.9
+   },
+   {
+    "face": "궁서",
+    "file": "batang.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "궁서 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 3.7
+   },
+   {
+    "face": "궁서체",
+    "file": "batang.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "궁서체 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 1.7
+   },
+   {
+    "face": "굴림",
+    "file": "gulim.ttc",
+    "copyright": "© 2009 HanYang I&C Co., LTD.",
+    "trademark": "굴림 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 76.3
+   },
+   {
+    "face": "굴림체",
+    "file": "gulim.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "굴림체 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 22.7
+   },
+   {
+    "face": "돋움",
+    "file": "gulim.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "돋움 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 54.4
+   },
+   {
+    "face": "돋움체",
+    "file": "gulim.ttc",
+    "copyright": "(c) Copyright HanYang I&C Co.,LTD. 2000",
+    "trademark": "돋움체 is a registered trademark of the Microsoft Corporation.",
+    "fsType": "Editable",
+    "govDocRate": 46.5
+   }
+  ],
+  "microsoft": [
+   {
+    "face": "맑은 고딕",
+    "file": "malgun.ttf",
+    "copyright": "© 2016 Microsoft Corporation. All Rights Reserved.",
+    "govDocRate": 79.2
+   },
+   {
+    "face": "맑은 고딕 Bold",
+    "file": "malgunbd.ttf",
+    "copyright": "© 2014 Microsoft Corporation. All Rights Reserved.",
+    "govDocRate": 0.0
+   },
+   {
+    "face": "맑은 고딕 Semilight",
+    "file": "malgunsl.ttf",
+    "copyright": "© 2015 Microsoft Corporation. All Rights Reserved.",
+    "govDocRate": 0.4
+   }
+  ]
+ },
+ "govDocs": {
+  "total": 2286,
+  "usingAnyHanYangWindowsFace": 2194,
+  "share": 96.0
+ },
+ "note": "등재는 본문 사용과 다르다. 폰트 테이블에 올라온 문서 비율이다"
+}
