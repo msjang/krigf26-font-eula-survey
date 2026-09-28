@@ -76,7 +76,7 @@ Windows 10 분만 따로 세도 같다. **A 0건, B 0건**이다.
 | Monotype NOTIFICATION OF LICENSE AGREEMENT | 61 | "You may not copy or distribute this software" |
 | Microsoft app and services font | 36 | 특정 제품·서비스 전용 |
 
-`Any other use is prohibited` 를 포함하는 폰트는 **208종**이다.
+`Any other use is prohibited` 를 포함하는 폰트는 이 표의 1,862종 기준 **208종**이고, Windows 10 분을 더한 2,073종 기준으로는 **396종**이다 (마. 참조).
 
 ### 관찰
 
