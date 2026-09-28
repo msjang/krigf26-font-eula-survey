@@ -4,7 +4,7 @@
  "paragraphChars": 293,
  "fonts": [
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "굴림",
    "upem": 1024,
    "hangulEm": 1.0,
@@ -21,7 +21,24 @@
    "lineDelta": 0
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
+   "font": "굴림체",
+   "upem": 1024,
+   "hangulEm": 1.0,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.5,
+   "digitEm": 0.5,
+   "spaceEm": 0.5,
+   "parenEm": 0.5,
+   "periodEm": 0.5,
+   "paragraphEm": 231.5,
+   "lines": 6,
+   "hangulDeltaPct": 0.0,
+   "paragraphDeltaPct": 4.08,
+   "lineDelta": 0
+  },
+  {
+   "group": "Windows 10",
    "font": "돋움",
    "upem": 1024,
    "hangulEm": 1.0,
@@ -38,7 +55,7 @@
    "lineDelta": 0
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "바탕",
    "upem": 1024,
    "hangulEm": 1.0,
@@ -55,7 +72,7 @@
    "lineDelta": 0
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "바탕체",
    "upem": 1024,
    "hangulEm": 1.0,
@@ -72,7 +89,7 @@
    "lineDelta": 0
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "맑은 고딕",
    "upem": 2048,
    "hangulEm": 1.0,
@@ -89,7 +106,7 @@
    "lineDelta": 0
   },
   {
-   "group": "macOS 기본",
+   "group": "macOS 24.6",
    "font": "Apple SD 산돌고딕 Neo",
    "upem": 1000,
    "hangulEm": 0.865,
@@ -106,7 +123,7 @@
    "lineDelta": -1
   },
   {
-   "group": "macOS 기본",
+   "group": "macOS 24.6",
    "font": "AppleGothic",
    "upem": 1000,
    "hangulEm": 1.0,
@@ -123,7 +140,7 @@
    "lineDelta": 0
   },
   {
-   "group": "macOS 기본",
+   "group": "macOS 24.6",
    "font": "AppleMyungjo",
    "upem": 1025,
    "hangulEm": 0.999,
@@ -140,21 +157,140 @@
    "lineDelta": 0
   },
   {
-   "group": "Linux·웹 표준",
-   "font": "Noto Sans KR",
+   "group": "Ubuntu 26.04",
+   "font": "Noto Sans CJK KR",
    "upem": 1000,
    "hangulEm": 0.92,
    "hangulVariants": 1,
-   "latinAvgEm": 0.5488,
-   "digitEm": 0.521,
-   "spaceEm": 0.22,
-   "parenEm": 0.299,
-   "periodEm": 0.231,
-   "paragraphEm": 198.34,
+   "latinAvgEm": 0.583,
+   "digitEm": 0.555,
+   "spaceEm": 0.224,
+   "parenEm": 0.338,
+   "periodEm": 0.278,
+   "paragraphEm": 200.68,
    "lines": 5,
    "hangulDeltaPct": -8.0,
-   "paragraphDeltaPct": -10.83,
+   "paragraphDeltaPct": -9.77,
    "lineDelta": -1
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "Noto Serif CJK KR",
+   "upem": 1000,
+   "hangulEm": 0.966,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.6322,
+   "digitEm": 0.557,
+   "spaceEm": 0.256,
+   "parenEm": 0.364,
+   "periodEm": 0.327,
+   "paragraphEm": 212.71,
+   "lines": 6,
+   "hangulDeltaPct": -3.4,
+   "paragraphDeltaPct": -4.37,
+   "lineDelta": 0
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "Noto Sans Mono CJK KR",
+   "upem": 1000,
+   "hangulEm": 0.92,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.5,
+   "digitEm": 0.5,
+   "spaceEm": 0.5,
+   "parenEm": 0.5,
+   "periodEm": 0.5,
+   "paragraphEm": 217.9,
+   "lines": 6,
+   "hangulDeltaPct": -8.0,
+   "paragraphDeltaPct": -2.03,
+   "lineDelta": 0
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "나눔고딕",
+   "upem": 1000,
+   "hangulEm": 0.94,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.5853,
+   "digitEm": 0.606,
+   "spaceEm": 0.28,
+   "parenEm": 0.363,
+   "periodEm": 0.303,
+   "paragraphEm": 209.02,
+   "lines": 6,
+   "hangulDeltaPct": -6.0,
+   "paragraphDeltaPct": -6.02,
+   "lineDelta": 0
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "나눔명조",
+   "upem": 1024,
+   "hangulEm": 0.9502,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.6014,
+   "digitEm": 0.5371,
+   "spaceEm": 0.2998,
+   "parenEm": 0.3652,
+   "periodEm": 0.2734,
+   "paragraphEm": 211.17,
+   "lines": 6,
+   "hangulDeltaPct": -4.98,
+   "paragraphDeltaPct": -5.06,
+   "lineDelta": 0
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "나눔바른고딕",
+   "upem": 1000,
+   "hangulEm": 0.892,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.58,
+   "digitEm": 0.583,
+   "spaceEm": 0.224,
+   "parenEm": 0.446,
+   "periodEm": 0.297,
+   "paragraphEm": 197.24,
+   "lines": 5,
+   "hangulDeltaPct": -10.8,
+   "paragraphDeltaPct": -11.32,
+   "lineDelta": -1
+  },
+  {
+   "group": "Android 13",
+   "font": "Noto Sans CJK KR (Android)",
+   "upem": 1000,
+   "hangulEm": 0.92,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.583,
+   "digitEm": 0.555,
+   "spaceEm": 0.224,
+   "parenEm": 0.338,
+   "periodEm": 0.278,
+   "paragraphEm": 200.68,
+   "lines": 5,
+   "hangulDeltaPct": -8.0,
+   "paragraphDeltaPct": -9.77,
+   "lineDelta": -1
+  },
+  {
+   "group": "Android 13",
+   "font": "Noto Serif CJK KR (Android)",
+   "upem": 1000,
+   "hangulEm": 0.966,
+   "hangulVariants": 1,
+   "latinAvgEm": 0.629,
+   "digitEm": 0.539,
+   "spaceEm": 0.258,
+   "parenEm": 0.361,
+   "periodEm": 0.326,
+   "paragraphEm": 212.52,
+   "lines": 6,
+   "hangulDeltaPct": -3.4,
+   "paragraphDeltaPct": -4.45,
+   "lineDelta": 0
   },
   {
    "group": "한컴 번들",
@@ -192,5 +328,54 @@
   }
  ],
  "measuredAt": "2026-09-29",
- "note": "폴백으로 어떤 글꼴이 실제 선택되는지는 응용프로그램마다 다르다. 이 측정은 후보 글꼴들의 배치 수치를 기준 글꼴과 대조한 것이다"
+ "platforms": {
+  "Windows 10": "10.0.18363 · C:\\Windows\\Fonts",
+  "macOS 24.6": "/System/Library/Fonts (+Supplemental)",
+  "Ubuntu 26.04": "Ubuntu 26.04 LTS (Lubuntu 데스크톱) · apt fonts-noto-cjk, fonts-nanum",
+  "Android 13": "system-images/android-33/google_apis/x86_64 · build.prop ro.build.version.release=13",
+  "한컴 번들": "한컴오피스 한/글 for Mac 12.30.0"
+ },
+ "fallbackResolution": {
+  "Ubuntu 26.04": {
+   "method": "fc-match (fontconfig 실측)",
+   "results": {
+    "굴림": "Noto Sans CJK KR",
+    "Gulim": "Noto Sans CJK KR",
+    "돋움": "Noto Sans CJK KR",
+    "Dotum": "Noto Sans CJK KR",
+    "맑은 고딕": "Noto Sans CJK KR",
+    "Malgun Gothic": "Noto Sans CJK KR",
+    "바탕": "Noto Serif CJK KR",
+    "Batang": "Noto Serif CJK KR",
+    "굴림체": "Noto Sans Mono CJK KR",
+    "함초롬바탕": "Noto Sans CJK JP",
+    "sans-serif:lang=ko": "Noto Sans CJK JP"
+   }
+  },
+  "Android 13": {
+   "method": "/system/etc/fonts.xml 의 <family lang=\"ko\"> 선언",
+   "results": {
+    "기본": "NotoSansCJK-Regular.ttc index=1 (Noto Sans CJK KR)",
+    "serif": "NotoSerifCJK-Regular.ttc index=1 (Noto Serif CJK KR)"
+   }
+  },
+  "macOS 24.6": {
+   "method": "미확정",
+   "note": "응용프로그램이 고르므로 실측하지 않았다. 한글 시스템 서체는 Apple SD 산돌고딕 Neo"
+  },
+  "Windows 10": {
+   "method": "해당 없음",
+   "note": "원본 글꼴이 설치되어 있다"
+  }
+ },
+ "androidExtraction": {
+  "image": "budtmo/docker-android:emulator_13.0 내 system-images/android-33/google_apis/x86_64/system.img",
+  "steps": [
+   "GPT 파싱 → super 파티션 (offset 2097152)",
+   "super 안에서 ext4 슈퍼블록 매직 스캔 → 논리 파티션 4개",
+   "system 파티션(super+1048576)에서 debugfs 로 /system/fonts, /system/etc/fonts.xml 판독"
+  ],
+  "note": "에뮬레이터를 부팅하지 않았다. 이미지를 읽기만 했다",
+  "sha256_NotoSansCJK-Regular.ttc": "39fb47c543da50618ab99e8b9e5529e54566bdbef41719308165975f627d5c93"
+ }
 }

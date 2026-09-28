@@ -2,54 +2,100 @@
  "baseline": "굴림",
  "fonts": [
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "굴림",
-   "path": "<수집 폴더>/win/fonts/Fonts/gulim.ttc",
+   "path": "<Windows 10 C:\\Windows\\Fonts>/gulim.ttc",
    "face": "굴림"
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
+   "font": "굴림체",
+   "path": "<Windows 10 C:\\Windows\\Fonts>/gulim.ttc",
+   "face": "굴림체"
+  },
+  {
+   "group": "Windows 10",
    "font": "돋움",
-   "path": "<수집 폴더>/win/fonts/Fonts/gulim.ttc",
+   "path": "<Windows 10 C:\\Windows\\Fonts>/gulim.ttc",
    "face": "돋움"
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "바탕",
-   "path": "<수집 폴더>/win/fonts/Fonts/batang.ttc",
+   "path": "<Windows 10 C:\\Windows\\Fonts>/batang.ttc",
    "face": "바탕"
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "바탕체",
-   "path": "<수집 폴더>/win/fonts/Fonts/batang.ttc",
+   "path": "<Windows 10 C:\\Windows\\Fonts>/batang.ttc",
    "face": "바탕체"
   },
   {
-   "group": "Windows 기본",
+   "group": "Windows 10",
    "font": "맑은 고딕",
-   "path": "<수집 폴더>/win/fonts/Fonts/malgun.ttf"
+   "path": "<Windows 10 C:\\Windows\\Fonts>/malgun.ttf"
   },
   {
-   "group": "macOS 기본",
+   "group": "macOS 24.6",
    "font": "Apple SD 산돌고딕 Neo",
    "path": "/System/Library/Fonts/AppleSDGothicNeo.ttc",
    "face": "AppleSDGothicNeo-Regular"
   },
   {
-   "group": "macOS 기본",
+   "group": "macOS 24.6",
    "font": "AppleGothic",
    "path": "/System/Library/Fonts/Supplemental/AppleGothic.ttf"
   },
   {
-   "group": "macOS 기본",
+   "group": "macOS 24.6",
    "font": "AppleMyungjo",
    "path": "/System/Library/Fonts/Supplemental/AppleMyungjo.ttf"
   },
   {
-   "group": "Linux·웹 표준",
-   "font": "Noto Sans KR",
-   "path": "<수집 폴더>/oss/NotoSansKR-Regular.ttf"
+   "group": "Ubuntu 26.04",
+   "font": "Noto Sans CJK KR",
+   "path": "<Ubuntu 26.04 /usr/share/fonts>/NotoSansCJK-Regular.ttc",
+   "face": "NotoSansCJKkr-Regular"
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "Noto Serif CJK KR",
+   "path": "<Ubuntu 26.04 /usr/share/fonts>/NotoSerifCJK-Regular.ttc",
+   "face": "NotoSerifCJKkr-Regular"
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "Noto Sans Mono CJK KR",
+   "path": "<Ubuntu 26.04 /usr/share/fonts>/NotoSansCJK-Regular.ttc",
+   "face": "NotoSansMonoCJKkr-Regular"
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "나눔고딕",
+   "path": "<Ubuntu 26.04 /usr/share/fonts>/NanumGothic.ttf"
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "나눔명조",
+   "path": "<Ubuntu 26.04 /usr/share/fonts>/NanumMyeongjo.ttf"
+  },
+  {
+   "group": "Ubuntu 26.04",
+   "font": "나눔바른고딕",
+   "path": "<Ubuntu 26.04 /usr/share/fonts>/NanumBarunGothic.ttf"
+  },
+  {
+   "group": "Android 13",
+   "font": "Noto Sans CJK KR (Android)",
+   "path": "<Android 13 /system/fonts>/NotoSansCJK-Regular.ttc",
+   "face": "NotoSansCJKkr-Regular"
+  },
+  {
+   "group": "Android 13",
+   "font": "Noto Serif CJK KR (Android)",
+   "path": "<Android 13 /system/fonts>/NotoSerifCJK-Regular.ttc",
+   "face": "NotoSerifCJKkr-Regular"
   },
   {
    "group": "한컴 번들",
