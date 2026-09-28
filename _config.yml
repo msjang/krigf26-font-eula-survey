@@ -27,6 +27,7 @@ nav:
   - { name: 개요,        url: / }
   - { name: 리포트,      url: /report.html }
   - { name: 조항 매트릭스, url: /clause-matrix.html }
+  - { name: 상위 20종,   url: /font-top20.html }
   - { name: 폰트 목록,    url: /font-registry.html }
   - { name: 내장 라이선스, url: /findings-licenses.html }
   - { name: 연도·부처 추세, url: /findings-trend.html }
