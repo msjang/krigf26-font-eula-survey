@@ -38,7 +38,9 @@ TrueType/OpenType의 `name` 테이블과 `OS/2` 테이블은 공개 표준(OpenT
 | **A 메트릭·수치 추출** | metric, kerning, advance width, side bearing, spacing, 자간, 장평, 간격, 수치 | **0** | **0** |
 | **B 역설계** | reverse engineer, decompile, disassemble, 역설계, 디컴파일, 리버스 | **0** | **0** |
 | C 수정·개작 | modify, alter, adapt, derivative, 개작, 수정, 변형 | 87 | 4 |
-| E 복제·배포 | copy, distribute, redistribute, 복제, 배포 | 362 | 30 |
+| E 복제·배포 | copy, distribute, redistribute, 복제, 배포 | 360 | 29 |
+
+> (정정) E 행은 처음에 `362 / 30` 으로 적었다. 이 표를 [`tools/scan_license_keywords.py`](tools/scan_license_keywords.py) 로 재현 가능하게 만들면서 다시 세니 `360 / 29` 다. A·B·C 행은 처음 값과 같다. 이 정정은 A·B 가 0 이라는 이 절의 결론에 영향을 주지 않는다.
 
 ### 관찰 1 — A와 B가 모두 0이다
 
