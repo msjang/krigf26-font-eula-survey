@@ -1,7 +1,18 @@
 {
  "baseline": "굴림",
  "lineWidthEm": 42.52,
+ "linesPerPage": 45,
+ "documentRepeat": 40,
+ "documentChars": 11720,
  "paragraphChars": 293,
+ "fieldWidthEm": 17.01,
+ "fieldTexts": [
+  "한국과학기술정보연구원 과학기술연구망센터",
+  "2026년 9월 29일부터 2027년 3월 31일까지",
+  "공공문서 서식 상호운용성 개선 사업(1차)",
+  "HWPX 기반 개방형 문서 표준 적용 방안 연구",
+  "서울특별시 종로구 세종대로 209 정부서울청사 1층"
+ ],
  "fonts": [
   {
    "group": "Windows 10",
@@ -16,9 +27,23 @@
    "periodEm": 0.334,
    "paragraphEm": 222.42,
    "lines": 6,
+   "docLines": 220,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": 0.0,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 0,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Windows 10",
@@ -33,9 +58,23 @@
    "periodEm": 0.5,
    "paragraphEm": 231.5,
    "lines": 6,
+   "docLines": 227,
+   "pages": 6,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": 4.08,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 7,
+   "pageDelta": 1,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Windows 10",
@@ -50,9 +89,23 @@
    "periodEm": 0.375,
    "paragraphEm": 222.84,
    "lines": 6,
+   "docLines": 220,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": 0.19,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 0,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Windows 10",
@@ -67,9 +120,23 @@
    "periodEm": 0.292,
    "paragraphEm": 223.14,
    "lines": 6,
+   "docLines": 220,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": 0.32,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 0,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Windows 10",
@@ -84,9 +151,23 @@
    "periodEm": 0.5,
    "paragraphEm": 231.5,
    "lines": 6,
+   "docLines": 227,
+   "pages": 6,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": 4.08,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 7,
+   "pageDelta": 1,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Windows 10",
@@ -101,9 +182,23 @@
    "periodEm": 0.2188,
    "paragraphEm": 221.45,
    "lines": 6,
+   "docLines": 220,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": -0.44,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 0,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "macOS 24.6",
@@ -118,9 +213,23 @@
    "periodEm": 0.226,
    "paragraphEm": 191.55,
    "lines": 5,
+   "docLines": 187,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    1,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 9,
    "hangulDeltaPct": -13.5,
    "paragraphDeltaPct": -13.88,
-   "lineDelta": -1
+   "lineDelta": -1,
+   "docLineDelta": -33,
+   "pageDelta": 0,
+   "fieldLinesDelta": -1,
+   "fieldsChanged": 1
   },
   {
    "group": "macOS 24.6",
@@ -135,9 +244,23 @@
    "periodEm": 0.345,
    "paragraphEm": 223.52,
    "lines": 6,
+   "docLines": 220,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": 0.0,
    "paragraphDeltaPct": 0.49,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 0,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "macOS 24.6",
@@ -152,9 +275,23 @@
    "periodEm": 0.4,
    "paragraphEm": 228.77,
    "lines": 6,
+   "docLines": 224,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -0.1,
    "paragraphDeltaPct": 2.85,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": 4,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Ubuntu 26.04",
@@ -169,9 +306,23 @@
    "periodEm": 0.278,
    "paragraphEm": 200.68,
    "lines": 5,
+   "docLines": 200,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    1,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 9,
    "hangulDeltaPct": -8.0,
    "paragraphDeltaPct": -9.77,
-   "lineDelta": -1
+   "lineDelta": -1,
+   "docLineDelta": -20,
+   "pageDelta": 0,
+   "fieldLinesDelta": -1,
+   "fieldsChanged": 1
   },
   {
    "group": "Ubuntu 26.04",
@@ -186,9 +337,23 @@
    "periodEm": 0.327,
    "paragraphEm": 212.71,
    "lines": 6,
+   "docLines": 210,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -3.4,
    "paragraphDeltaPct": -4.37,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -10,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Ubuntu 26.04",
@@ -203,9 +368,23 @@
    "periodEm": 0.5,
    "paragraphEm": 217.9,
    "lines": 6,
+   "docLines": 214,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -8.0,
    "paragraphDeltaPct": -2.03,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -6,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Ubuntu 26.04",
@@ -220,9 +399,23 @@
    "periodEm": 0.303,
    "paragraphEm": 209.02,
    "lines": 6,
+   "docLines": 201,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -6.0,
    "paragraphDeltaPct": -6.02,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -19,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Ubuntu 26.04",
@@ -237,9 +430,23 @@
    "periodEm": 0.2734,
    "paragraphEm": 211.17,
    "lines": 6,
+   "docLines": 207,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -4.98,
    "paragraphDeltaPct": -5.06,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -13,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "Ubuntu 26.04",
@@ -254,9 +461,23 @@
    "periodEm": 0.297,
    "paragraphEm": 197.24,
    "lines": 5,
+   "docLines": 194,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    1,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 9,
    "hangulDeltaPct": -10.8,
    "paragraphDeltaPct": -11.32,
-   "lineDelta": -1
+   "lineDelta": -1,
+   "docLineDelta": -26,
+   "pageDelta": 0,
+   "fieldLinesDelta": -1,
+   "fieldsChanged": 1
   },
   {
    "group": "Android 13",
@@ -271,9 +492,23 @@
    "periodEm": 0.278,
    "paragraphEm": 200.68,
    "lines": 5,
+   "docLines": 200,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    1,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 9,
    "hangulDeltaPct": -8.0,
    "paragraphDeltaPct": -9.77,
-   "lineDelta": -1
+   "lineDelta": -1,
+   "docLineDelta": -20,
+   "pageDelta": 0,
+   "fieldLinesDelta": -1,
+   "fieldsChanged": 1
   },
   {
    "group": "Android 13",
@@ -288,9 +523,23 @@
    "periodEm": 0.326,
    "paragraphEm": 212.52,
    "lines": 6,
+   "docLines": 210,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -3.4,
    "paragraphDeltaPct": -4.45,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -10,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "한컴 번들",
@@ -305,9 +554,23 @@
    "periodEm": 0.32,
    "paragraphEm": 214.82,
    "lines": 6,
+   "docLines": 210,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -3.0,
    "paragraphDeltaPct": -3.42,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -10,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   },
   {
    "group": "한컴 번들",
@@ -322,9 +585,23 @@
    "periodEm": 0.27,
    "paragraphEm": 213.8,
    "lines": 6,
+   "docLines": 210,
+   "pages": 5,
+   "fieldLines": [
+    2,
+    2,
+    2,
+    2,
+    2
+   ],
+   "fieldLinesTotal": 10,
    "hangulDeltaPct": -3.0,
    "paragraphDeltaPct": -3.88,
-   "lineDelta": 0
+   "lineDelta": 0,
+   "docLineDelta": -10,
+   "pageDelta": 0,
+   "fieldLinesDelta": 0,
+   "fieldsChanged": 0
   }
  ],
  "measuredAt": "2026-09-29",
@@ -332,7 +609,7 @@
   "Windows 10": "10.0.18363 · C:\\Windows\\Fonts",
   "macOS 24.6": "/System/Library/Fonts (+Supplemental)",
   "Ubuntu 26.04": "Ubuntu 26.04 LTS (Lubuntu 데스크톱) · apt fonts-noto-cjk, fonts-nanum",
-  "Android 13": "system-images/android-33/google_apis/x86_64 · build.prop ro.build.version.release=13",
+  "Android 13": "system-images/android-33/google_apis/x86_64 · build.prop release=13, sdk=33",
   "한컴 번들": "한컴오피스 한/글 for Mac 12.30.0"
  },
  "fallbackResolution": {
@@ -340,13 +617,9 @@
    "method": "fc-match (fontconfig 실측)",
    "results": {
     "굴림": "Noto Sans CJK KR",
-    "Gulim": "Noto Sans CJK KR",
     "돋움": "Noto Sans CJK KR",
-    "Dotum": "Noto Sans CJK KR",
     "맑은 고딕": "Noto Sans CJK KR",
-    "Malgun Gothic": "Noto Sans CJK KR",
     "바탕": "Noto Serif CJK KR",
-    "Batang": "Noto Serif CJK KR",
     "굴림체": "Noto Sans Mono CJK KR",
     "함초롬바탕": "Noto Sans CJK JP",
     "sans-serif:lang=ko": "Noto Sans CJK JP"
@@ -361,7 +634,7 @@
   },
   "macOS 24.6": {
    "method": "미확정",
-   "note": "응용프로그램이 고르므로 실측하지 않았다. 한글 시스템 서체는 Apple SD 산돌고딕 Neo"
+   "note": "응용프로그램이 고르므로 실측하지 않았다"
   },
   "Windows 10": {
    "method": "해당 없음",
@@ -371,11 +644,12 @@
  "androidExtraction": {
   "image": "budtmo/docker-android:emulator_13.0 내 system-images/android-33/google_apis/x86_64/system.img",
   "steps": [
-   "GPT 파싱 → super 파티션 (offset 2097152)",
-   "super 안에서 ext4 슈퍼블록 매직 스캔 → 논리 파티션 4개",
-   "system 파티션(super+1048576)에서 debugfs 로 /system/fonts, /system/etc/fonts.xml 판독"
+   "GPT 파싱 → super 파티션",
+   "super 안 ext4 슈퍼블록 스캔 → 논리 파티션",
+   "debugfs 로 /system/fonts, /system/etc/fonts.xml 판독"
   ],
   "note": "에뮬레이터를 부팅하지 않았다. 이미지를 읽기만 했다",
   "sha256_NotoSansCJK-Regular.ttc": "39fb47c543da50618ab99e8b9e5529e54566bdbef41719308165975f627d5c93"
- }
+ },
+ "note": "줄 수·쪽 수는 공백 기준 단순 배치다. 실제 금칙 처리·자간 조정과 다르다"
 }

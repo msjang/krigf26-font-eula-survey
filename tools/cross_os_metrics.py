@@ -11,6 +11,8 @@
   숫자·공백·괄호·마침표 폭
   문단 폭           한글·라틴·숫자·공백이 섞인 실제 공문서투 문단의 총 advance
   줄 수             그 문단을 고정 폭에 흘렸을 때의 줄 수 (공백 기준 단순 배치)
+  쪽 수             같은 문단을 REPEAT 번 이어 붙인 문서의 줄 수와 쪽 수
+                    서식은 쪽이 밀리면 서명란·표가 무너지므로 쪽 단위를 따로 본다
 
 모두 OpenType 규격이 정한 hmtx·head 테이블의 값을 읽는 것이며,
 목적 코드를 원시 코드로 환원하는 과정을 포함하지 않는다.
@@ -53,6 +55,27 @@ PARAGRAPH = (
 # A4 본문 폭 기준값. 210mm - 좌우 여백 30mm씩 = 150mm, 10pt 기준 em 환산
 LINE_EM = 150.0 / (10 * 25.4 / 72)
 
+# A4 한 쪽에 들어가는 줄 수. 297mm - 상하 여백 20mm씩 = 257mm,
+# 10pt 에 줄간격 160% = 16pt = 5.644mm
+LINES_PER_PAGE = int((297.0 - 40.0) / (10 * 1.6 * 25.4 / 72))
+
+# 문서 길이. 위 문단을 이만큼 이어 붙여 한 흐름으로 흘린다
+REPEAT = 40
+
+# 서식의 표 칸. 공문서 서식에서 흔한 60mm 폭 기입란을 가정한다.
+# 서식은 칸 높이가 고정이거나 칸이 늘면 아래가 전부 밀리므로,
+# 본문 한 줄보다 이쪽이 먼저 깨진다
+FIELD_EM = 60.0 / (10 * 25.4 / 72)
+
+# 기입란에 들어갈 법한 문구들. 한글·라틴·숫자·괄호가 섞인 실제 항목값이다
+FIELD_TEXTS = [
+    "한국과학기술정보연구원 과학기술연구망센터",
+    "2026년 9월 29일부터 2027년 3월 31일까지",
+    "공공문서 서식 상호운용성 개선 사업(1차)",
+    "HWPX 기반 개방형 문서 표준 적용 방안 연구",
+    "서울특별시 종로구 세종대로 209 정부서울청사 1층",
+]
+
 
 def pick_face(path, face):
     fonts = (TTCollection(path).fonts
@@ -91,15 +114,29 @@ def measure(path, face=None):
         total += hangul_em if v is None else v
 
     # 줄 수. 공백으로 끊어 고정 폭에 흘리는 단순 배치다
-    lines, cur = 1, 0.0
     space = w(" ") or 0.25
-    for word in PARAGRAPH.split(" "):
-        ww = sum((w(c) if w(c) is not None else hangul_em) for c in word)
-        if cur and cur + space + ww > LINE_EM:
-            lines += 1
-            cur = ww
-        else:
-            cur += (space if cur else 0) + ww
+
+    def flow_width(text, width):
+        """text 를 width(em) 에 흘렸을 때의 줄 수. 공백 기준 단순 배치."""
+        lines, cur = 1, 0.0
+        for word in text.split(" "):
+            ww = sum((w(c) if w(c) is not None else hangul_em) for c in word)
+            if cur and cur + space + ww > width:
+                lines += 1
+                cur = ww
+            else:
+                cur += (space if cur else 0) + ww
+        return lines
+
+    def flow(text):
+        return flow_width(text, LINE_EM)
+
+    lines = flow(PARAGRAPH)
+    field_lines = [flow_width(t, FIELD_EM) for t in FIELD_TEXTS]
+    # 문단 하나는 줄 수가 정수라 차이가 뭉툭하다. 문단 경계 없이
+    # 하나로 이어 흘려서 누적 차이를 본다
+    doc_lines = flow(" ".join([PARAGRAPH] * REPEAT))
+    pages = -(-doc_lines // LINES_PER_PAGE)
 
     return {
         "upem": upem,
@@ -112,6 +149,10 @@ def measure(path, face=None):
         "periodEm": round(w(".") or 0, 4),
         "paragraphEm": round(total, 2),
         "lines": lines,
+        "docLines": doc_lines,
+        "pages": pages,
+        "fieldLines": field_lines,
+        "fieldLinesTotal": sum(field_lines),
     }
 
 
@@ -137,25 +178,39 @@ def main(argv):
         r["paragraphDeltaPct"] = round(
             100 * (r["paragraphEm"] - base["paragraphEm"]) / base["paragraphEm"], 2)
         r["lineDelta"] = r["lines"] - base["lines"]
+        r["docLineDelta"] = r["docLines"] - base["docLines"]
+        r["pageDelta"] = r["pages"] - base["pages"]
+        r["fieldLinesDelta"] = r["fieldLinesTotal"] - base["fieldLinesTotal"]
+        r["fieldsChanged"] = sum(
+            1 for a, b in zip(r["fieldLines"], base["fieldLines"]) if a != b)
 
     out = {"baseline": cfg["baseline"], "lineWidthEm": round(LINE_EM, 2),
-           "paragraphChars": len(PARAGRAPH), "fonts": rows}
+           "linesPerPage": LINES_PER_PAGE, "documentRepeat": REPEAT,
+           "documentChars": len(PARAGRAPH) * REPEAT,
+           "paragraphChars": len(PARAGRAPH),
+           "fieldWidthEm": round(FIELD_EM, 2), "fieldTexts": FIELD_TEXTS,
+           "fonts": rows}
     if as_json:
         json.dump(out, sys.stdout, ensure_ascii=False, indent=1)
         sys.stdout.write("\n")
         return
 
     print(f"기준 글꼴: {cfg['baseline']} · 줄 폭 {LINE_EM:.1f} em "
-          f"(A4 본문 150mm, 10pt) · 문단 {len(PARAGRAPH)}자")
+          f"(A4 본문 150mm, 10pt) · 문단 {len(PARAGRAPH)}자 · "
+          f"문서 {len(PARAGRAPH) * REPEAT:,}자 · 쪽당 {LINES_PER_PAGE}줄 · "
+          f"표 칸 {FIELD_EM:.1f} em(60mm) 기입란 {len(FIELD_TEXTS)}개")
     print()
-    print("| 구분 | 폰트 | 한글(em) | vs 기준 | 라틴 | 공백 | 문단 폭 | vs 기준 | 줄 수 |")
-    print("|---|---|---:|---:|---:|---:|---:|---:|---:|")
+    print("| 구분 | 폰트 | 한글(em) | vs 기준 | 문단 폭 | vs 기준 | 문서 줄 | 쪽 | 기입란 줄 | 칸 변동 |")
+    print("|---|---|---:|---:|---:|---:|---:|---:|---:|---:|")
     for r in rows:
-        note = "" if not r["lineDelta"] else f" ({r['lineDelta']:+d})"
+        dl = "" if not r["docLineDelta"] else f" ({r['docLineDelta']:+d})"
+        dp = "" if not r["pageDelta"] else f" ({r['pageDelta']:+d})"
+        fc = r["fieldsChanged"]
         print(f"| {r['group']} | {r['font']} | {r['hangulEm']} | "
-              f"{r['hangulDeltaPct']:+.1f}% | {r['latinAvgEm']} | {r['spaceEm']} | "
-              f"{r['paragraphEm']} | {r['paragraphDeltaPct']:+.1f}% | "
-              f"{r['lines']}{note} |")
+              f"{r['hangulDeltaPct']:+.1f}% | {r['paragraphEm']} | "
+              f"{r['paragraphDeltaPct']:+.1f}% | "
+              f"{r['docLines']}{dl} | {r['pages']}{dp} | "
+              f"{r['fieldLinesTotal']} | {fc}/{len(FIELD_TEXTS)} |")
 
 
 if __name__ == "__main__":
