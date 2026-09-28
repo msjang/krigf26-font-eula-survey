@@ -31,6 +31,8 @@
 | 한컴오피스 HFT (한컴 고유 포맷) | `.../Hnc/Shared/Fonts/*.HFT` + `hftinfo.dat` | 387 |
 | Windows 10 (10.0.18363) 시스템 글꼴 | `C:\Windows\Fonts` — 생성일 2019-03-19/2019-10-07 분 | 189 |
 | 한컴오피스 2024 Windows 설치분 | `C:\Windows\Fonts` — 생성일 2023-03-28 분 | 22 |
+| Ubuntu 26.04 LTS | `/usr/share/fonts/{opentype/noto,truetype/nanum}` — apt `fonts-noto-cjk`·`fonts-nanum` | 5 파일 |
+| Android 13 (SDK 33) | 에뮬레이터 시스템 이미지의 `/system/fonts` | 2 파일 |
 
 ### 오픈소스·MCF 폰트
 
