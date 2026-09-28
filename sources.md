@@ -7,7 +7,7 @@
 
 | 문서 | 출처 | 비고 |
 |---|---|---|
-| 한컴오피스 한/글 for Mac 12.30.0 제품 EULA | 설치본 내 `Contents/Resources/Readme/eula_ko.pdf` | 국문 5쪽. 설치본이 있으면 누구나 동일 경로에서 확인 가능 |
+| 한컴오피스 한글 소프트웨어 사용권 계약서 (플랫폼 공통 약관) | 설치본 내 `Contents/Resources/Readme/eula_ko.pdf` | 국문 5쪽. 제1조가 모든 제품에 적용된다고 명시한다. 설치본이 있으면 누구나 동일 경로에서 확인 가능 |
 | 한컴오피스 한/글 for Mac 사용권 도움말 | 설치본 내 `Contents/Resources/Help/rights/rights.htm` | |
 | 한컴오피스 2020 한/글 사용권 | <https://help.hancom.com/hoffice110/ko-KR/Hwp/rights/rights.htm> | |
 | 한컴오피스 2022 한/글 사용권 | <https://help.hancom.com/hoffice120/ko-KR/Hwp/rights/rights.htm> | |
