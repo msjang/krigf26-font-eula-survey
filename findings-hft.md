@@ -15,7 +15,7 @@
 ```
 
 - **"Han Unified Font File 1.0"** — 한컴 고유 폰트 포맷
-- TrueType/OpenType과 달리 `name`·`OS/2` 테이블이 없다. 따라서 [폰트 파일 내장 라이선스 전수 조사](findings-licenses.md)의 1,862종에 포함되지 않는다
+- TrueType/OpenType과 달리 `name`·`OS/2` 테이블이 없다. 따라서 [폰트 파일 내장 라이선스 전수 조사](findings-licenses.md)의 전수에 포함되지 않는다
 - 대신 헤더에 **평문 저작권 문자열과 8자리 빌드일자**가 들어 있고, 별도 색인 파일 `hftinfo.dat`(UTF-16LE INI)이 폰트명·공급사를 기록한다
 
 ```ini
