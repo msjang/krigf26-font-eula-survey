@@ -1,0 +1,29 @@
+{
+ "pairs": [
+  {
+   "original": "Arial",
+   "originalPath": "<MS Office 번들>/arial.ttf",
+   "mcf": "Liberation Sans",
+   "mcfPath": "<Ubuntu 26.04 /usr/share/fonts>/LiberationSans-Regular.ttf"
+  },
+  {
+   "original": "Times New Roman",
+   "originalPath": "<MS Office 번들>/times.ttf",
+   "mcf": "Liberation Serif",
+   "mcfPath": "<Ubuntu 26.04 /usr/share/fonts>/LiberationSerif-Regular.ttf"
+  },
+  {
+   "original": "Calibri",
+   "originalPath": "<MS Office 번들>/Calibri.ttf",
+   "mcf": "Carlito",
+   "mcfPath": "<Ubuntu 26.04 /usr/share/fonts>/Carlito-Regular.ttf"
+  },
+  {
+   "original": "Cambria",
+   "originalPath": "<MS Office 번들>/Cambria.ttc",
+   "originalFace": "Cambria",
+   "mcf": "Caladea",
+   "mcfPath": "<Ubuntu 26.04 /usr/share/fonts>/Caladea-Regular.ttf"
+  }
+ ]
+}

@@ -1,0 +1,481 @@
+{
+ "kernLetters": "AVTWYFPLoaevwyr.,:;-1470",
+ "ligatureTests": [
+  "fi",
+  "fl",
+  "ff",
+  "ffi",
+  "ffl",
+  "ft",
+  "st",
+  "Th"
+ ],
+ "pairs": [
+  {
+   "original": "Arial",
+   "mcf": "Liberation Sans",
+   "kernPairsOriginal": 71,
+   "kernPairsMcf": 71,
+   "kernSame": 71,
+   "kernDiff": 0,
+   "kernDiffExamples": [],
+   "ligatures": [
+    {
+     "seq": "fi",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "fl",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "ff",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "ffi",
+     "glyphsOriginal": 3,
+     "glyphsMcf": 3,
+     "same": true
+    },
+    {
+     "seq": "ffl",
+     "glyphsOriginal": 3,
+     "glyphsMcf": 3,
+     "same": true
+    },
+    {
+     "seq": "ft",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "st",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "Th",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    }
+   ],
+   "ligatureSame": 8,
+   "sentences": [
+    {
+     "label": "합자 유발",
+     "emOriginal": 11.5439,
+     "emMcf": 11.5439,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 33,
+     "glyphsMcf": 33
+    },
+    {
+     "label": "커닝 유발",
+     "emOriginal": 13.6733,
+     "emMcf": 13.6733,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 27,
+     "glyphsMcf": 27
+    },
+    {
+     "label": "혼합 본문",
+     "emOriginal": 19.6929,
+     "emMcf": 19.6929,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 44,
+     "glyphsMcf": 44
+    },
+    {
+     "label": "숫자·기호",
+     "emOriginal": 15.582,
+     "emMcf": 15.582,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 29,
+     "glyphsMcf": 29
+    }
+   ],
+   "structureOriginal": {
+    "gsubLookups": 50,
+    "gposLookups": 103,
+    "pairKernRecords": 4387,
+    "classKernCells": 0,
+    "ligatureRules": 288
+   },
+   "structureMcf": {
+    "gsubLookups": 7,
+    "gposLookups": 37,
+    "pairKernRecords": 2016,
+    "classKernCells": 0,
+    "ligatureRules": 184
+   }
+  },
+  {
+   "original": "Times New Roman",
+   "mcf": "Liberation Serif",
+   "kernPairsOriginal": 72,
+   "kernPairsMcf": 72,
+   "kernSame": 72,
+   "kernDiff": 0,
+   "kernDiffExamples": [],
+   "ligatures": [
+    {
+     "seq": "fi",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "fl",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "ff",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "ffi",
+     "glyphsOriginal": 3,
+     "glyphsMcf": 3,
+     "same": true
+    },
+    {
+     "seq": "ffl",
+     "glyphsOriginal": 3,
+     "glyphsMcf": 3,
+     "same": true
+    },
+    {
+     "seq": "ft",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "st",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "Th",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    }
+   ],
+   "ligatureSame": 8,
+   "sentences": [
+    {
+     "label": "합자 유발",
+     "emOriginal": 11.6162,
+     "emMcf": 11.6162,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 33,
+     "glyphsMcf": 33
+    },
+    {
+     "label": "커닝 유발",
+     "emOriginal": 12.9849,
+     "emMcf": 12.9849,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 27,
+     "glyphsMcf": 27
+    },
+    {
+     "label": "혼합 본문",
+     "emOriginal": 18.8896,
+     "emMcf": 18.8896,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 44,
+     "glyphsMcf": 44
+    },
+    {
+     "label": "숫자·기호",
+     "emOriginal": 14.3638,
+     "emMcf": 14.3638,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 29,
+     "glyphsMcf": 29
+    }
+   ],
+   "structureOriginal": {
+    "gsubLookups": 89,
+    "gposLookups": 131,
+    "pairKernRecords": 0,
+    "classKernCells": 0,
+    "ligatureRules": 0
+   },
+   "structureMcf": {
+    "gsubLookups": 7,
+    "gposLookups": 26,
+    "pairKernRecords": 868,
+    "classKernCells": 0,
+    "ligatureRules": 184
+   }
+  },
+  {
+   "original": "Calibri",
+   "mcf": "Carlito",
+   "kernPairsOriginal": 147,
+   "kernPairsMcf": 147,
+   "kernSame": 147,
+   "kernDiff": 0,
+   "kernDiffExamples": [],
+   "ligatures": [
+    {
+     "seq": "fi",
+     "glyphsOriginal": 1,
+     "glyphsMcf": 1,
+     "same": true
+    },
+    {
+     "seq": "fl",
+     "glyphsOriginal": 1,
+     "glyphsMcf": 1,
+     "same": true
+    },
+    {
+     "seq": "ff",
+     "glyphsOriginal": 1,
+     "glyphsMcf": 1,
+     "same": true
+    },
+    {
+     "seq": "ffi",
+     "glyphsOriginal": 1,
+     "glyphsMcf": 1,
+     "same": true
+    },
+    {
+     "seq": "ffl",
+     "glyphsOriginal": 1,
+     "glyphsMcf": 1,
+     "same": true
+    },
+    {
+     "seq": "ft",
+     "glyphsOriginal": 1,
+     "glyphsMcf": 1,
+     "same": true
+    },
+    {
+     "seq": "st",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "Th",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    }
+   ],
+   "ligatureSame": 8,
+   "sentences": [
+    {
+     "label": "합자 유발",
+     "emOriginal": 11.1357,
+     "emMcf": 11.1357,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 25,
+     "glyphsMcf": 25
+    },
+    {
+     "label": "커닝 유발",
+     "emOriginal": 11.5903,
+     "emMcf": 11.5903,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 27,
+     "glyphsMcf": 27
+    },
+    {
+     "label": "혼합 본문",
+     "emOriginal": 17.4585,
+     "emMcf": 17.4585,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 41,
+     "glyphsMcf": 41
+    },
+    {
+     "label": "숫자·기호",
+     "emOriginal": 14.0898,
+     "emMcf": 14.0898,
+     "deltaPct": 0.0,
+     "glyphsOriginal": 29,
+     "glyphsMcf": 29
+    }
+   ],
+   "structureOriginal": {
+    "gsubLookups": 223,
+    "gposLookups": 197,
+    "pairKernRecords": 0,
+    "classKernCells": 0,
+    "ligatureRules": 0
+   },
+   "structureMcf": {
+    "gsubLookups": 40,
+    "gposLookups": 2,
+    "pairKernRecords": 0,
+    "classKernCells": 0,
+    "ligatureRules": 121
+   }
+  },
+  {
+   "original": "Cambria",
+   "mcf": "Caladea",
+   "kernPairsOriginal": 125,
+   "kernPairsMcf": 126,
+   "kernSame": 0,
+   "kernDiff": 127,
+   "kernDiffExamples": [
+    {
+     "pair": "AV",
+     "original": -0.05908,
+     "mcf": -0.117
+    },
+    {
+     "pair": "AT",
+     "original": -0.05859,
+     "mcf": -0.079
+    },
+    {
+     "pair": "AW",
+     "original": -0.04297,
+     "mcf": -0.106
+    },
+    {
+     "pair": "AY",
+     "original": -0.07227,
+     "mcf": -0.1
+    },
+    {
+     "pair": "Ao",
+     "original": -0.00781,
+     "mcf": -0.008
+    }
+   ],
+   "ligatures": [
+    {
+     "seq": "fi",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "fl",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "ff",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "ffi",
+     "glyphsOriginal": 3,
+     "glyphsMcf": 3,
+     "same": true
+    },
+    {
+     "seq": "ffl",
+     "glyphsOriginal": 3,
+     "glyphsMcf": 3,
+     "same": true
+    },
+    {
+     "seq": "ft",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "st",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    },
+    {
+     "seq": "Th",
+     "glyphsOriginal": 2,
+     "glyphsMcf": 2,
+     "same": true
+    }
+   ],
+   "ligatureSame": 8,
+   "sentences": [
+    {
+     "label": "합자 유발",
+     "emOriginal": 11.7847,
+     "emMcf": 11.554,
+     "deltaPct": -1.957,
+     "glyphsOriginal": 33,
+     "glyphsMcf": 33
+    },
+    {
+     "label": "커닝 유발",
+     "emOriginal": 12.4644,
+     "emMcf": 11.815,
+     "deltaPct": -5.21,
+     "glyphsOriginal": 27,
+     "glyphsMcf": 27
+    },
+    {
+     "label": "혼합 본문",
+     "emOriginal": 18.7695,
+     "emMcf": 17.709,
+     "deltaPct": -5.65,
+     "glyphsOriginal": 44,
+     "glyphsMcf": 44
+    },
+    {
+     "label": "숫자·기호",
+     "emOriginal": 15.4224,
+     "emMcf": 14.007,
+     "deltaPct": -9.177,
+     "glyphsOriginal": 29,
+     "glyphsMcf": 29
+    }
+   ],
+   "structureOriginal": {
+    "gsubLookups": 60,
+    "gposLookups": 27,
+    "pairKernRecords": 0,
+    "classKernCells": 0,
+    "ligatureRules": 0
+   },
+   "structureMcf": {
+    "gsubLookups": 13,
+    "gposLookups": 4,
+    "pairKernRecords": 564,
+    "classKernCells": 2390,
+    "ligatureRules": 9
+   }
+  }
+ ],
+ "measuredAt": "2026-09-29",
+ "why": "metric_compat.py 는 hmtx 의 advance width 만 본다. 실제 조판에는 커닝(GPOS)과 합자(GSUB)가 개입하므로, advance width 를 다 맞춰도 이 둘이 다르면 줄바꿈이 달라진다. 그래서 HarfBuzz 셰이핑 결과로 확인한다",
+ "limits": [
+  "합자 시험은 라틴 8종이다. Times·Cambria 계열은 기본 설정에서 라틴 합자를 만들지 않아 이 시험이 변별력을 갖지 못한다. 변별이 된 것은 Calibri→Carlito 뿐이다",
+  "커닝 시험은 24x24=576쌍이며 라틴·숫자·문장부호에 한정된다. 한글 커닝은 재지 않았다",
+  "실효 커닝은 shape(XY) - (adv(X)+adv(Y)) 로 구했다. 구현 방식과 무관한 값이지만 문맥 의존 규칙(GPOS 3형 이상)은 이 방법으로 드러나지 않을 수 있다",
+  "구조 지표는 lookup 수와 규칙 수를 센 것이며, 규칙 내용의 동일성을 본 것이 아니다"
+ ]
+}
