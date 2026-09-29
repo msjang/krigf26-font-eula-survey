@@ -1,0 +1,102 @@
+{
+ "measuredAt": "2026-09-29",
+ "term": "투명도화지 폰트 — 이 조사의 작성자가 만든 말이다",
+ "what": "모든 글리프의 윤곽선을 비우고 조판 수치만 담은 폰트. 화면에는 아무것도 나타나지 않으나 줄바꿈과 쪽 수는 원본과 같다",
+ "method": "advance width 와 수직 메트릭은 규격이 정한 자리에서 읽었다. 커닝은 원본의 lookup 구성을 가져오지 않고, HarfBuzz 로 조판해 shape(XY)-adv(X)-adv(Y) 로 실효값을 측정한 뒤 이 조사가 짠 GPOS 규칙에 넣었다",
+ "charset": "한글 음절 11,172자 + ASCII + 공문서 상용 기호",
+ "limits": [
+  "시험 문자열 3종으로 확인했다. 전수 검증이 아니다",
+  "합자(GSUB)는 이번 대상 세 글꼴에 없어 넣지 않았다. 있는 글꼴에는 별도 처리가 필요하다",
+  "커닝 실측은 ASCII 쌍에 한정했다. 한글 커닝과 문맥 의존 규칙은 대상이 아니다",
+  "이 저장소는 생성된 폰트 파일을 배포하지 않는다. 도구와 측정 결과만 싣는다"
+ ],
+ "results": [
+  {
+   "source": "굴림",
+   "chars": 11308,
+   "kernPairs": 0,
+   "upem": 1024,
+   "bytes": 159496,
+   "controlPoints": 0,
+   "outlinedGlyphs": 0,
+   "verify": [
+    {
+     "label": "공문서 문단",
+     "sourceEm": 111.6592,
+     "blankEm": 111.6592,
+     "delta": 0.0
+    },
+    {
+     "label": "라틴·커닝",
+     "sourceEm": 17.7734,
+     "blankEm": 17.7734,
+     "delta": 0.0
+    },
+    {
+     "label": "문장부호",
+     "sourceEm": 19.5557,
+     "blankEm": 19.5557,
+     "delta": 0.0
+    }
+   ]
+  },
+  {
+   "source": "맑은 고딕",
+   "chars": 11308,
+   "kernPairs": 372,
+   "upem": 2048,
+   "bytes": 161312,
+   "controlPoints": 0,
+   "outlinedGlyphs": 0,
+   "verify": [
+    {
+     "label": "공문서 문단",
+     "sourceEm": 110.5781,
+     "blankEm": 110.5781,
+     "delta": 0.0
+    },
+    {
+     "label": "라틴·커닝",
+     "sourceEm": 16.481,
+     "blankEm": 16.481,
+     "delta": 0.0
+    },
+    {
+     "label": "문장부호",
+     "sourceEm": 17.4087,
+     "blankEm": 17.4087,
+     "delta": 0.0
+    }
+   ]
+  },
+  {
+   "source": "함초롬바탕",
+   "chars": 11308,
+   "kernPairs": 93,
+   "upem": 1000,
+   "bytes": 160020,
+   "controlPoints": 0,
+   "outlinedGlyphs": 0,
+   "verify": [
+    {
+     "label": "공문서 문단",
+     "sourceEm": 108.094,
+     "blankEm": 108.094,
+     "delta": 0.0
+    },
+    {
+     "label": "라틴·커닝",
+     "sourceEm": 17.289,
+     "blankEm": 17.289,
+     "delta": 0.0
+    },
+    {
+     "label": "문장부호",
+     "sourceEm": 18.114,
+     "blankEm": 18.114,
+     "delta": 0.0
+    }
+   ]
+  }
+ ]
+}
