@@ -35,7 +35,7 @@
 
 ## 무엇을 조사했나
 
-KrIGF 2026 세션 [공익적 상호운용성을 위한 사전 법적 확신 메커니즘](https://msjang.github.io/krigf26-no-action-letter)(2026-07-02) 직후, 법률 패널로 참여한 박경신 교수(고려대 법학전문대학원·오픈넷)가 물었습니다.
+KrIGF 2026 세션 [공익적 상호운용성을 위한 사전 법적 확신 메커니즘](https://msjang.github.io/krigf26-no-action-letter)(2026-07-02, [오픈넷 세션 정리](https://www.opennet.or.kr/27856)) 직후, 법률 패널로 참여한 박경신 교수(고려대 법학전문대학원·오픈넷)가 물었습니다.
 
 > 실제로 EULA에 font metric 추출을 명시적으로 금지하는 조항이 있는가요? 보통은 reverse engineering 금지조항만 있는 것으로 알고 있습니다.
 
