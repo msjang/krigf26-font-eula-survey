@@ -1,0 +1,11 @@
+{
+ "original": "굴림",
+ "originalPath": "<Windows 10 C:\\\\Windows\\\\Fonts>/gulim.ttc",
+ "originalFace": "굴림",
+ "fallback": "Noto Sans CJK KR",
+ "fallbackPath": "<Ubuntu 26.04 /usr/share/fonts>/NotoSansCJK-Regular.ttc",
+ "fallbackFace": "NotoSansCJKkr-Regular",
+ "familyName": "Gulim-Compat",
+ "tolerance": 0.005,
+ "outlierThreshold": 0.1
+}

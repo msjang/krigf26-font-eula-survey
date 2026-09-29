@@ -1,0 +1,1916 @@
+{
+ "measuredAt": "2026-09-29",
+ "question": "폰트를 만들지 않고 CSS 만으로 원본 글꼴의 메트릭을 어디까지 맞출 수 있는가",
+ "method": "CSS @font-face 의 size-adjust 와 unicode-range 를 조합해, 문자 구간마다 다른 배율을 준다. 문자별 필요 배율 = 원본 advance / 대체 advance",
+ "charset": "한글 음절 11,172자 + ASCII + 공문서 상용 기호·한자, 합계 11,347자",
+ "limits": [
+  "웹에서만 적용된다. HWP·LibreOffice 문서 편집에는 CSS 가 없다",
+  "size-adjust 는 폭만이 아니라 글리프 크기도 함께 바꾼다. 폭을 정확히 맞추면 그 글자만 크거나 작게 그려진다",
+  "ascent/descent-override 는 face 단위이므로 구간을 늘리면 줄높이 처리가 복잡해진다",
+  "브라우저별 size-adjust 지원 여부와 local() 해석 차이는 확인하지 않았다",
+  "커닝·합자는 대상이 아니다. CSS 로는 조정할 수 없다"
+ ],
+ "results": [
+  {
+   "original": "굴림",
+   "fallback": "Noto Sans CJK KR",
+   "familyName": "Gulim-Compat",
+   "tolerance": 0.005,
+   "outlierThreshold": 0.1,
+   "charsCompared": 11347,
+   "dominantSizeAdjust": 108.7,
+   "dominantCoverage": 98.46,
+   "ruleCount": 48,
+   "rules": [
+    {
+     "sizeAdjust": 108.7,
+     "chars": 11173,
+     "unicodeRange": "U+0058, U+AC00-D7A3"
+    },
+    {
+     "sizeAdjust": 100.01,
+     "chars": 74,
+     "unicodeRange": "U+0048, U+004C-004D, U+0061, U+006F, U+0078, U+2026, U+203B, U+2103, U+2160-2164, U+2190, U+2192, U+2460-2469, U+25B3, U+25BD, U+25C6-25C7, U+25CB, U+25CE-25CF, U+300A-300D, U+3014-3015, U+338F, U+3396, U+339E, U+33A1, U+4E00, U+4E03, U+4E09, U+4E3B, U+4E5D, U+4E8C, U+4E94, U+516B, U+516D, U+5171, U+5206, U+5341, U+5343, U+548C, U+56DB, U+570B, U+5B98, U+5BB6, U+5E74, U+5EF3, U+65E5, U+6642, U+6708, U+6C11, U+767E, U+842C, U+8655, U+8AB2, U+90E8, U+9577, U+FF05"
+    },
+    {
+     "sizeAdjust": 103.39,
+     "chars": 12,
+     "unicodeRange": "U+0021, U+0030-0039, U+0042"
+    },
+    {
+     "sizeAdjust": 112.54,
+     "chars": 6,
+     "unicodeRange": "U+002B, U+003C-003E, U+0043, U+0073"
+    },
+    {
+     "sizeAdjust": 120.02,
+     "chars": 6,
+     "unicodeRange": "U+002C, U+002E, U+003A-003B, U+2018-2019"
+    },
+    {
+     "sizeAdjust": 97.72,
+     "chars": 5,
+     "unicodeRange": "U+005E, U+0062, U+0064, U+0070-0071"
+    },
+    {
+     "sizeAdjust": 148.08,
+     "chars": 5,
+     "unicodeRange": "U+0020, U+005B, U+005D, U+007B, U+007D"
+    },
+    {
+     "sizeAdjust": 105.05,
+     "chars": 4,
+     "unicodeRange": "U+0044, U+0052, U+0066, U+007A"
+    },
+    {
+     "sizeAdjust": 106.21,
+     "chars": 4,
+     "unicodeRange": "U+002F, U+0041, U+0045, U+0053"
+    },
+    {
+     "sizeAdjust": 105.56,
+     "chars": 3,
+     "unicodeRange": "U+0040, U+201C-201D"
+    },
+    {
+     "sizeAdjust": 75.0,
+     "chars": 2,
+     "unicodeRange": "U+2191, U+2193"
+    },
+    {
+     "sizeAdjust": 87.71,
+     "chars": 2,
+     "unicodeRange": "U+0069-006A"
+    },
+    {
+     "sizeAdjust": 88.96,
+     "chars": 2,
+     "unicodeRange": "U+25A0-25A1"
+    },
+    {
+     "sizeAdjust": 91.41,
+     "chars": 2,
+     "unicodeRange": "U+25B2, U+25BC"
+    },
+    {
+     "sizeAdjust": 93.24,
+     "chars": 2,
+     "unicodeRange": "U+004A, U+006D"
+    },
+    {
+     "sizeAdjust": 93.74,
+     "chars": 2,
+     "unicodeRange": "U+0075, U+0077"
+    },
+    {
+     "sizeAdjust": 95.05,
+     "chars": 2,
+     "unicodeRange": "U+0025, U+006E"
+    },
+    {
+     "sizeAdjust": 95.97,
+     "chars": 2,
+     "unicodeRange": "U+0076, U+0079"
+    },
+    {
+     "sizeAdjust": 96.94,
+     "chars": 2,
+     "unicodeRange": "U+004E, U+0054"
+    },
+    {
+     "sizeAdjust": 98.43,
+     "chars": 2,
+     "unicodeRange": "U+004B, U+0055"
+    },
+    {
+     "sizeAdjust": 101.88,
+     "chars": 2,
+     "unicodeRange": "U+0027, U+0057"
+    },
+    {
+     "sizeAdjust": 103.68,
+     "chars": 2,
+     "unicodeRange": "U+004F, U+005A"
+    },
+    {
+     "sizeAdjust": 104.26,
+     "chars": 2,
+     "unicodeRange": "U+0051, U+0056"
+    },
+    {
+     "sizeAdjust": 107.21,
+     "chars": 2,
+     "unicodeRange": "U+002A, U+0067"
+    },
+    {
+     "sizeAdjust": 107.8,
+     "chars": 2,
+     "unicodeRange": "U+0024, U+0046"
+    },
+    {
+     "sizeAdjust": 110.95,
+     "chars": 2,
+     "unicodeRange": "U+0028-0029"
+    },
+    {
+     "sizeAdjust": 111.95,
+     "chars": 2,
+     "unicodeRange": "U+0047, U+0063"
+    },
+    {
+     "sizeAdjust": 54.95,
+     "chars": 1,
+     "unicodeRange": "U+0060"
+    },
+    {
+     "sizeAdjust": 66.84,
+     "chars": 1,
+     "unicodeRange": "U+00B7"
+    },
+    {
+     "sizeAdjust": 79.11,
+     "chars": 1,
+     "unicodeRange": "U+0022"
+    },
+    {
+     "sizeAdjust": 81.49,
+     "chars": 1,
+     "unicodeRange": "U+006C"
+    },
+    {
+     "sizeAdjust": 83.15,
+     "chars": 1,
+     "unicodeRange": "U+0074"
+    },
+    {
+     "sizeAdjust": 85.83,
+     "chars": 1,
+     "unicodeRange": "U+0072"
+    },
+    {
+     "sizeAdjust": 89.45,
+     "chars": 1,
+     "unicodeRange": "U+005F"
+    },
+    {
+     "sizeAdjust": 90.58,
+     "chars": 1,
+     "unicodeRange": "U+006B"
+    },
+    {
+     "sizeAdjust": 91.99,
+     "chars": 1,
+     "unicodeRange": "U+0049"
+    },
+    {
+     "sizeAdjust": 94.12,
+     "chars": 1,
+     "unicodeRange": "U+0068"
+    },
+    {
+     "sizeAdjust": 100.59,
+     "chars": 1,
+     "unicodeRange": "U+0050"
+    },
+    {
+     "sizeAdjust": 101.1,
+     "chars": 1,
+     "unicodeRange": "U+0026"
+    },
+    {
+     "sizeAdjust": 102.42,
+     "chars": 1,
+     "unicodeRange": "U+0065"
+    },
+    {
+     "sizeAdjust": 114.34,
+     "chars": 1,
+     "unicodeRange": "U+003F"
+    },
+    {
+     "sizeAdjust": 117.7,
+     "chars": 1,
+     "unicodeRange": "U+0059"
+    },
+    {
+     "sizeAdjust": 135.14,
+     "chars": 1,
+     "unicodeRange": "U+0023"
+    },
+    {
+     "sizeAdjust": 142.7,
+     "chars": 1,
+     "unicodeRange": "U+007E"
+    },
+    {
+     "sizeAdjust": 165.22,
+     "chars": 1,
+     "unicodeRange": "U+20A9"
+    },
+    {
+     "sizeAdjust": 180.12,
+     "chars": 1,
+     "unicodeRange": "U+002D"
+    },
+    {
+     "sizeAdjust": 185.19,
+     "chars": 1,
+     "unicodeRange": "U+007C"
+    },
+    {
+     "sizeAdjust": 233.93,
+     "chars": 1,
+     "unicodeRange": "U+005C"
+    }
+   ],
+   "verticalOverrides": {
+    "ascent-override": "85.84%",
+    "descent-override": "14.16%",
+    "line-gap-override": "14.84%"
+   },
+   "outlierCount": 49,
+   "outlierPoints": 932,
+   "outliers": [
+    {
+     "char": "\\",
+     "codepoint": "U+005C",
+     "ratio": 233.9,
+     "deviationPct": 115.2,
+     "points": 4
+    },
+    {
+     "char": "|",
+     "codepoint": "U+007C",
+     "ratio": 185.2,
+     "deviationPct": 70.4,
+     "points": 4
+    },
+    {
+     "char": "-",
+     "codepoint": "U+002D",
+     "ratio": 180.1,
+     "deviationPct": 65.7,
+     "points": 4
+    },
+    {
+     "char": "₩",
+     "codepoint": "U+20A9",
+     "ratio": 165.2,
+     "deviationPct": 52.0,
+     "points": 42
+    },
+    {
+     "char": "`",
+     "codepoint": "U+0060",
+     "ratio": 55.0,
+     "deviationPct": 49.4,
+     "points": 4
+    },
+    {
+     "char": "·",
+     "codepoint": "U+00B7",
+     "ratio": 66.8,
+     "deviationPct": 38.5,
+     "points": 13
+    },
+    {
+     "char": " ",
+     "codepoint": "U+0020",
+     "ratio": 148.7,
+     "deviationPct": 36.8,
+     "points": 0
+    },
+    {
+     "char": "[",
+     "codepoint": "U+005B",
+     "ratio": 147.9,
+     "deviationPct": 36.1,
+     "points": 8
+    },
+    {
+     "char": "}",
+     "codepoint": "U+007D",
+     "ratio": 147.9,
+     "deviationPct": 36.1,
+     "points": 44
+    },
+    {
+     "char": "]",
+     "codepoint": "U+005D",
+     "ratio": 147.9,
+     "deviationPct": 36.1,
+     "points": 8
+    },
+    {
+     "char": "{",
+     "codepoint": "U+007B",
+     "ratio": 147.9,
+     "deviationPct": 36.1,
+     "points": 45
+    },
+    {
+     "char": "~",
+     "codepoint": "U+007E",
+     "ratio": 142.7,
+     "deviationPct": 31.3,
+     "points": 21
+    },
+    {
+     "char": "↑",
+     "codepoint": "U+2191",
+     "ratio": 75.0,
+     "deviationPct": 31.0,
+     "points": 18
+    },
+    {
+     "char": "↓",
+     "codepoint": "U+2193",
+     "ratio": 75.0,
+     "deviationPct": 31.0,
+     "points": 18
+    },
+    {
+     "char": "\"",
+     "codepoint": "U+0022",
+     "ratio": 79.1,
+     "deviationPct": 27.2,
+     "points": 12
+    },
+    {
+     "char": "l",
+     "codepoint": "U+006C",
+     "ratio": 81.5,
+     "deviationPct": 25.0,
+     "points": 17
+    },
+    {
+     "char": "#",
+     "codepoint": "U+0023",
+     "ratio": 135.1,
+     "deviationPct": 24.3,
+     "points": 32
+    },
+    {
+     "char": "t",
+     "codepoint": "U+0074",
+     "ratio": 83.2,
+     "deviationPct": 23.5,
+     "points": 25
+    },
+    {
+     "char": "r",
+     "codepoint": "U+0072",
+     "ratio": 85.8,
+     "deviationPct": 21.0,
+     "points": 19
+    },
+    {
+     "char": "i",
+     "codepoint": "U+0069",
+     "ratio": 87.7,
+     "deviationPct": 19.3,
+     "points": 17
+    },
+    {
+     "char": "j",
+     "codepoint": "U+006A",
+     "ratio": 87.7,
+     "deviationPct": 19.3,
+     "points": 30
+    },
+    {
+     "char": "■",
+     "codepoint": "U+25A0",
+     "ratio": 89.0,
+     "deviationPct": 18.2,
+     "points": 4
+    },
+    {
+     "char": "□",
+     "codepoint": "U+25A1",
+     "ratio": 89.0,
+     "deviationPct": 18.2,
+     "points": 8
+    },
+    {
+     "char": "_",
+     "codepoint": "U+005F",
+     "ratio": 89.4,
+     "deviationPct": 17.7,
+     "points": 4
+    },
+    {
+     "char": "k",
+     "codepoint": "U+006B",
+     "ratio": 90.6,
+     "deviationPct": 16.7,
+     "points": 13
+    },
+    {
+     "char": "▼",
+     "codepoint": "U+25BC",
+     "ratio": 91.4,
+     "deviationPct": 15.9,
+     "points": 3
+    },
+    {
+     "char": "▲",
+     "codepoint": "U+25B2",
+     "ratio": 91.4,
+     "deviationPct": 15.9,
+     "points": 3
+    },
+    {
+     "char": "I",
+     "codepoint": "U+0049",
+     "ratio": 92.0,
+     "deviationPct": 15.4,
+     "points": 4
+    },
+    {
+     "char": "m",
+     "codepoint": "U+006D",
+     "ratio": 93.0,
+     "deviationPct": 14.4,
+     "points": 36
+    },
+    {
+     "char": "J",
+     "codepoint": "U+004A",
+     "ratio": 93.5,
+     "deviationPct": 14.0,
+     "points": 17
+    },
+    {
+     "char": "w",
+     "codepoint": "U+0077",
+     "ratio": 93.5,
+     "deviationPct": 14.0,
+     "points": 34
+    },
+    {
+     "char": "u",
+     "codepoint": "U+0075",
+     "ratio": 94.0,
+     "deviationPct": 13.6,
+     "points": 22
+    },
+    {
+     "char": "h",
+     "codepoint": "U+0068",
+     "ratio": 94.1,
+     "deviationPct": 13.4,
+     "points": 21
+    },
+    {
+     "char": "%",
+     "codepoint": "U+0025",
+     "ratio": 95.0,
+     "deviationPct": 12.6,
+     "points": 56
+    },
+    {
+     "char": "n",
+     "codepoint": "U+006E",
+     "ratio": 95.1,
+     "deviationPct": 12.5,
+     "points": 21
+    },
+    {
+     "char": "v",
+     "codepoint": "U+0076",
+     "ratio": 96.0,
+     "deviationPct": 11.7,
+     "points": 14
+    },
+    {
+     "char": "y",
+     "codepoint": "U+0079",
+     "ratio": 96.0,
+     "deviationPct": 11.7,
+     "points": 28
+    },
+    {
+     "char": "N",
+     "codepoint": "U+004E",
+     "ratio": 96.7,
+     "deviationPct": 11.0,
+     "points": 20
+    },
+    {
+     "char": "T",
+     "codepoint": "U+0054",
+     "ratio": 97.2,
+     "deviationPct": 10.6,
+     "points": 8
+    },
+    {
+     "char": ",",
+     "codepoint": "U+002C",
+     "ratio": 120.1,
+     "deviationPct": 10.5,
+     "points": 17
+    },
+    {
+     "char": ";",
+     "codepoint": "U+003B",
+     "ratio": 120.1,
+     "deviationPct": 10.5,
+     "points": 30
+    },
+    {
+     "char": ".",
+     "codepoint": "U+002E",
+     "ratio": 120.1,
+     "deviationPct": 10.5,
+     "points": 13
+    },
+    {
+     "char": ":",
+     "codepoint": "U+003A",
+     "ratio": 120.1,
+     "deviationPct": 10.5,
+     "points": 26
+    },
+    {
+     "char": "’",
+     "codepoint": "U+2019",
+     "ratio": 119.8,
+     "deviationPct": 10.2,
+     "points": 17
+    },
+    {
+     "char": "^",
+     "codepoint": "U+005E",
+     "ratio": 97.7,
+     "deviationPct": 10.2,
+     "points": 10
+    },
+    {
+     "char": "d",
+     "codepoint": "U+0064",
+     "ratio": 97.7,
+     "deviationPct": 10.2,
+     "points": 34
+    },
+    {
+     "char": "q",
+     "codepoint": "U+0071",
+     "ratio": 97.7,
+     "deviationPct": 10.2,
+     "points": 33
+    },
+    {
+     "char": "‘",
+     "codepoint": "U+2018",
+     "ratio": 119.8,
+     "deviationPct": 10.2,
+     "points": 18
+    },
+    {
+     "char": "p",
+     "codepoint": "U+0070",
+     "ratio": 97.7,
+     "deviationPct": 10.2,
+     "points": 33
+    }
+   ]
+  },
+  {
+   "original": "굴림",
+   "fallback": "나눔고딕",
+   "familyName": "Gulim-Compat",
+   "tolerance": 0.005,
+   "outlierThreshold": 0.1,
+   "charsCompared": 11347,
+   "dominantSizeAdjust": 106.38,
+   "dominantCoverage": 99.0,
+   "ruleCount": 48,
+   "rules": [
+    {
+     "sizeAdjust": 106.38,
+     "chars": 11235,
+     "unicodeRange": "U+0043, U+0054, U+2026, U+203B, U+2160-2164, U+2190, U+2192, U+2460-2469, U+25B3, U+25BD, U+25C6-25C7, U+25CB, U+25CE-25CF, U+338F, U+3396, U+339E, U+33A1, U+4E00, U+4E03, U+4E09, U+4E3B, U+4E5D, U+4E8C, U+4E94, U+516B, U+516D, U+5171, U+5206, U+5341, U+5343, U+548C, U+56DB, U+570B, U+5B98, U+5BB6, U+5E74, U+5EF3, U+65E5, U+6642, U+6708, U+6C11, U+767E, U+842C, U+8655, U+8AB2, U+90E8, U+9577, U+AC00-D7A3, U+FF05"
+    },
+    {
+     "sizeAdjust": 94.77,
+     "chars": 15,
+     "unicodeRange": "U+0030-0039, U+005C, U+006D, U+20A9, U+25A0-25A1"
+    },
+    {
+     "sizeAdjust": 99.88,
+     "chars": 7,
+     "unicodeRange": "U+0062, U+0064, U+0067, U+0069, U+006F-0071"
+    },
+    {
+     "sizeAdjust": 103.29,
+     "chars": 5,
+     "unicodeRange": "U+0028-0029, U+0061, U+0076, U+007A"
+    },
+    {
+     "sizeAdjust": 110.25,
+     "chars": 5,
+     "unicodeRange": "U+002C, U+002E, U+003A-003B, U+0050"
+    },
+    {
+     "sizeAdjust": 94.28,
+     "chars": 4,
+     "unicodeRange": "U+0026, U+0066, U+0068, U+0075"
+    },
+    {
+     "sizeAdjust": 95.62,
+     "chars": 4,
+     "unicodeRange": "U+002B, U+003D, U+006C, U+006E"
+    },
+    {
+     "sizeAdjust": 114.47,
+     "chars": 4,
+     "unicodeRange": "U+003C, U+003E, U+0040, U+005A"
+    },
+    {
+     "sizeAdjust": 137.71,
+     "chars": 4,
+     "unicodeRange": "U+004A, U+005B, U+005D, U+0060"
+    },
+    {
+     "sizeAdjust": 93.72,
+     "chars": 3,
+     "unicodeRange": "U+0027, U+0058-0059"
+    },
+    {
+     "sizeAdjust": 96.3,
+     "chars": 3,
+     "unicodeRange": "U+0047, U+004E, U+006B"
+    },
+    {
+     "sizeAdjust": 97.87,
+     "chars": 3,
+     "unicodeRange": "U+004F, U+0055, U+0078"
+    },
+    {
+     "sizeAdjust": 99.25,
+     "chars": 3,
+     "unicodeRange": "U+003F, U+0044, U+004B"
+    },
+    {
+     "sizeAdjust": 111.42,
+     "chars": 3,
+     "unicodeRange": "U+002F, U+0042, U+0049"
+    },
+    {
+     "sizeAdjust": 82.69,
+     "chars": 2,
+     "unicodeRange": "U+002A, U+005E"
+    },
+    {
+     "sizeAdjust": 87.07,
+     "chars": 2,
+     "unicodeRange": "U+0022, U+0057"
+    },
+    {
+     "sizeAdjust": 88.62,
+     "chars": 2,
+     "unicodeRange": "U+0041, U+0077"
+    },
+    {
+     "sizeAdjust": 89.85,
+     "chars": 2,
+     "unicodeRange": "U+0056, U+006A"
+    },
+    {
+     "sizeAdjust": 91.74,
+     "chars": 2,
+     "unicodeRange": "U+005F, U+0072"
+    },
+    {
+     "sizeAdjust": 97.24,
+     "chars": 2,
+     "unicodeRange": "U+25B2, U+25BC"
+    },
+    {
+     "sizeAdjust": 98.45,
+     "chars": 2,
+     "unicodeRange": "U+0024, U+0051"
+    },
+    {
+     "sizeAdjust": 118.33,
+     "chars": 2,
+     "unicodeRange": "U+0046, U+0063"
+    },
+    {
+     "sizeAdjust": 123.84,
+     "chars": 2,
+     "unicodeRange": "U+0023, U+0073"
+    },
+    {
+     "sizeAdjust": 142.86,
+     "chars": 2,
+     "unicodeRange": "U+201C-201D"
+    },
+    {
+     "sizeAdjust": 161.64,
+     "chars": 2,
+     "unicodeRange": "U+2191, U+2193"
+    },
+    {
+     "sizeAdjust": 165.02,
+     "chars": 2,
+     "unicodeRange": "U+007B, U+007D"
+    },
+    {
+     "sizeAdjust": 180.0,
+     "chars": 2,
+     "unicodeRange": "U+2018-2019"
+    },
+    {
+     "sizeAdjust": 215.52,
+     "chars": 2,
+     "unicodeRange": "U+300A-300B"
+    },
+    {
+     "sizeAdjust": 284.9,
+     "chars": 2,
+     "unicodeRange": "U+300C-300D"
+    },
+    {
+     "sizeAdjust": 78.54,
+     "chars": 1,
+     "unicodeRange": "U+0021"
+    },
+    {
+     "sizeAdjust": 80.28,
+     "chars": 1,
+     "unicodeRange": "U+0025"
+    },
+    {
+     "sizeAdjust": 83.85,
+     "chars": 1,
+     "unicodeRange": "U+004D"
+    },
+    {
+     "sizeAdjust": 86.36,
+     "chars": 1,
+     "unicodeRange": "U+0074"
+    },
+    {
+     "sizeAdjust": 100.48,
+     "chars": 1,
+     "unicodeRange": "U+0048"
+    },
+    {
+     "sizeAdjust": 104.11,
+     "chars": 1,
+     "unicodeRange": "U+0065"
+    },
+    {
+     "sizeAdjust": 107.08,
+     "chars": 1,
+     "unicodeRange": "U+0052"
+    },
+    {
+     "sizeAdjust": 107.76,
+     "chars": 1,
+     "unicodeRange": "U+0079"
+    },
+    {
+     "sizeAdjust": 108.51,
+     "chars": 1,
+     "unicodeRange": "U+0045"
+    },
+    {
+     "sizeAdjust": 112.18,
+     "chars": 1,
+     "unicodeRange": "U+004C"
+    },
+    {
+     "sizeAdjust": 116.11,
+     "chars": 1,
+     "unicodeRange": "U+0053"
+    },
+    {
+     "sizeAdjust": 118.93,
+     "chars": 1,
+     "unicodeRange": "U+0020"
+    },
+    {
+     "sizeAdjust": 121.1,
+     "chars": 1,
+     "unicodeRange": "U+007E"
+    },
+    {
+     "sizeAdjust": 127.06,
+     "chars": 1,
+     "unicodeRange": "U+2103"
+    },
+    {
+     "sizeAdjust": 129.31,
+     "chars": 1,
+     "unicodeRange": "U+00B7"
+    },
+    {
+     "sizeAdjust": 172.18,
+     "chars": 1,
+     "unicodeRange": "U+002D"
+    },
+    {
+     "sizeAdjust": 206.61,
+     "chars": 1,
+     "unicodeRange": "U+007C"
+    },
+    {
+     "sizeAdjust": 279.33,
+     "chars": 1,
+     "unicodeRange": "U+3015"
+    },
+    {
+     "sizeAdjust": 290.7,
+     "chars": 1,
+     "unicodeRange": "U+3014"
+    }
+   ],
+   "verticalOverrides": {
+    "ascent-override": "85.84%",
+    "descent-override": "14.16%",
+    "line-gap-override": "14.84%"
+   },
+   "outlierCount": 68,
+   "outlierPoints": 2419,
+   "outliers": [
+    {
+     "char": "〔",
+     "codepoint": "U+3014",
+     "ratio": 290.7,
+     "deviationPct": 173.3,
+     "points": 8
+    },
+    {
+     "char": "「",
+     "codepoint": "U+300C",
+     "ratio": 284.9,
+     "deviationPct": 167.8,
+     "points": 6
+    },
+    {
+     "char": "」",
+     "codepoint": "U+300D",
+     "ratio": 284.9,
+     "deviationPct": 167.8,
+     "points": 6
+    },
+    {
+     "char": "〕",
+     "codepoint": "U+3015",
+     "ratio": 279.3,
+     "deviationPct": 162.6,
+     "points": 8
+    },
+    {
+     "char": "》",
+     "codepoint": "U+300B",
+     "ratio": 215.5,
+     "deviationPct": 102.6,
+     "points": 12
+    },
+    {
+     "char": "《",
+     "codepoint": "U+300A",
+     "ratio": 215.5,
+     "deviationPct": 102.6,
+     "points": 12
+    },
+    {
+     "char": "|",
+     "codepoint": "U+007C",
+     "ratio": 206.6,
+     "deviationPct": 94.2,
+     "points": 13
+    },
+    {
+     "char": "’",
+     "codepoint": "U+2019",
+     "ratio": 180.0,
+     "deviationPct": 69.2,
+     "points": 26
+    },
+    {
+     "char": "‘",
+     "codepoint": "U+2018",
+     "ratio": 180.0,
+     "deviationPct": 69.2,
+     "points": 26
+    },
+    {
+     "char": "-",
+     "codepoint": "U+002D",
+     "ratio": 172.2,
+     "deviationPct": 61.8,
+     "points": 17
+    },
+    {
+     "char": "{",
+     "codepoint": "U+007B",
+     "ratio": 165.0,
+     "deviationPct": 55.1,
+     "points": 55
+    },
+    {
+     "char": "}",
+     "codepoint": "U+007D",
+     "ratio": 165.0,
+     "deviationPct": 55.1,
+     "points": 55
+    },
+    {
+     "char": "↓",
+     "codepoint": "U+2193",
+     "ratio": 161.6,
+     "deviationPct": 51.9,
+     "points": 7
+    },
+    {
+     "char": "↑",
+     "codepoint": "U+2191",
+     "ratio": 161.6,
+     "deviationPct": 51.9,
+     "points": 7
+    },
+    {
+     "char": "“",
+     "codepoint": "U+201C",
+     "ratio": 142.9,
+     "deviationPct": 34.3,
+     "points": 52
+    },
+    {
+     "char": "”",
+     "codepoint": "U+201D",
+     "ratio": 142.9,
+     "deviationPct": 34.3,
+     "points": 52
+    },
+    {
+     "char": "]",
+     "codepoint": "U+005D",
+     "ratio": 137.7,
+     "deviationPct": 29.5,
+     "points": 32
+    },
+    {
+     "char": "[",
+     "codepoint": "U+005B",
+     "ratio": 137.7,
+     "deviationPct": 29.5,
+     "points": 32
+    },
+    {
+     "char": "J",
+     "codepoint": "U+004A",
+     "ratio": 137.7,
+     "deviationPct": 29.5,
+     "points": 26
+    },
+    {
+     "char": "`",
+     "codepoint": "U+0060",
+     "ratio": 137.6,
+     "deviationPct": 29.4,
+     "points": 20
+    },
+    {
+     "char": "!",
+     "codepoint": "U+0021",
+     "ratio": 78.5,
+     "deviationPct": 26.2,
+     "points": 31
+    },
+    {
+     "char": "%",
+     "codepoint": "U+0025",
+     "ratio": 80.3,
+     "deviationPct": 24.5,
+     "points": 77
+    },
+    {
+     "char": "*",
+     "codepoint": "U+002A",
+     "ratio": 82.5,
+     "deviationPct": 22.4,
+     "points": 53
+    },
+    {
+     "char": "^",
+     "codepoint": "U+005E",
+     "ratio": 82.9,
+     "deviationPct": 22.1,
+     "points": 21
+    },
+    {
+     "char": "·",
+     "codepoint": "U+00B7",
+     "ratio": 129.3,
+     "deviationPct": 21.6,
+     "points": 13
+    },
+    {
+     "char": "M",
+     "codepoint": "U+004D",
+     "ratio": 83.8,
+     "deviationPct": 21.2,
+     "points": 43
+    },
+    {
+     "char": "℃",
+     "codepoint": "U+2103",
+     "ratio": 127.1,
+     "deviationPct": 19.4,
+     "points": 66
+    },
+    {
+     "char": "t",
+     "codepoint": "U+0074",
+     "ratio": 86.4,
+     "deviationPct": 18.8,
+     "points": 40
+    },
+    {
+     "char": "W",
+     "codepoint": "U+0057",
+     "ratio": 86.9,
+     "deviationPct": 18.3,
+     "points": 43
+    },
+    {
+     "char": "\"",
+     "codepoint": "U+0022",
+     "ratio": 87.2,
+     "deviationPct": 18.0,
+     "points": 34
+    },
+    {
+     "char": "w",
+     "codepoint": "U+0077",
+     "ratio": 88.4,
+     "deviationPct": 16.9,
+     "points": 43
+    },
+    {
+     "char": "s",
+     "codepoint": "U+0073",
+     "ratio": 123.9,
+     "deviationPct": 16.5,
+     "points": 59
+    },
+    {
+     "char": "A",
+     "codepoint": "U+0041",
+     "ratio": 88.8,
+     "deviationPct": 16.5,
+     "points": 31
+    },
+    {
+     "char": "#",
+     "codepoint": "U+0023",
+     "ratio": 123.8,
+     "deviationPct": 16.3,
+     "points": 86
+    },
+    {
+     "char": "j",
+     "codepoint": "U+006A",
+     "ratio": 89.7,
+     "deviationPct": 15.7,
+     "points": 39
+    },
+    {
+     "char": "V",
+     "codepoint": "U+0056",
+     "ratio": 90.0,
+     "deviationPct": 15.4,
+     "points": 27
+    },
+    {
+     "char": "_",
+     "codepoint": "U+005F",
+     "ratio": 91.7,
+     "deviationPct": 13.8,
+     "points": 17
+    },
+    {
+     "char": "r",
+     "codepoint": "U+0072",
+     "ratio": 91.7,
+     "deviationPct": 13.8,
+     "points": 34
+    },
+    {
+     "char": "~",
+     "codepoint": "U+007E",
+     "ratio": 121.1,
+     "deviationPct": 13.8,
+     "points": 31
+    },
+    {
+     "char": "'",
+     "codepoint": "U+0027",
+     "ratio": 93.5,
+     "deviationPct": 12.1,
+     "points": 17
+    },
+    {
+     "char": "X",
+     "codepoint": "U+0058",
+     "ratio": 93.8,
+     "deviationPct": 11.8,
+     "points": 34
+    },
+    {
+     "char": " ",
+     "codepoint": "U+0020",
+     "ratio": 118.9,
+     "deviationPct": 11.8,
+     "points": 0
+    },
+    {
+     "char": "Y",
+     "codepoint": "U+0059",
+     "ratio": 93.8,
+     "deviationPct": 11.8,
+     "points": 27
+    },
+    {
+     "char": "f",
+     "codepoint": "U+0066",
+     "ratio": 94.2,
+     "deviationPct": 11.5,
+     "points": 43
+    },
+    {
+     "char": "u",
+     "codepoint": "U+0075",
+     "ratio": 94.1,
+     "deviationPct": 11.5,
+     "points": 36
+    },
+    {
+     "char": "h",
+     "codepoint": "U+0068",
+     "ratio": 94.3,
+     "deviationPct": 11.4,
+     "points": 34
+    },
+    {
+     "char": "F",
+     "codepoint": "U+0046",
+     "ratio": 118.4,
+     "deviationPct": 11.3,
+     "points": 25
+    },
+    {
+     "char": "c",
+     "codepoint": "U+0063",
+     "ratio": 118.2,
+     "deviationPct": 11.1,
+     "points": 43
+    },
+    {
+     "char": "&",
+     "codepoint": "U+0026",
+     "ratio": 94.6,
+     "deviationPct": 11.1,
+     "points": 85
+    },
+    {
+     "char": "□",
+     "codepoint": "U+25A1",
+     "ratio": 94.6,
+     "deviationPct": 11.0,
+     "points": 8
+    },
+    {
+     "char": "■",
+     "codepoint": "U+25A0",
+     "ratio": 94.6,
+     "deviationPct": 11.0,
+     "points": 4
+    },
+    {
+     "char": "8",
+     "codepoint": "U+0038",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 79
+    },
+    {
+     "char": "7",
+     "codepoint": "U+0037",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 21
+    },
+    {
+     "char": "6",
+     "codepoint": "U+0036",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 53
+    },
+    {
+     "char": "9",
+     "codepoint": "U+0039",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 48
+    },
+    {
+     "char": "5",
+     "codepoint": "U+0035",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 48
+    },
+    {
+     "char": "0",
+     "codepoint": "U+0030",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 23
+    },
+    {
+     "char": "2",
+     "codepoint": "U+0032",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 45
+    },
+    {
+     "char": "4",
+     "codepoint": "U+0034",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 36
+    },
+    {
+     "char": "3",
+     "codepoint": "U+0033",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 66
+    },
+    {
+     "char": "1",
+     "codepoint": "U+0031",
+     "ratio": 94.8,
+     "deviationPct": 10.9,
+     "points": 23
+    },
+    {
+     "char": "\\",
+     "codepoint": "U+005C",
+     "ratio": 94.9,
+     "deviationPct": 10.8,
+     "points": 93
+    },
+    {
+     "char": "m",
+     "codepoint": "U+006D",
+     "ratio": 94.9,
+     "deviationPct": 10.8,
+     "points": 56
+    },
+    {
+     "char": "₩",
+     "codepoint": "U+20A9",
+     "ratio": 94.9,
+     "deviationPct": 10.8,
+     "points": 93
+    },
+    {
+     "char": "=",
+     "codepoint": "U+003D",
+     "ratio": 95.6,
+     "deviationPct": 10.2,
+     "points": 34
+    },
+    {
+     "char": "+",
+     "codepoint": "U+002B",
+     "ratio": 95.6,
+     "deviationPct": 10.2,
+     "points": 36
+    },
+    {
+     "char": "l",
+     "codepoint": "U+006C",
+     "ratio": 95.6,
+     "deviationPct": 10.1,
+     "points": 13
+    },
+    {
+     "char": "n",
+     "codepoint": "U+006E",
+     "ratio": 95.7,
+     "deviationPct": 10.0,
+     "points": 36
+    }
+   ]
+  },
+  {
+   "original": "굴림",
+   "fallback": "함초롬돋움",
+   "familyName": "Gulim-Compat",
+   "tolerance": 0.005,
+   "outlierThreshold": 0.1,
+   "charsCompared": 11347,
+   "dominantSizeAdjust": 103.09,
+   "dominantCoverage": 98.72,
+   "ruleCount": 47,
+   "rules": [
+    {
+     "sizeAdjust": 103.09,
+     "chars": 11204,
+     "unicodeRange": "U+0044, U+0058, U+2103, U+2160-2164, U+2190, U+2192, U+2460-2469, U+25B3, U+25BD, U+25C6-25C7, U+25CB, U+25CE-25CF, U+338F, U+3396, U+339E, U+33A1, U+AC00-D7A3, U+FF05"
+    },
+    {
+     "sizeAdjust": 99.99,
+     "chars": 35,
+     "unicodeRange": "U+0021, U+0045, U+0057, U+0061, U+0065, U+4E00, U+4E03, U+4E09, U+4E3B, U+4E5D, U+4E8C, U+4E94, U+516B, U+516D, U+5171, U+5206, U+5341, U+5343, U+548C, U+56DB, U+570B, U+5B98, U+5BB6, U+5E74, U+5EF3, U+65E5, U+6642, U+6708, U+6C11, U+767E, U+842C, U+8655, U+8AB2, U+90E8, U+9577"
+    },
+    {
+     "sizeAdjust": 104.35,
+     "chars": 14,
+     "unicodeRange": "U+0030-0039, U+003C, U+003E, U+0062, U+007A"
+    },
+    {
+     "sizeAdjust": 200.0,
+     "chars": 6,
+     "unicodeRange": "U+300A-300D, U+3014-3015"
+    },
+    {
+     "sizeAdjust": 106.93,
+     "chars": 4,
+     "unicodeRange": "U+003A-003B, U+005A, U+0076"
+    },
+    {
+     "sizeAdjust": 89.24,
+     "chars": 3,
+     "unicodeRange": "U+0060, U+0069, U+006B"
+    },
+    {
+     "sizeAdjust": 89.84,
+     "chars": 3,
+     "unicodeRange": "U+006A, U+006C, U+0074"
+    },
+    {
+     "sizeAdjust": 95.83,
+     "chars": 3,
+     "unicodeRange": "U+004B, U+004E, U+0075"
+    },
+    {
+     "sizeAdjust": 96.36,
+     "chars": 3,
+     "unicodeRange": "U+0050, U+005E, U+0068"
+    },
+    {
+     "sizeAdjust": 97.36,
+     "chars": 3,
+     "unicodeRange": "U+004A, U+0052, U+006E"
+    },
+    {
+     "sizeAdjust": 98.58,
+     "chars": 3,
+     "unicodeRange": "U+0041, U+004D, U+0077"
+    },
+    {
+     "sizeAdjust": 101.74,
+     "chars": 3,
+     "unicodeRange": "U+0042, U+0054, U+0066"
+    },
+    {
+     "sizeAdjust": 102.52,
+     "chars": 3,
+     "unicodeRange": "U+0025, U+0053, U+0073"
+    },
+    {
+     "sizeAdjust": 107.47,
+     "chars": 3,
+     "unicodeRange": "U+0059, U+0067, U+0079"
+    },
+    {
+     "sizeAdjust": 110.62,
+     "chars": 3,
+     "unicodeRange": "U+0022, U+201C-201D"
+    },
+    {
+     "sizeAdjust": 111.35,
+     "chars": 3,
+     "unicodeRange": "U+0020, U+002F, U+0063"
+    },
+    {
+     "sizeAdjust": 113.6,
+     "chars": 3,
+     "unicodeRange": "U+0043, U+004F, U+0051"
+    },
+    {
+     "sizeAdjust": 115.62,
+     "chars": 3,
+     "unicodeRange": "U+0040, U+2018-2019"
+    },
+    {
+     "sizeAdjust": 119.64,
+     "chars": 3,
+     "unicodeRange": "U+0028-0029, U+0047"
+    },
+    {
+     "sizeAdjust": 134.31,
+     "chars": 3,
+     "unicodeRange": "U+002D, U+007B, U+007D"
+    },
+    {
+     "sizeAdjust": 77.32,
+     "chars": 2,
+     "unicodeRange": "U+2191, U+2193"
+    },
+    {
+     "sizeAdjust": 91.72,
+     "chars": 2,
+     "unicodeRange": "U+25A0-25A1"
+    },
+    {
+     "sizeAdjust": 93.85,
+     "chars": 2,
+     "unicodeRange": "U+005F, U+006D"
+    },
+    {
+     "sizeAdjust": 94.23,
+     "chars": 2,
+     "unicodeRange": "U+25B2, U+25BC"
+    },
+    {
+     "sizeAdjust": 95.28,
+     "chars": 2,
+     "unicodeRange": "U+0024, U+003F"
+    },
+    {
+     "sizeAdjust": 101.11,
+     "chars": 2,
+     "unicodeRange": "U+0055-0056"
+    },
+    {
+     "sizeAdjust": 103.78,
+     "chars": 2,
+     "unicodeRange": "U+006F, U+0078"
+    },
+    {
+     "sizeAdjust": 105.0,
+     "chars": 2,
+     "unicodeRange": "U+0048, U+0064"
+    },
+    {
+     "sizeAdjust": 109.13,
+     "chars": 2,
+     "unicodeRange": "U+0023, U+0027"
+    },
+    {
+     "sizeAdjust": 109.69,
+     "chars": 2,
+     "unicodeRange": "U+0070-0071"
+    },
+    {
+     "sizeAdjust": 123.81,
+     "chars": 2,
+     "unicodeRange": "U+002E, U+20A9"
+    },
+    {
+     "sizeAdjust": 144.99,
+     "chars": 2,
+     "unicodeRange": "U+007E, U+203B"
+    },
+    {
+     "sizeAdjust": 77.99,
+     "chars": 1,
+     "unicodeRange": "U+0072"
+    },
+    {
+     "sizeAdjust": 85.03,
+     "chars": 1,
+     "unicodeRange": "U+0049"
+    },
+    {
+     "sizeAdjust": 90.34,
+     "chars": 1,
+     "unicodeRange": "U+0026"
+    },
+    {
+     "sizeAdjust": 92.97,
+     "chars": 1,
+     "unicodeRange": "U+004C"
+    },
+    {
+     "sizeAdjust": 97.82,
+     "chars": 1,
+     "unicodeRange": "U+0046"
+    },
+    {
+     "sizeAdjust": 100.4,
+     "chars": 1,
+     "unicodeRange": "U+002A"
+    },
+    {
+     "sizeAdjust": 114.05,
+     "chars": 1,
+     "unicodeRange": "U+002B"
+    },
+    {
+     "sizeAdjust": 117.04,
+     "chars": 1,
+     "unicodeRange": "U+003D"
+    },
+    {
+     "sizeAdjust": 127.55,
+     "chars": 1,
+     "unicodeRange": "U+00B7"
+    },
+    {
+     "sizeAdjust": 129.45,
+     "chars": 1,
+     "unicodeRange": "U+002C"
+    },
+    {
+     "sizeAdjust": 142.45,
+     "chars": 1,
+     "unicodeRange": "U+2026"
+    },
+    {
+     "sizeAdjust": 146.2,
+     "chars": 1,
+     "unicodeRange": "U+007C"
+    },
+    {
+     "sizeAdjust": 147.93,
+     "chars": 1,
+     "unicodeRange": "U+005B"
+    },
+    {
+     "sizeAdjust": 151.98,
+     "chars": 1,
+     "unicodeRange": "U+005D"
+    },
+    {
+     "sizeAdjust": 245.84,
+     "chars": 1,
+     "unicodeRange": "U+005C"
+    }
+   ],
+   "verticalOverrides": {
+    "ascent-override": "85.84%",
+    "descent-override": "14.16%",
+    "line-gap-override": "14.84%"
+   },
+   "outlierCount": 43,
+   "outlierPoints": 864,
+   "outliers": [
+    {
+     "char": "\\",
+     "codepoint": "U+005C",
+     "ratio": 245.8,
+     "deviationPct": 138.5,
+     "points": 4
+    },
+    {
+     "char": "〕",
+     "codepoint": "U+3015",
+     "ratio": 200.0,
+     "deviationPct": 94.0,
+     "points": 8
+    },
+    {
+     "char": "〔",
+     "codepoint": "U+3014",
+     "ratio": 200.0,
+     "deviationPct": 94.0,
+     "points": 8
+    },
+    {
+     "char": "「",
+     "codepoint": "U+300C",
+     "ratio": 200.0,
+     "deviationPct": 94.0,
+     "points": 6
+    },
+    {
+     "char": "》",
+     "codepoint": "U+300B",
+     "ratio": 200.0,
+     "deviationPct": 94.0,
+     "points": 12
+    },
+    {
+     "char": "」",
+     "codepoint": "U+300D",
+     "ratio": 200.0,
+     "deviationPct": 94.0,
+     "points": 6
+    },
+    {
+     "char": "《",
+     "codepoint": "U+300A",
+     "ratio": 200.0,
+     "deviationPct": 94.0,
+     "points": 12
+    },
+    {
+     "char": "]",
+     "codepoint": "U+005D",
+     "ratio": 152.0,
+     "deviationPct": 47.4,
+     "points": 8
+    },
+    {
+     "char": "[",
+     "codepoint": "U+005B",
+     "ratio": 147.9,
+     "deviationPct": 43.5,
+     "points": 8
+    },
+    {
+     "char": "|",
+     "codepoint": "U+007C",
+     "ratio": 146.2,
+     "deviationPct": 41.8,
+     "points": 4
+    },
+    {
+     "char": "~",
+     "codepoint": "U+007E",
+     "ratio": 145.1,
+     "deviationPct": 40.7,
+     "points": 26
+    },
+    {
+     "char": "※",
+     "codepoint": "U+203B",
+     "ratio": 144.9,
+     "deviationPct": 40.6,
+     "points": 28
+    },
+    {
+     "char": "…",
+     "codepoint": "U+2026",
+     "ratio": 142.5,
+     "deviationPct": 38.2,
+     "points": 12
+    },
+    {
+     "char": "{",
+     "codepoint": "U+007B",
+     "ratio": 134.4,
+     "deviationPct": 30.4,
+     "points": 45
+    },
+    {
+     "char": "}",
+     "codepoint": "U+007D",
+     "ratio": 134.4,
+     "deviationPct": 30.4,
+     "points": 45
+    },
+    {
+     "char": "-",
+     "codepoint": "U+002D",
+     "ratio": 134.1,
+     "deviationPct": 30.1,
+     "points": 4
+    },
+    {
+     "char": ",",
+     "codepoint": "U+002C",
+     "ratio": 129.5,
+     "deviationPct": 25.6,
+     "points": 4
+    },
+    {
+     "char": "↑",
+     "codepoint": "U+2191",
+     "ratio": 77.3,
+     "deviationPct": 25.0,
+     "points": 9
+    },
+    {
+     "char": "↓",
+     "codepoint": "U+2193",
+     "ratio": 77.3,
+     "deviationPct": 25.0,
+     "points": 9
+    },
+    {
+     "char": "r",
+     "codepoint": "U+0072",
+     "ratio": 78.0,
+     "deviationPct": 24.4,
+     "points": 21
+    },
+    {
+     "char": "·",
+     "codepoint": "U+00B7",
+     "ratio": 127.6,
+     "deviationPct": 23.7,
+     "points": 4
+    },
+    {
+     "char": "₩",
+     "codepoint": "U+20A9",
+     "ratio": 123.9,
+     "deviationPct": 20.2,
+     "points": 53
+    },
+    {
+     "char": ".",
+     "codepoint": "U+002E",
+     "ratio": 123.7,
+     "deviationPct": 20.0,
+     "points": 4
+    },
+    {
+     "char": "I",
+     "codepoint": "U+0049",
+     "ratio": 85.0,
+     "deviationPct": 17.5,
+     "points": 12
+    },
+    {
+     "char": "(",
+     "codepoint": "U+0028",
+     "ratio": 119.8,
+     "deviationPct": 16.2,
+     "points": 28
+    },
+    {
+     "char": ")",
+     "codepoint": "U+0029",
+     "ratio": 119.8,
+     "deviationPct": 16.2,
+     "points": 28
+    },
+    {
+     "char": "G",
+     "codepoint": "U+0047",
+     "ratio": 119.3,
+     "deviationPct": 15.7,
+     "points": 53
+    },
+    {
+     "char": "i",
+     "codepoint": "U+0069",
+     "ratio": 89.0,
+     "deviationPct": 13.7,
+     "points": 8
+    },
+    {
+     "char": "=",
+     "codepoint": "U+003D",
+     "ratio": 117.0,
+     "deviationPct": 13.5,
+     "points": 8
+    },
+    {
+     "char": "`",
+     "codepoint": "U+0060",
+     "ratio": 89.3,
+     "deviationPct": 13.4,
+     "points": 4
+    },
+    {
+     "char": "k",
+     "codepoint": "U+006B",
+     "ratio": 89.4,
+     "deviationPct": 13.2,
+     "points": 12
+    },
+    {
+     "char": "l",
+     "codepoint": "U+006C",
+     "ratio": 89.7,
+     "deviationPct": 13.0,
+     "points": 4
+    },
+    {
+     "char": "t",
+     "codepoint": "U+0074",
+     "ratio": 89.8,
+     "deviationPct": 12.9,
+     "points": 19
+    },
+    {
+     "char": "j",
+     "codepoint": "U+006A",
+     "ratio": 90.0,
+     "deviationPct": 12.7,
+     "points": 19
+    },
+    {
+     "char": "&",
+     "codepoint": "U+0026",
+     "ratio": 90.3,
+     "deviationPct": 12.4,
+     "points": 81
+    },
+    {
+     "char": "‘",
+     "codepoint": "U+2018",
+     "ratio": 115.6,
+     "deviationPct": 12.2,
+     "points": 4
+    },
+    {
+     "char": "’",
+     "codepoint": "U+2019",
+     "ratio": 115.6,
+     "deviationPct": 12.2,
+     "points": 4
+    },
+    {
+     "char": "@",
+     "codepoint": "U+0040",
+     "ratio": 115.6,
+     "deviationPct": 12.1,
+     "points": 95
+    },
+    {
+     "char": "□",
+     "codepoint": "U+25A1",
+     "ratio": 91.7,
+     "deviationPct": 11.0,
+     "points": 8
+    },
+    {
+     "char": "■",
+     "codepoint": "U+25A0",
+     "ratio": 91.7,
+     "deviationPct": 11.0,
+     "points": 4
+    },
+    {
+     "char": "+",
+     "codepoint": "U+002B",
+     "ratio": 114.1,
+     "deviationPct": 10.6,
+     "points": 12
+    },
+    {
+     "char": "O",
+     "codepoint": "U+004F",
+     "ratio": 113.8,
+     "deviationPct": 10.4,
+     "points": 60
+    },
+    {
+     "char": "Q",
+     "codepoint": "U+0051",
+     "ratio": 113.6,
+     "deviationPct": 10.2,
+     "points": 61
+    }
+   ]
+  }
+ ]
+}
