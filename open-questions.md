@@ -71,6 +71,7 @@
 | 대체 폰트가 폭을 보존하는가 | 완료. 보존하지 않는다 → [findings-substfont.md](findings-substfont.md) |
 | 연구보고서 양식 확보 | 부분 완료. 국가연구개발혁신법 별지서식 7종을 채점했다 |
 | Windows 기본 글꼴 원본 확인 | 완료. 시스템 글꼴 189종 전수. 한글 11종 중 8종의 저작권이 한양정보통신이고 상표·라이선스는 Microsoft 다 → [findings-windows.md](findings-windows.md) |
+| 커닝·합자까지 포함한 셰이핑 호환 확인 | 완료. Liberation·Carlito 는 실효 커닝 100% 일치·셰이핑 폭 차이 0.00%, 반면 lookup 구성은 전혀 다르다 → [findings-metrics.md 마.](findings-metrics.md) |
 
 ## 사. 추가 조사 과제
 
@@ -78,7 +79,7 @@
 - **PDF 공문서의 임베딩 폰트 조사** — PRISM(정책연구관리시스템)은 robots.txt 상 허용이나 **서버가 자동 접근을 거부**("비정상적인 접근이 확인되어")해 중단했다. 다른 경로가 필요하다
 - **한컴오피스 2024(Windows) 번들 폰트 전수 조사** — TTF 152종·HFT 390종. Mac 판(TTF 187·HFT 387)과 구성이 달라 별도 조사가 필요하다
 - **Windows 11 기본 글꼴 확인** — 이번에 본 것은 Windows 10 (10.0.18363) 이다
-- **커닝(kern/GPOS) 비교** — 메트릭 실측은 advance width 와 수직 메트릭만 대상이었다
+- **한글 커닝·문맥 의존 규칙 비교** — 커닝(GPOS)·합자(GSUB)는 [findings-metrics.md 마.](findings-metrics.md)에서 측정했으나 **라틴 한정**이다. 한글 커닝과 문맥 의존 규칙(GPOS 3형 이상)은 여전히 미측정이다
 - **본문 사용 분량 분석** — 폰트 테이블 등재가 곧 본문 사용을 뜻하지 않는다. `charPr`/`fontRef` 를 따라가면 실제 사용량을 알 수 있다
 - **개방성 점검기에 메트릭 검사 연동** — 지금은 자유 폰트가 대체로 지정되어 있으면 OK 로 보지만, 그 폰트의 폭이 원본과 같은지는 보지 않는다 ([findings-substfont.md](findings-substfont.md) 참조)
 - **한글 MCF 시제품 제작 후 실측 검증** — [findings-metrics.md](findings-metrics.md) 의 "약 100개" 가설을 실제로 검증
