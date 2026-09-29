@@ -1,0 +1,957 @@
+{
+ "queriedAt": "2026-09-30",
+ "source": "KIPRIS 상표 검색 (www.kipris.or.kr)",
+ "note": "결과 첫 페이지만 읽는다. 목록 전체를 소진하지 않으므로 '명칭만' 조회의 0건은 '없음'의 증명이 아니다. 명칭+출원인 동시 조회의 결과 없음이 더 강한 근거다",
+ "applicant": "마이크로소프트",
+ "byMark": {
+  "바탕": {
+   "rows": [
+    {
+     "no": "1",
+     "appNo": "4020250035894",
+     "name": "바탕 (VATANG)",
+     "class": "18",
+     "applicant": "허재영"
+    },
+    {
+     "no": "2",
+     "appNo": "4020250223633",
+     "name": "바탕",
+     "class": "45",
+     "applicant": "최현호"
+    },
+    {
+     "no": "3",
+     "appNo": "4020250065356",
+     "name": "바탕 (VATANG)",
+     "class": "25",
+     "applicant": "허재영"
+    },
+    {
+     "no": "4",
+     "appNo": "4020220197493",
+     "name": "바탕",
+     "class": "19",
+     "applicant": "조현정"
+    },
+    {
+     "no": "5",
+     "appNo": "4020260128099",
+     "name": "바탕 (Baatang)",
+     "class": "29",
+     "applicant": "김향"
+    },
+    {
+     "no": "6",
+     "appNo": "4020220065145",
+     "name": "바탕 (Vatang)",
+     "class": "03",
+     "applicant": "주식회사 잇츠한불"
+    },
+    {
+     "no": "7",
+     "appNo": "4019990049882",
+     "name": "바탕",
+     "class": "03",
+     "applicant": "한불화장품주식회사"
+    },
+    {
+     "no": "8",
+     "appNo": "4020230169505",
+     "name": "바탕",
+     "class": "16",
+     "applicant": "(주)장원교육"
+    },
+    {
+     "no": "9",
+     "appNo": "4020020043229",
+     "name": "바탕",
+     "class": "16",
+     "applicant": "주식회사 좋은책신사고"
+    },
+    {
+     "no": "10",
+     "appNo": "4020220167233",
+     "name": "바탕",
+     "class": "35",
+     "applicant": "정선영"
+    },
+    {
+     "no": "11",
+     "appNo": "4020200101731",
+     "name": "바탕",
+     "class": "35",
+     "applicant": "정선영"
+    },
+    {
+     "no": "12",
+     "appNo": "4120160019043",
+     "name": "바탕 (BATANG)",
+     "class": "44",
+     "applicant": "신규영"
+    },
+    {
+     "no": "13",
+     "appNo": "4020000041215",
+     "name": "바탕 (VATANG)",
+     "class": "03",
+     "applicant": "시크리티스 주식회사"
+    },
+    {
+     "no": "14",
+     "appNo": "4120160031234",
+     "name": "바탕",
+     "class": "44",
+     "applicant": "한승범"
+    },
+    {
+     "no": "15",
+     "appNo": "4120160018284",
+     "name": "바탕",
+     "class": "35",
+     "applicant": "박중규"
+    },
+    {
+     "no": "16",
+     "appNo": "4120160018282",
+     "name": "바탕",
+     "class": "37",
+     "applicant": "박중규"
+    },
+    {
+     "no": "17",
+     "appNo": "4020100059402",
+     "name": "UD바탕",
+     "class": "09",
+     "applicant": "(주)한양정보통신"
+    },
+    {
+     "no": "18",
+     "appNo": "5120080004535",
+     "name": "바탕골",
+     "class": "112",
+     "applicant": "주식회사 바탕골예술관"
+    },
+    {
+     "no": "19",
+     "appNo": "5620080024089",
+     "name": "바탕골",
+     "class": "112",
+     "applicant": "주식회사 바탕골예술관"
+    },
+    {
+     "no": "20",
+     "appNo": "4119960009969",
+     "name": "바탕골",
+     "class": "112",
+     "applicant": "주식회사 바탕골예술관"
+    },
+    {
+     "no": "21",
+     "appNo": "4120040024587",
+     "name": "바탕골",
+     "class": "36",
+     "applicant": "주식회사 바탕골예술관"
+    },
+    {
+     "no": "22",
+     "appNo": "4020200087530",
+     "name": "바탕 국어연구소 (BATTANT)",
+     "class": "41",
+     "applicant": "임희섭"
+    },
+    {
+     "no": "23",
+     "appNo": "4020140041247",
+     "name": "바탕 쿨링 젤리 팩트 (VATANG COOLING JELLY PACT)",
+     "class": "03",
+     "applicant": "한불화장품주식회사"
+    },
+    {
+     "no": "24",
+     "appNo": "4120100010543",
+     "name": "자연100%를 그대로 담은 엘림식품(주) 맛 바탕 미소가 미소가 (elim Jesus loves you)",
+     "class": "35",
+     "applicant": "엘림식품(주)"
+    },
+    {
+     "no": "25",
+     "appNo": "4020140029340",
+     "name": "바탕 쉬폰 (VATANG CHIFFON)",
+     "class": "03",
+     "applicant": "한불화장품주식회사"
+    },
+    {
+     "no": "26",
+     "appNo": "4020220132991",
+     "name": "카페 바탕",
+     "class": "43",
+     "applicant": "최현수"
+    },
+    {
+     "no": "27",
+     "appNo": "4020100052342",
+     "name": "바탕 처리 페인트 (EFNP)",
+     "class": "02",
+     "applicant": "(주)칠칠공사"
+    },
+    {
+     "no": "28",
+     "appNo": "4020100052344",
+     "name": "바탕 표면 페인트 (EFNP)",
+     "class": "02",
+     "applicant": "(주)칠칠공사"
+    },
+    {
+     "no": "29",
+     "appNo": "4020140024543",
+     "name": "바탕 프로 썬킬",
+     "class": "03",
+     "applicant": "한불화장품주식회사"
+    },
+    {
+     "no": "30",
+     "appNo": "4020020015305",
+     "name": "바탕 해피 팝 (Vatang Happy Pop)",
+     "class": "03",
+     "applicant": "한불화장품주식회사"
+    }
+   ],
+   "count": 30,
+   "noResult": false
+  },
+  "바탕체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "굴림": {
+   "rows": [
+    {
+     "no": "1",
+     "appNo": "4019920013319",
+     "name": "굴림",
+     "class": "039",
+     "applicant": "주식회사 큐닉스컴퓨터"
+    },
+    {
+     "no": "2",
+     "appNo": "4019920013321",
+     "name": "굴림",
+     "class": "038",
+     "applicant": "주식회사 큐닉스컴퓨터"
+    },
+    {
+     "no": "3",
+     "appNo": "4019920013320",
+     "name": "굴림",
+     "class": "052",
+     "applicant": "주식회사 큐닉스컴퓨터"
+    },
+    {
+     "no": "4",
+     "appNo": "4020110042322",
+     "name": "OSST굴림판석",
+     "class": "19",
+     "applicant": "주식회사 옥산석물"
+    },
+    {
+     "no": "5",
+     "appNo": "4020080021797",
+     "name": "DSL 굴림포석",
+     "class": "19",
+     "applicant": "유한회사 동일석재"
+    },
+    {
+     "no": "6",
+     "appNo": "4020230036394",
+     "name": "굴림 미",
+     "class": "43",
+     "applicant": "소담컴퍼니 주식회사"
+    },
+    {
+     "no": "7",
+     "appNo": "4020100013187",
+     "name": "동원 굴림",
+     "class": "30",
+     "applicant": "주식회사 동원엔터프라이즈"
+    },
+    {
+     "no": "8",
+     "appNo": "4019990029001",
+     "name": "동원 굴림",
+     "class": "30",
+     "applicant": "동원산업 주식회사"
+    },
+    {
+     "no": "9",
+     "appNo": "4020250219028",
+     "name": "굴비굴림만두 (DUMPLING RICE BALLS WITH DRIED YELLOW CORVINA)",
+     "class": "30",
+     "applicant": "영광군"
+    },
+    {
+     "no": "10",
+     "appNo": "4020250203519",
+     "name": "타코히어로 굴림전 (TAKO HERO GOOLLIM JEON)",
+     "class": "30",
+     "applicant": "이은지"
+    },
+    {
+     "no": "11",
+     "appNo": "4020250214188",
+     "name": "바삭통통 굴림전",
+     "class": "30",
+     "applicant": "이은지"
+    },
+    {
+     "no": "12",
+     "appNo": "4020250025893",
+     "name": "굴림쇠 퍼터 (GOOLIMSOI PUTTER)",
+     "class": "28",
+     "applicant": "김준희"
+    },
+    {
+     "no": "13",
+     "appNo": "4020190184769",
+     "name": "고기군 김치양 인천굴림만두 진미 (Incheon Gullimmandu)",
+     "class": "43",
+     "applicant": "김상순"
+    },
+    {
+     "no": "14",
+     "appNo": "4020250020896",
+     "name": "굴림전 (GOOLLIM JEON)",
+     "class": "43",
+     "applicant": "이은지"
+    },
+    {
+     "no": "15",
+     "appNo": "4020230203028",
+     "name": "굴림엔지니어링 (GOOLLIM ENGINEERING)",
+     "class": "12",
+     "applicant": "조덕인"
+    },
+    {
+     "no": "16",
+     "appNo": "4020250038135",
+     "name": "마음굴림",
+     "class": "41",
+     "applicant": "정순덕"
+    },
+    {
+     "no": "17",
+     "appNo": "4020190083360",
+     "name": "손가락굴림",
+     "class": "29",
+     "applicant": "지창수"
+    },
+    {
+     "no": "18",
+     "appNo": "4020190083358",
+     "name": "손가락굴림",
+     "class": "30",
+     "applicant": "지창수"
+    },
+    {
+     "no": "19",
+     "appNo": "4020190044210",
+     "name": "굴림갈비",
+     "class": "43",
+     "applicant": "김정호"
+    },
+    {
+     "no": "20",
+     "appNo": "4020240146039",
+     "name": "방이굴림만두 떼굴",
+     "class": "43",
+     "applicant": "황종기"
+    },
+    {
+     "no": "21",
+     "appNo": "4020240146037",
+     "name": "방이굴림만두떼굴",
+     "class": "43",
+     "applicant": "황종기"
+    },
+    {
+     "no": "22",
+     "appNo": "4020220088019",
+     "name": "굴림채 PUTTER STUDIO",
+     "class": "28",
+     "applicant": "임지호"
+    },
+    {
+     "no": "23",
+     "appNo": "4020210096789",
+     "name": "굴림당",
+     "class": "35",
+     "applicant": "박진원"
+    },
+    {
+     "no": "24",
+     "appNo": "4020230226446",
+     "name": "굴림당",
+     "class": "43",
+     "applicant": "박진원"
+    },
+    {
+     "no": "25",
+     "appNo": "4020250038136",
+     "name": "마음굴림",
+     "class": "44",
+     "applicant": "정순덕"
+    },
+    {
+     "no": "26",
+     "appNo": "4020230226444",
+     "name": "굴림당",
+     "class": "29",
+     "applicant": "박진원"
+    },
+    {
+     "no": "27",
+     "appNo": "4020210249117",
+     "name": "키토선생 육즙가득 저당 굴림만두",
+     "class": "30",
+     "applicant": "주식회사 지니어트"
+    },
+    {
+     "no": "28",
+     "appNo": "4020220013608",
+     "name": "굴림공방",
+     "class": "41",
+     "applicant": "김영림"
+    },
+    {
+     "no": "29",
+     "appNo": "4020220205844",
+     "name": "다굴림 (dagullim)",
+     "class": "43",
+     "applicant": "김명원"
+    },
+    {
+     "no": "30",
+     "appNo": "4020220140116",
+     "name": "굴림통통",
+     "class": "28",
+     "applicant": "송병현"
+    }
+   ],
+   "count": 30,
+   "noResult": false
+  },
+  "굴림체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "돋움": {
+   "rows": [
+    {
+     "no": "1",
+     "appNo": "4020250120321",
+     "name": "돋움",
+     "class": "45",
+     "applicant": "김문정"
+    },
+    {
+     "no": "2",
+     "appNo": "4020170102191",
+     "name": "돋움",
+     "class": "29",
+     "applicant": "김동건"
+    },
+    {
+     "no": "3",
+     "appNo": "7120040000137",
+     "name": "돋움",
+     "class": "35",
+     "applicant": "김경민"
+    },
+    {
+     "no": "4",
+     "appNo": "4120040000847",
+     "name": "돋움",
+     "class": "35",
+     "applicant": "김경민"
+    },
+    {
+     "no": "5",
+     "appNo": "4120130015994",
+     "name": "돋움",
+     "class": "44",
+     "applicant": "광동한방병원"
+    },
+    {
+     "no": "6",
+     "appNo": "4020080013553",
+     "name": "돋움",
+     "class": "16",
+     "applicant": "(주)한국슈타이너"
+    },
+    {
+     "no": "7",
+     "appNo": "4020240201715",
+     "name": "돋움 플로잉 아동센터 (DODUM Plowing Center Children's Play&Growing Program)",
+     "class": "41",
+     "applicant": "도경미"
+    },
+    {
+     "no": "8",
+     "appNo": "4020190165418",
+     "name": "농업법인 (주) 돋움 (DODUM Agricultural corporation co.,ltd)",
+     "class": "30",
+     "applicant": "농업회사법인 주식회사 돋움"
+    },
+    {
+     "no": "9",
+     "appNo": "4020230008958",
+     "name": "종합문예유성 도서출판북돋움 BOOK돋움",
+     "class": "41",
+     "applicant": "황유성"
+    },
+    {
+     "no": "10",
+     "appNo": "4220260000292",
+     "name": "엄마북돋움 Book",
+     "class": "09",
+     "applicant": "주식회사 윤디자인"
+    },
+    {
+     "no": "12",
+     "appNo": "4020250088076",
+     "name": "돋움병원",
+     "class": "44",
+     "applicant": "의료법인 아름다운마음의료재단"
+    },
+    {
+     "no": "13",
+     "appNo": "4020250088077",
+     "name": "돋움병원 (Dodoom Hospital)",
+     "class": "44",
+     "applicant": "의료법인 아름다운마음의료재단"
+    },
+    {
+     "no": "14",
+     "appNo": "4220260000297",
+     "name": "서울시 임산부 대상 엄마북돋움 (Book)",
+     "class": "44",
+     "applicant": "현동명"
+    },
+    {
+     "no": "17",
+     "appNo": "4020190124259",
+     "name": "봄비돋움로션",
+     "class": "03",
+     "applicant": "김한균"
+    },
+    {
+     "no": "18",
+     "appNo": "4020240135729",
+     "name": "돋움심리상담센터",
+     "class": "44",
+     "applicant": "서민지"
+    },
+    {
+     "no": "19",
+     "appNo": "4020150012853",
+     "name": "함초롱돋움",
+     "class": "09",
+     "applicant": "주식회사 폴라리스오피스"
+    },
+    {
+     "no": "20",
+     "appNo": "4520060001791",
+     "name": "우리돋움",
+     "class": "16",
+     "applicant": "장주식"
+    },
+    {
+     "no": "21",
+     "appNo": "4020180131112",
+     "name": "예수돋움 국악찬양단",
+     "class": "45",
+     "applicant": "소유정"
+    },
+    {
+     "no": "22",
+     "appNo": "4020160043109",
+     "name": "새돋움 (saedodeum)",
+     "class": "31",
+     "applicant": "사회복지법인자애복지재단"
+    },
+    {
+     "no": "23",
+     "appNo": "4020100065772",
+     "name": "해돋움",
+     "class": "11",
+     "applicant": "김영곤"
+    },
+    {
+     "no": "24",
+     "appNo": "4020070030072",
+     "name": "맛돋움이 인증기업 (ISO Dodoom)",
+     "class": "31",
+     "applicant": "(주식회사)웰포스"
+    },
+    {
+     "no": "25",
+     "appNo": "4019940041072",
+     "name": "돋움사전",
+     "class": "052",
+     "applicant": "주식회사두산동아"
+    },
+    {
+     "no": "26",
+     "appNo": "4120110001100",
+     "name": "S코돋움",
+     "class": "44",
+     "applicant": "현동명"
+    },
+    {
+     "no": "27",
+     "appNo": "4020100059401",
+     "name": "UD돋움",
+     "class": "09",
+     "applicant": "(주)한양정보통신"
+    },
+    {
+     "no": "28",
+     "appNo": "4220250000141",
+     "name": "북돋움",
+     "class": null,
+     "applicant": "서울특별시(서울도서관장)"
+    },
+    {
+     "no": "29",
+     "appNo": "4220250000142",
+     "name": "서울시 임산부 대상 북스타트 엄마 북돋움 (BooK)",
+     "class": null,
+     "applicant": "서울특별시(서울도서관장)"
+    },
+    {
+     "no": "30",
+     "appNo": "4220260000294",
+     "name": "엄마 북돋움 (Book)",
+     "class": null,
+     "applicant": "서울특별시(서울도서관장)"
+    }
+   ],
+   "count": 27,
+   "noResult": false
+  },
+  "돋움체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "궁서": {
+   "rows": [
+    {
+     "no": "1",
+     "appNo": "4020170065314",
+     "name": "삼궁서기원 삼궁서기원",
+     "class": "41",
+     "applicant": "김도형"
+    },
+    {
+     "no": "2",
+     "appNo": "4120050010324",
+     "name": "삼궁서기원 삼궁서기원",
+     "class": "41",
+     "applicant": "김영생"
+    },
+    {
+     "no": "3",
+     "appNo": "4020240098698",
+     "name": "궁서몰",
+     "class": "35",
+     "applicant": "이준호"
+    },
+    {
+     "no": "4",
+     "appNo": "4020240027850",
+     "name": "채 궁서채",
+     "class": "44",
+     "applicant": "주식회사 에이치케이에프"
+    },
+    {
+     "no": "5",
+     "appNo": "4020250034781",
+     "name": "영신궁서윤아씨",
+     "class": "45",
+     "applicant": "박준호"
+    },
+    {
+     "no": "6",
+     "appNo": "4020250037806",
+     "name": "영신궁서윤아씨",
+     "class": "38",
+     "applicant": "박준호"
+    },
+    {
+     "no": "7",
+     "appNo": "4020210028496",
+     "name": "궁서체",
+     "class": "43",
+     "applicant": "주식회사 빅쭌푸드"
+    },
+    {
+     "no": "8",
+     "appNo": "4020200217013",
+     "name": "궁서체생활.",
+     "class": "35",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "9",
+     "appNo": "4020200046062",
+     "name": "궁서체",
+     "class": "35",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "10",
+     "appNo": "4020200046059",
+     "name": "궁서체",
+     "class": "03",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "11",
+     "appNo": "4020200217012",
+     "name": "궁서체생활.",
+     "class": "03",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "12",
+     "appNo": "4020170055216",
+     "name": "궁에 꽃이 피다 (Dr.궁)",
+     "class": "44",
+     "applicant": "김도영"
+    },
+    {
+     "no": "13",
+     "appNo": "4020070000581",
+     "name": "앱솔루트궁 (Absolute 궁)",
+     "class": "05",
+     "applicant": "매일홀딩스 주식회사"
+    },
+    {
+     "no": "14",
+     "appNo": "4120070003544",
+     "name": "더 궁 (the 궁)",
+     "class": "43",
+     "applicant": "김미선"
+    },
+    {
+     "no": "15",
+     "appNo": "4020200075647",
+     "name": "닥터 궁(궁) 케어 (Dr. gung(궁) care)",
+     "class": "03",
+     "applicant": "주식회사 에이블엑스"
+    },
+    {
+     "no": "16",
+     "appNo": "4020070000582",
+     "name": "프리미엄궁 (Premium 궁)",
+     "class": "05",
+     "applicant": "매일홀딩스 주식회사"
+    },
+    {
+     "no": "17",
+     "appNo": "4020260155901",
+     "name": "궁 동유 대왕대비마마",
+     "class": "45",
+     "applicant": "윤사빈"
+    },
+    {
+     "no": "18",
+     "appNo": "4020250142511",
+     "name": "천원궁 (CHEON WON GUNG)",
+     "class": "38",
+     "applicant": "재단법인 효정글로벌통일재단"
+    },
+    {
+     "no": "19",
+     "appNo": "4020250142501",
+     "name": "천원궁 (CHEON WON GUNG)",
+     "class": "09",
+     "applicant": "재단법인 효정글로벌통일재단"
+    },
+    {
+     "no": "20",
+     "appNo": "4020250142532",
+     "name": "천원궁 (CHEON WON GUNG)",
+     "class": "45",
+     "applicant": "재단법인 효정글로벌통일재단"
+    },
+    {
+     "no": "21",
+     "appNo": "4020250120182",
+     "name": "이머시브 궁 (Palace Immersive Goong)",
+     "class": "09",
+     "applicant": "기어이 주식회사"
+    },
+    {
+     "no": "22",
+     "appNo": "4020250120194",
+     "name": "이머시브 궁 (Palace Immersive Goong)",
+     "class": "35",
+     "applicant": "기어이 주식회사"
+    },
+    {
+     "no": "23",
+     "appNo": "4120060008520",
+     "name": "행복 경희궁김밥",
+     "class": "43",
+     "applicant": "박종환"
+    },
+    {
+     "no": "24",
+     "appNo": "4020170024541",
+     "name": "경희궁의 보감",
+     "class": "29",
+     "applicant": "이춘우"
+    },
+    {
+     "no": "25",
+     "appNo": "4020250030874",
+     "name": "윤상궁 김치마켓 윤상궁",
+     "class": "35",
+     "applicant": "윤진경"
+    },
+    {
+     "no": "26",
+     "appNo": "4020250101650",
+     "name": "신상궁",
+     "class": "40",
+     "applicant": "(주)신상궁"
+    },
+    {
+     "no": "27",
+     "appNo": "4020250072440",
+     "name": "동궐지애; 창덕궁과 창경궁의 사랑이야기",
+     "class": "39",
+     "applicant": "(주) 헤리티지프로젝트"
+    },
+    {
+     "no": "28",
+     "appNo": "4020260174051",
+     "name": "음의 궁을도",
+     "class": "41",
+     "applicant": "박정인"
+    },
+    {
+     "no": "29",
+     "appNo": "4020250104232",
+     "name": "궁꽈배기 궁 (PREMIUM HANDMADE KOREAN TWISTED DONUT)",
+     "class": "43",
+     "applicant": "조한신"
+    },
+    {
+     "no": "30",
+     "appNo": "4020260115922",
+     "name": "대비궁",
+     "class": "45",
+     "applicant": "윤사빈"
+    }
+   ],
+   "count": 30,
+   "noResult": false
+  },
+  "궁서체": {
+   "rows": [
+    {
+     "no": "1",
+     "appNo": "4020210028496",
+     "name": "궁서체",
+     "class": "43",
+     "applicant": "주식회사 빅쭌푸드"
+    },
+    {
+     "no": "2",
+     "appNo": "4020200046062",
+     "name": "궁서체",
+     "class": "35",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "3",
+     "appNo": "4020200046059",
+     "name": "궁서체",
+     "class": "03",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "4",
+     "appNo": "4020200217013",
+     "name": "궁서체생활.",
+     "class": "35",
+     "applicant": "(주)이엘라이즈"
+    },
+    {
+     "no": "5",
+     "appNo": "4020200217012",
+     "name": "궁서체생활.",
+     "class": "03",
+     "applicant": "(주)이엘라이즈"
+    }
+   ],
+   "count": 5,
+   "noResult": false
+  }
+ },
+ "byMarkAndApplicant": {
+  "바탕": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "바탕체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "굴림": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "굴림체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "돋움": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "돋움체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "궁서": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  },
+  "궁서체": {
+   "rows": [],
+   "count": 0,
+   "noResult": true
+  }
+ },
+ "question": "폰트 파일이 '바탕 is a registered trademark of the Microsoft Corporation' 이라고 표기하는데, 국내에 실제로 등록되어 있는가",
+ "limits": [
+  "결과 첫 페이지(최대 30건)만 읽었다. 목록을 끝까지 소진하지 않았다",
+  "'명칭만' 조회에서 Microsoft 가 안 보인다는 것은 뒷 페이지 가능성을 배제하지 못한다. '명칭+출원인' 동시 조회의 결과 없음이 더 강한 근거다",
+  "출원인 표기는 '마이크로소프트' 로 조회했다. 코포레이션·Technology Licensing 등 변형과 영문 표기로도 조회했으나 한글 글꼴명은 나오지 않았다",
+  "권리 이전으로 최종권리자가 바뀐 경우는 이 조회로 드러나지 않을 수 있다",
+  "등록의 유효성이나 효력 범위를 판단한 것이 아니다"
+ ]
+}
