@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title and page.title != site.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
+<meta name="author" content="{{ site.author.name }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+{%- comment -%} 링크를 메신저·메일로 공유할 때 미리보기가 뜨도록 한다 {%- endcomment -%}
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:title" content="{% if page.title and page.title != site.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:card" content="summary">
 <style>
 :root{
   --ink:#1a1c1e; --ink-soft:#5b6068; --line:#e3e6ea; --line-soft:#f0f2f4;
@@ -86,6 +97,7 @@ footer.site-foot .inner{max-width:1180px;margin:0 auto;padding:22px 20px}
 footer.site-foot a{color:var(--ink-soft)}
 footer.site-foot .disclaimer{max-width:78ch}
 footer.site-foot .disclaimer p{margin:0 0 7px}
+footer.site-foot .meta.byline{margin-top:6px;padding-top:0;border-top:0}
 footer.site-foot .meta{margin:14px 0 0;padding-top:12px;
   border-top:1px solid var(--line);font-size:12.5px}
 
@@ -144,7 +156,10 @@ blockquote.callout .callout-label{display:block;font-weight:700;font-size:13px;
     <p>{{ line }}</p>
   {%- endfor %}
   </div>
-  <p class="meta">{{ site.description }} ·
+  <p class="meta"><strong>{{ site.title }}</strong> — {{ site.subtitle }}</p>
+  <p class="meta byline">조사·작성 {{ site.author.name }}
+  &lt;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>&gt;
+  · {{ site.author.affiliation }} ·
   <a href="https://github.com/{{ site.repository }}">저장소</a> ·
   문서·도구·데이터 <a href="https://creativecommons.org/licenses/by/4.0/deed.ko">CC BY 4.0</a></p>
 </div></footer>
