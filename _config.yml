@@ -37,6 +37,7 @@ nav:
   - { name: HFT,        url: /findings-hft.html }
   - { name: Windows,    url: /findings-windows.html }
   - { name: OS 간 조판,  url: /findings-crossos.html }
+  - { name: CSS 재정의, url: /findings-css-metrics.html }
   - { name: 법령,        url: /findings-regulation.html }
   - { name: 공문서 실태,  url: /findings-gov-docs.html }
   - { name: 출처,        url: /sources.html }

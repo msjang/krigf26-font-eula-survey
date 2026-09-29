@@ -75,6 +75,7 @@ KrIGF 2026 세션 [공익적 상호운용성을 위한 사전 법적 확신 메�
 | [HFT 레지스트리](findings-hft.md) | 한컴 고유 포맷 387종, 1993~1999년 빌드 |
 | [Windows 판 대조](findings-windows.md) | 한글 글꼴 11종의 권리 구조, 공문서 96%가 걸린 병목, 한컴 번들본과의 차이 |
 | [OS 간 조판 차이](findings-crossos.md) | Windows·macOS·Ubuntu 26.04·Android 13 대조. 문단 폭이 최대 13.9% 달라지고 줄 수가 바뀐다 |
+| [CSS 메트릭 재정의](findings-css-metrics.md) | 폰트를 만들지 않고 CSS 로 어디까지 맞출 수 있나. 웹 한정 과도기 수단 |
 | [법령 조사](findings-regulation.md) | 시행규칙 별표 4·5의 글꼴 지정 |
 | [공문서 실태](findings-gov-docs.md) | 사흘치 표본 450건 |
 | [출처 목록](sources.md) · [남은 질문](open-questions.md) | |
