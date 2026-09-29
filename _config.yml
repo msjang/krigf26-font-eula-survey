@@ -53,6 +53,7 @@ nav:
   - { name: OS 간 조판,  url: /findings-crossos.html }
   - { name: CSS 재정의, url: /findings-css-metrics.html }
   - { name: 투명도화지,  url: /findings-blankfont.html }
+  - { name: 상표,       url: /findings-trademark.html }
   - { name: 법령,        url: /findings-regulation.html }
   - { name: 공문서 실태,  url: /findings-gov-docs.html }
   - { name: 출처,        url: /sources.html }

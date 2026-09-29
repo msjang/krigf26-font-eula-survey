@@ -77,6 +77,7 @@ KrIGF 2026 세션 [공익적 상호운용성을 위한 사전 법적 확신 메�
 | [OS 간 조판 차이](findings-crossos.md) | Windows·macOS·Ubuntu 26.04·Android 13 대조. 문단 폭이 최대 13.9% 달라지고 줄 수가 바뀐다 |
 | [CSS 메트릭 재정의](findings-css-metrics.md) | 폰트를 만들지 않고 CSS 로 어디까지 맞출 수 있나. 웹 한정 과도기 수단 |
 | [투명도화지 폰트](findings-blankfont.md) | 글리프 없이 조판 수치만 담은 폰트. 제어점 0개로 조판이 완전히 일치한다 |
+| [글꼴 이름과 상표](findings-trademark.md) | `바탕`·`돋움`은 1992년 국가가 정한 순화 용어인데 등록상표로 표시되어 있다 |
 | [법령 조사](findings-regulation.md) | 시행규칙 별표 4·5의 글꼴 지정 |
 | [공문서 실태](findings-gov-docs.md) | 사흘치 표본 450건 |
 | [출처 목록](sources.md) · [남은 질문](open-questions.md) | |

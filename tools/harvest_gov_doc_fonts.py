@@ -257,6 +257,25 @@ def sample_windows(years, weeks_per_year):
     return windows
 
 
+def load_reuse(paths):
+    """앞선 수집 결과를 (url -> 기록) 으로 읽는다.
+
+    같은 첨부를 다시 내려받지 않기 위한 것이다. 서버 부담을 줄이고,
+    같은 문서에 대해 같은 결과가 나오므로 재현성에도 맞다.
+    """
+    pool = {}
+    for path in paths:
+        try:
+            data = json.load(open(path, encoding="utf-8"))
+        except Exception:
+            continue
+        for row in (data.get("documents") or []):
+            url = row.get("url")
+            if url:
+                pool[url] = row
+    return pool
+
+
 def parse_years(spec):
     if "-" in spec:
         lo, hi = spec.split("-", 1)
@@ -280,6 +299,9 @@ def main():
                     help="부처당 목표 문서 수 (--rep-codes 사용 시)")
     ap.add_argument("--list-agencies", action="store_true",
                     help="부처 코드 목록만 출력하고 종료")
+    ap.add_argument("--reuse", default="", help=(
+        "이미 수집한 결과 JSON 을 쉼표로 나열한다. 같은 첨부(url)는 다시 "
+        "내려받지 않고 그 기록을 그대로 쓴다. 연도별 목표치에도 함께 센다"))
     ap.add_argument("--out", default="gov-doc-fonts.json")
     args = ap.parse_args()
 
@@ -292,6 +314,9 @@ def main():
     years = parse_years(args.years)
     windows = sample_windows(years, args.weeks)
     rep_codes = [c.strip() for c in args.rep_codes.split(",") if c.strip()]
+    reuse_paths = [x.strip() for x in args.reuse.split(",") if x.strip()]
+    reuse = load_reuse(reuse_paths)
+    reused = 0
     records, errors, seen_files = [], [], set()
     per_year = Counter()
     per_agency = Counter()
@@ -331,6 +356,22 @@ def main():
                     if url in seen_files:
                         continue
                     seen_files.add(url)
+                    # 이미 받아 둔 첨부면 다시 내려받지 않고 그 기록을 쓴다
+                    prior = reuse.get(url)
+                    if prior is not None:
+                        row = dict(prior)
+                        row.setdefault("reused", True)
+                        # 예전 수집분에는 없는 필드가 있다. 집계가 깨지지 않게 채운다
+                        row.setdefault("docType", section["label"])
+                        row.setdefault("repCode", None)
+                        row.setdefault("year", year)
+                        if not row.get("fileId"):
+                            m = re.search(r"fileId=(\d+)", row.get("url", ""))
+                            row["fileId"] = m.group(1) if m else None
+                        records.append(row)
+                        bucket[quota_key] += 1
+                        reused += 1
+                        continue
                     try:
                         blob = fetch(url, referer=referer)
                         parsed = parse_document(blob, label)
@@ -342,8 +383,12 @@ def main():
                         time.sleep(args.delay)
                     if not parsed:
                         continue
+                    # fileId 는 첨부 내려받기 주소에 들어 있다. 나중에 같은 문서를
+                    # 다시 받아 검증할 수 있도록 별도 필드로도 남긴다
+                    file_id_match = re.search(r"fileId=(\d+)", url)
                     records.append({
                         "newsId": item["newsId"],
+                        "fileId": file_id_match.group(1) if file_id_match else None,
                         "date": item["date"],
                         "year": year,
                         "agency": item["agency"],
@@ -373,6 +418,9 @@ def main():
                 "perAgency": args.per_agency or None,
                 "dateFilterSupported": section.get("dateFilter", True),
                 "agencyRecorded": section.get("hasAgency", True),
+                "reuseSources": reuse_paths or None,
+                "reusedCount": reused,
+                "downloadedCount": len(records) - reused,
                 "note": ("연도별 층화 표본. 각 연도에서 달마다 흩어진 주를 골라 수집. "
                          "dateFilterSupported 가 false 인 섹션은 목록이 날짜 조건을 "
                          "무시하므로 연도 층화가 적용되지 않는다"),
@@ -381,15 +429,16 @@ def main():
             "errors": errors,
         }, fp, ensure_ascii=False, indent=1)
 
-    print(f"\n문서 {len(records)}건, 오류 {len(errors)}건 → {args.out}", file=sys.stderr)
+    print(f"\n문서 {len(records)}건 (재사용 {reused}, 신규 내려받기 {len(records)-reused}), "
+          f"오류 {len(errors)}건 → {args.out}", file=sys.stderr)
     print("\n[연도별]", file=sys.stderr)
-    for y, n in sorted(Counter(r["year"] for r in records).items()):
+    for y, n in sorted(Counter(r.get("year") or 0 for r in records).items()):
         print(f"  {y}  {n:4d}건", file=sys.stderr)
     print("\n[부처별 상위 15]", file=sys.stderr)
     for a, n in Counter(r["agency"] for r in records).most_common(15):
         print(f"  {n:4d}  {a}", file=sys.stderr)
     print("\n[문서 장르]", file=sys.stderr)
-    for t, n in Counter(r["docType"] for r in records).most_common():
+    for t, n in Counter(r.get("docType") or "(미상)" for r in records).most_common():
         print(f"  {n:4d}  {t}", file=sys.stderr)
     print("\n[형식별]", file=sys.stderr)
     for f, n in Counter(r["format"] for r in records).most_common():
