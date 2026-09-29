@@ -1,0 +1,539 @@
+{
+ "measuredAt": "2026-09-30",
+ "source": "폰트 파일의 name ID 7(Trademark) 문자열. 조사 대상 2,073종에서 추출",
+ "note": "파일에 적힌 표기를 옮긴 것이며, 실제 상표 등록 여부·등록국·존속 상태를 확인한 것이 아니다. 국내 등록 여부는 KIPRIS 에서 확인해야 한다",
+ "genericTerms": [
+  "바탕",
+  "돋움",
+  "굴림",
+  "궁서",
+  "명조",
+  "고딕",
+  "해서",
+  "그래픽"
+ ],
+ "marks": [
+  {
+   "mark": "HY강B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY강B"
+   ],
+   "raw": "HY강B & HYkanB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY강M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY강M"
+   ],
+   "raw": "HY강M & HYkanM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY견고딕",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY견고딕"
+   ],
+   "raw": "HY견고딕 is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY견명조",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY견명조"
+   ],
+   "raw": "HY견명조 is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY궁서",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY궁서"
+   ],
+   "raw": "HY궁서 is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY그래픽",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY그래픽"
+   ],
+   "raw": "HY그래픽 is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY나무B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY나무B"
+   ],
+   "raw": "HY나무B & HYnamB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY나무L",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY나무L"
+   ],
+   "raw": "HY나무L & HYnamL is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY나무M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY나무M"
+   ],
+   "raw": "HY나무M & HYnamM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY동녘B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY동녘B"
+   ],
+   "raw": "HY동녘B & HYdnkB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY동녘M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY동녘M"
+   ],
+   "raw": "HY동녘M & HYdnkM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY목판L",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY목판L"
+   ],
+   "raw": "HY목판L & HYmprL is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY바다L",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY바다L"
+   ],
+   "raw": "HY바다L & HYbdaL is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY바다M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY바다M"
+   ],
+   "raw": "HY바다M & HYbdaM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY백송B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY백송B"
+   ],
+   "raw": "HY백송B & HYbsrB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY산B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY산B"
+   ],
+   "raw": "HY산B & HYsanB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY센스L",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY센스L"
+   ],
+   "raw": "HY센스L & HYsnrL is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY수평선B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY수평선B"
+   ],
+   "raw": "HY수평선B & HYsupB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY수평선M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY수평선M"
+   ],
+   "raw": "HY수평선M & HYsupM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY엽서M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY엽서M"
+   ],
+   "raw": "HY엽서M & HYporM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY울릉도B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY울릉도B"
+   ],
+   "raw": "HY울릉도B & HYwulB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY울릉도M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY울릉도M"
+   ],
+   "raw": "HY울릉도M & HYwulM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY크리스탈M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY크리스탈M"
+   ],
+   "raw": "HY크리스탈M & HYcysM is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY태백B",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY태백B"
+   ],
+   "raw": "HY태백B & HYtbrB is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "HY헤드라인M",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "HY헤드라인M"
+   ],
+   "raw": "HY헤드라인M is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "MD개성체",
+   "owner": "모리스디자인",
+   "isBareGenericTerm": false,
+   "faces": [
+    "MD개성체"
+   ],
+   "raw": "MD개성체 is trademark of the MorrisDesign registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "MD솔체",
+   "owner": "모리스디자인",
+   "isBareGenericTerm": false,
+   "faces": [
+    "MD솔체"
+   ],
+   "raw": "MD솔체 is trademark of the MorrisDesign registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "MD아롱체",
+   "owner": "모리스디자인",
+   "isBareGenericTerm": false,
+   "faces": [
+    "MD아롱체"
+   ],
+   "raw": "MD아롱체 is trademark of the MorrisDesign registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "MD아트체",
+   "owner": "모리스디자인",
+   "isBareGenericTerm": false,
+   "faces": [
+    "MD아트체"
+   ],
+   "raw": "MD아트체 is trademark of the MorrisDesign registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "MD이솝체",
+   "owner": "모리스디자인",
+   "isBareGenericTerm": false,
+   "faces": [
+    "MD이솝체"
+   ],
+   "raw": "MD이솝체 is trademark of the MorrisDesign registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "굴림",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "굴림"
+   ],
+   "raw": "굴림 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "굴림체",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "굴림체"
+   ],
+   "raw": "굴림체 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "궁서",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "궁서"
+   ],
+   "raw": "궁서 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "궁서체",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "궁서체"
+   ],
+   "raw": "궁서체 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "돋움",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "돋움"
+   ],
+   "raw": "돋움 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "돋움체",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "돋움체"
+   ],
+   "raw": "돋움체 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "바탕",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "바탕"
+   ],
+   "raw": "바탕 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "바탕체",
+   "owner": "Microsoft",
+   "isBareGenericTerm": true,
+   "faces": [
+    "바탕체"
+   ],
+   "raw": "바탕체 is a registered trademark of the Microsoft Corporation."
+  },
+  {
+   "mark": "양재꽃게체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재꽃게체M"
+   ],
+   "raw": "양재꽃게체M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재난초체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재난초체M"
+   ],
+   "raw": "양재난초체M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재다운명조M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재다운명조M"
+   ],
+   "raw": "양재다운명조M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재둘기체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재둘기체M"
+   ],
+   "raw": "양재둘기체M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재매화체S",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재매화체S"
+   ],
+   "raw": "양재매화체S is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재백두체B",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재백두체B"
+   ],
+   "raw": "양재백두체B is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재벨라체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재벨라체M"
+   ],
+   "raw": "양재벨라체M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재본목각체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재본목각체M"
+   ],
+   "raw": "양재본목각체M is trademark of Yangjae Media Corp registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재붓꽃체L",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재붓꽃체L"
+   ],
+   "raw": "양재붓꽃체L is trademark of Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재블럭체",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재블럭체"
+   ],
+   "raw": "양재블럭체 is trademark of Yangjae Media Corp registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재샤넬체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재샤넬체M"
+   ],
+   "raw": "양재샤넬체M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재소슬체S",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재소슬체S"
+   ],
+   "raw": "양재소슬체S is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재와당체M",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재와당체M"
+   ],
+   "raw": "양재와당체M is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재이니셜체",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재이니셜체"
+   ],
+   "raw": "양재이니셜체 is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재인장체M",
+   "owner": "기타",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재인장체M"
+   ],
+   "raw": "양재인장체M is trademark of the YangJae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재참숯체B",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재참숯체B"
+   ],
+   "raw": "양재참숯체B is trademark of Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "양재튼튼체B",
+   "owner": "양재미디어",
+   "isBareGenericTerm": false,
+   "faces": [
+    "양재튼튼체B"
+   ],
+   "raw": "양재튼튼체B is trademark of the Yangjae Media Corp. registered in Korea, and elsewhere."
+  },
+  {
+   "mark": "한양해서is a registered trademark of the HanYang I&C Co.,Ltd.",
+   "owner": "한양정보통신",
+   "isBareGenericTerm": false,
+   "faces": [
+    "한양해서"
+   ],
+   "raw": "한양해서is a registered trademark of the HanYang I&C Co.,Ltd."
+  },
+  {
+   "mark": "한컴돋움",
+   "owner": "한글과컴퓨터",
+   "isBareGenericTerm": false,
+   "faces": [
+    "한컴돋움"
+   ],
+   "raw": "한컴돋움 & Haansoft Dotum is a registered trademark of the Haansoft Inc."
+  },
+  {
+   "mark": "한컴바탕",
+   "owner": "한글과컴퓨터",
+   "isBareGenericTerm": false,
+   "faces": [
+    "한컴바탕"
+   ],
+   "raw": "한컴바탕 & Haansoft Batang is a registered trademark of the Haansoft Inc."
+  }
+ ]
+}
