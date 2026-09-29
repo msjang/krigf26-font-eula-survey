@@ -82,6 +82,8 @@
 |---|---|---|
 | KrIGF 2026 세션 「공익적 상호운용성을 위한 사전 법적 확신 메커니즘」 (2026-07-02) | <https://msjang.github.io/krigf26-no-action-letter> | 이 조사의 출발점. 세션 직후 나온 질문에 답하려는 기록이다 |
 | 오픈넷 세션 정리 「[2026 KrIGF] 공익적 상호운영성을 위한 사전 법적 확신 메커니즘」 (2026-09-19) | <https://www.opennet.or.kr/27856> | 사단법인 오픈넷이 게재한 세션 소개 |
+| 「모나리자 크기로 도화지를 자르면 저작권 위반인가?」 (GeekNews) | <https://news.hada.io/topic?id=29327> · 원문 <https://github.com/edwardkim/rhwp/discussions/736> | 이 조사 작성자의 글. `투명도화지` 라는 말이 여기서 나왔다 |
+| Polaris MCFG | <https://github.com/PolarisOffice/polaris_mcfg> | 수치만 추출해 자유 글꼴에 적용하는 도구 (MIT). 도구만 배포한다 |
 
 ## 라. 판례
 
@@ -92,6 +94,7 @@
 | 서울중앙지법 2014. 1. 23. 선고 2013가합23162 | <https://www.copyright.or.kr/information-materials/trend/precedents/view.do?brdctsno=16476> | 해설 확인 |
 | 대법원 2014. 10. 27. 선고 2013다74998, 2013다75007 (INI 파일) | 판결문 사본 (박경신 교수 제공) · 유료 서비스 조회 <https://casenote.kr/대법원/2013다74998> | 요지 정리 → [sources/cases/](sources/cases/ini-file_2013da74998_2026-09-29.md) |
 | 서울고등법원 2013. 8. 29. 선고 2012나95785, 2012나95792 (위 사건 원심) | 〃 | 요지 정리 |
+| 대법원 2009도291 (여행책자) | <https://casenote.kr/대법원/2009도291> | *"누가 하더라도 같거나 비슷할 수밖에 없는 표현 … 은 창작물이라고 할 수 없다"* — 창작성 기준 |
 
 ## 마. 법령
 
