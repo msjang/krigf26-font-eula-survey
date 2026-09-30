@@ -1,0 +1,10228 @@
+{
+ "source": "한컴오피스 hftinfo.dat · fontinfo.dat",
+ "root": "/Applications/Hancom Office HWP.app/Contents/Resources/Hnc/Shared",
+ "fonts": [
+  {
+   "hft": "#견고딕",
+   "files": {
+    "Hangul": [
+     "HCHGGGT.HFT"
+    ],
+    "Latin": [
+     "HCENGGT.HFT"
+    ],
+    "Hanja": [
+     "HCHJGGT.HFT"
+    ],
+    "Symbol": [
+     "HCSPGGT.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#견명조",
+   "files": {
+    "Hangul": [
+     "HCHGGMJ.HFT"
+    ],
+    "Latin": [
+     "HCENGMJ.HFT"
+    ],
+    "Hanja": [
+     "HCHJGMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPGMJ.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#공작",
+   "files": {
+    "Hangul": [
+     "HCHGGJ.HFT"
+    ],
+    "Latin": [
+     "HCENGJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPGJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양그래픽",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양그래픽[HFT]",
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 2
+  },
+  {
+   "hft": "#궁서",
+   "files": {
+    "Hangul": [
+     "HCHGGS.HFT"
+    ],
+    "Latin": [
+     "HCENGS.HFT"
+    ],
+    "Hanja": [
+     "HCHJGS.HFT"
+    ],
+    "Symbol": [
+     "HCSPGS.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양궁서",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양궁서[HFT]",
+    "궁서[TTF]"
+   ],
+   "landsOnTTF": "궁서",
+   "hops": 2
+  },
+  {
+   "hft": "#그래픽",
+   "files": {
+    "Hangul": [
+     "HCHGGRP.HFT"
+    ],
+    "Latin": [
+     "HCENGRP.HFT"
+    ],
+    "Symbol": [
+     "HCSPGRP.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양그래픽",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양그래픽[HFT]",
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 2
+  },
+  {
+   "hft": "#디나루",
+   "files": {
+    "Hangul": [
+     "HCHGDNR.HFT"
+    ],
+    "Latin": [
+     "HCENDNR.HFT"
+    ],
+    "Symbol": [
+     "HCSPDNR.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#빅",
+   "files": {
+    "Hangul": [
+     "HCHGBIG.HFT"
+    ],
+    "Latin": [
+     "HCENBIG.HFT"
+    ],
+    "Symbol": [
+     "HCSPBIG.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양견고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 2
+  },
+  {
+   "hft": "#세고딕",
+   "files": {
+    "Hangul": [
+     "HCHGSEGT.HFT"
+    ],
+    "Latin": [
+     "HCENSEGT.HFT"
+    ],
+    "Japanese": [
+     "HCJPSEGT.HFT"
+    ],
+    "Symbol": [
+     "HCSPSEGT.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#세고딕V",
+   "files": {
+    "Japanese": [
+     "HCJPSEGV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "#세나루",
+   "files": {
+    "Hangul": [
+     "HCHGSNR.HFT"
+    ],
+    "Latin": [
+     "HCENSNR.HFT"
+    ],
+    "Symbol": [
+     "HCSPSNR.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#세명조",
+   "files": {
+    "Hangul": [
+     "HCHGSEMJ.HFT"
+    ],
+    "Latin": [
+     "HCENSEMJ.HFT"
+    ],
+    "Japanese": [
+     "HCJPSEMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPSEMJ.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#세명조V",
+   "files": {
+    "Japanese": [
+     "HCJPSEMV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "#수암A",
+   "files": {
+    "Hangul": [
+     "HCHGSMA.HFT"
+    ],
+    "Latin": [
+     "HCENSMA.HFT"
+    ],
+    "Symbol": [
+     "HCSPSMA.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "샘물",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#수암B",
+   "files": {
+    "Hangul": [
+     "HCHGSMB.HFT"
+    ],
+    "Latin": [
+     "HCENSMB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "샘물",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신그래픽",
+   "files": {
+    "Hangul": [
+     "HCHGSGRP.HFT"
+    ],
+    "Latin": [
+     "HCENSGRP.HFT"
+    ],
+    "Symbol": [
+     "HCSPSGRP.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양그래픽",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양그래픽[HFT]",
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 2
+  },
+  {
+   "hft": "#신디나루",
+   "files": {
+    "Hangul": [
+     "HCHGSDNR.HFT"
+    ],
+    "Latin": [
+     "HCENSDNR.HFT"
+    ],
+    "Hanja": [
+     "HCHJSDNR.HFT"
+    ],
+    "Symbol": [
+     "HCSPSDNR.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신명조",
+   "files": {
+    "Hangul": [
+     "HCHGSMJ.HFT"
+    ],
+    "Latin": [
+     "HCENSMJ.HFT"
+    ],
+    "Hanja": [
+     "HCHJSMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPSMJ.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#신문견고",
+   "files": {
+    "Hangul": [
+     "HCHGSMGG.HFT"
+    ],
+    "Latin": [
+     "HCENSMGG.HFT"
+    ],
+    "Hanja": [
+     "HCHJSMGG.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신문견명",
+   "files": {
+    "Hangul": [
+     "HCHGSMGM.HFT"
+    ],
+    "Latin": [
+     "HCENSMGM.HFT"
+    ],
+    "Hanja": [
+     "HCHJSMGM.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#신문고딕",
+   "files": {
+    "Hangul": [
+     "HCHGSMGT.HFT"
+    ],
+    "Latin": [
+     "HCENSMGT.HFT"
+    ],
+    "Hanja": [
+     "HCHJSMGT.HFT"
+    ],
+    "Symbol": [
+     "HCSPSMGT.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신문명조",
+   "files": {
+    "Hangul": [
+     "HCHGSMMJ.HFT"
+    ],
+    "Latin": [
+     "HCENSMMJ.HFT"
+    ],
+    "Hanja": [
+     "HCHJSMMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPSMMJ.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#신문태고",
+   "files": {
+    "Hangul": [
+     "HCHGSMTG.HFT"
+    ],
+    "Latin": [
+     "HCENSMTG.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신문태명",
+   "files": {
+    "Hangul": [
+     "HCHGSMTM.HFT"
+    ],
+    "Latin": [
+     "HCENSMTM.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#신세고딕",
+   "files": {
+    "Hangul": [
+     "HCHGSSGT.HFT"
+    ],
+    "Latin": [
+     "HCENSSGT.HFT"
+    ],
+    "Hanja": [
+     "HCHJSSGT.HFT"
+    ],
+    "Symbol": [
+     "HCSPSSGT.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신세나루",
+   "files": {
+    "Hangul": [
+     "HCHGSSNR.HFT"
+    ],
+    "Latin": [
+     "HCENSSNR.HFT"
+    ],
+    "Hanja": [
+     "HCHJSSNR.HFT"
+    ],
+    "Symbol": [
+     "HCSPSSNR.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#신중명조",
+   "files": {
+    "Hangul": [
+     "HCHGSJMJ.HFT"
+    ],
+    "Latin": [
+     "HCENSJMJ.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#신태명조",
+   "files": {
+    "Hangul": [
+     "HCHGSTMJ.HFT"
+    ],
+    "Latin": [
+     "HCENSTMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPSTMJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#중고딕",
+   "files": {
+    "Hangul": [
+     "HCHGJGT.HFT"
+    ],
+    "Latin": [
+     "HCENJGT.HFT"
+    ],
+    "Hanja": [
+     "HCHJJGT.HFT"
+    ],
+    "Japanese": [
+     "HCJPJGT.HFT"
+    ],
+    "Symbol": [
+     "HCSPJGT.HFT"
+    ]
+   },
+   "fileCount": 5,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#중고딕V",
+   "files": {
+    "Japanese": [
+     "HCJPJGTV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "#중명조",
+   "files": {
+    "Hangul": [
+     "HCHGJMJ.HFT"
+    ],
+    "Latin": [
+     "HCENJMJ.HFT"
+    ],
+    "Hanja": [
+     "HCHJJMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPJMJ.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#태고딕",
+   "files": {
+    "Hangul": [
+     "HCHGTGT.HFT"
+    ],
+    "Latin": [
+     "HCENTGT.HFT"
+    ],
+    "Hanja": [
+     "HCHJTGT.HFT"
+    ],
+    "Japanese": [
+     "HCJPTGT.HFT"
+    ],
+    "Symbol": [
+     "HCSPTGT.HFT"
+    ]
+   },
+   "fileCount": 5,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "#태고딕V",
+   "files": {
+    "Japanese": [
+     "HCJPTGTV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "#태그래픽",
+   "files": {
+    "Hangul": [
+     "HCHGTGRP.HFT"
+    ],
+    "Latin": [
+     "HCENTGRP.HFT"
+    ],
+    "Symbol": [
+     "HCSPTGRP.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양그래픽",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양그래픽[HFT]",
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 2
+  },
+  {
+   "hft": "#태명조",
+   "files": {
+    "Hangul": [
+     "HCHGTMJ.HFT"
+    ],
+    "Latin": [
+     "HCENTMJ.HFT"
+    ],
+    "Hanja": [
+     "HCHJTMJ.HFT"
+    ],
+    "Japanese": [
+     "HCJPTMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPTMJ.HFT"
+    ]
+   },
+   "fileCount": 5,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#태명조V",
+   "files": {
+    "Japanese": [
+     "HCJPTMJV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "#태신명조",
+   "files": {
+    "Hangul": [
+     "HCHGTSMJ.HFT"
+    ],
+    "Latin": [
+     "HCENTSMJ.HFT"
+    ],
+    "Symbol": [
+     "HCSPTSMJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#필기",
+   "files": {
+    "Latin": [
+     "HCENPG.HFT"
+    ],
+    "Symbol": [
+     "HCSPPG.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "필기",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "필기[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 3
+  },
+  {
+   "hft": "#헤드라인A",
+   "files": {
+    "Latin": [
+     "HCENHEDA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양견고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 2
+  },
+  {
+   "hft": "#헤드라인B",
+   "files": {
+    "Latin": [
+     "HCENHEDB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양견고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 2
+  },
+  {
+   "hft": "#화명조A",
+   "files": {
+    "Hangul": [
+     "HCHGHMJA.HFT"
+    ],
+    "Latin": [
+     "HCENHMJA.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "#화명조B",
+   "files": {
+    "Hangul": [
+     "HCHGHMJB.HFT"
+    ],
+    "Latin": [
+     "HCENHMJB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "AmeriGarmnd BT",
+   "files": {
+    "Latin": [
+     "ENGARM.HFT",
+     "ENGARMB.HFT",
+     "ENGARMI.HFT",
+     "ENGARMBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Tulip",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "Baskerville BT",
+   "files": {
+    "Latin": [
+     "ENBASKVL.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Poppy",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Poppy[HFT]",
+    "Palatino Linotype[TTF]"
+   ],
+   "landsOnTTF": "Palatino Linotype",
+   "hops": 2
+  },
+  {
+   "hft": "BernhardFashion BT",
+   "files": {
+    "Latin": [
+     "ENBERNF.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "오이",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "오이[HFT]",
+    "필기[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 4
+  },
+  {
+   "hft": "Blippo Blk BT",
+   "files": {
+    "Latin": [
+     "ENBLBK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Acacia",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Acacia[HFT]",
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 4
+  },
+  {
+   "hft": "Bodoni Bd BT",
+   "files": {
+    "Latin": [
+     "ENBODB.HFT",
+     "ENBODBI.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Tulip",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "Bodoni Bk BT",
+   "files": {
+    "Latin": [
+     "ENBODBK.HFT",
+     "ENBODBKI.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Tulip",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "BroadwayEngraved BT",
+   "files": {
+    "Latin": [
+     "ENBRODWY.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Acacia",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Acacia[HFT]",
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 4
+  },
+  {
+   "hft": "BrushScript BT",
+   "files": {
+    "Latin": [
+     "ENBRUSH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Centaurea",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Centaurea[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "CentSchbook BT",
+   "files": {
+    "Latin": [
+     "ENCSCH.HFT",
+     "ENCSCHB.HFT",
+     "ENCSCHI.HFT",
+     "ENCSCHBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Morning Glory",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Morning Glory[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "CommercialScript BT",
+   "files": {
+    "Latin": [
+     "ENCOSCPT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Centaurea",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Centaurea[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "Cooper Blk BT",
+   "files": {
+    "Latin": [
+     "ENCOBK.HFT",
+     "ENCOBKI.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Bellflower",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Bellflower[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "Courier10 BT",
+   "files": {
+    "Latin": [
+     "ENCR10B.HFT",
+     "ENCR10BI.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Columbine",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Columbine[HFT]",
+    "산세리프[HFT]",
+    "Calibri[TTF]"
+   ],
+   "landsOnTTF": "Calibri",
+   "hops": 3
+  },
+  {
+   "hft": "DomCasual BT",
+   "files": {
+    "Latin": [
+     "ENDOMCA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Hollyhock Narrow",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Hollyhock Narrow[HFT]",
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 4
+  },
+  {
+   "hft": "Freehand591 BT",
+   "files": {
+    "Latin": [
+     "ENFREEHD.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "오이",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "오이[HFT]",
+    "필기[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 4
+  },
+  {
+   "hft": "FuturaBlack BT",
+   "files": {
+    "Latin": [
+     "ENFUTUBK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Acacia",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Acacia[HFT]",
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 4
+  },
+  {
+   "hft": "GoudyOlSt BT",
+   "files": {
+    "Latin": [
+     "ENGDOS.HFT",
+     "ENGDOSB.HFT",
+     "ENGDOSI.HFT",
+     "ENGDOSBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Poppy",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Poppy[HFT]",
+    "Palatino Linotype[TTF]"
+   ],
+   "landsOnTTF": "Palatino Linotype",
+   "hops": 2
+  },
+  {
+   "hft": "HCI Acacia",
+   "files": {
+    "Latin": [
+     "HMEAC.HFT",
+     "HMEACB.HFT",
+     "HMEACI.HFT",
+     "HMEACBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "HCI Hollyhock",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 3
+  },
+  {
+   "hft": "HCI Bellflower",
+   "files": {
+    "Latin": [
+     "HMEBF.HFT",
+     "HMEBFB.HFT",
+     "HMEBFI.HFT",
+     "HMEBFBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "HCI Tulip",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "HCI Centaurea",
+   "files": {
+    "Latin": [
+     "HMECENT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "HCI Tulip",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "HCI Columbine",
+   "files": {
+    "Latin": [
+     "HMECR.HFT",
+     "HMECRB.HFT",
+     "HMECRI.HFT",
+     "HMECRBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "산세리프",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "산세리프[HFT]",
+    "Calibri[TTF]"
+   ],
+   "landsOnTTF": "Calibri",
+   "hops": 2
+  },
+  {
+   "hft": "HCI Hollyhock",
+   "files": {
+    "Latin": [
+     "HMEHL.HFT",
+     "HMEHLB.HFT",
+     "HMEHLI.HFT",
+     "HMEHLBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "HCI Hollyhock Narrow",
+   "files": {
+    "Latin": [
+     "HMEHLN.HFT",
+     "HMEHLNB.HFT",
+     "HMEHLNI.HFT",
+     "HMEHLNBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "HCI Hollyhock",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 3
+  },
+  {
+   "hft": "HCI Morning Glory",
+   "files": {
+    "Latin": [
+     "HMEMO.HFT",
+     "HMEMOB.HFT",
+     "HMEMOI.HFT",
+     "HMEMOBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "HCI Tulip",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "HCI Poppy",
+   "files": {
+    "Latin": [
+     "HMEPO.HFT",
+     "HMEPOB.HFT",
+     "HMEPOI.HFT",
+     "HMEPOBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "Palatino Linotype",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "Microsoft",
+   "substLineage": [
+    "마소"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "Palatino Linotype[TTF]"
+   ],
+   "landsOnTTF": "Palatino Linotype",
+   "hops": 1
+  },
+  {
+   "hft": "HCI Tulip",
+   "files": {
+    "Latin": [
+     "HMETR.HFT",
+     "HMETRB.HFT",
+     "HMETRI.HFT",
+     "HMETRBI.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "HY둥근고딕",
+   "files": {
+    "Hangul": [
+     "HYHGGL.HFT"
+    ],
+    "Latin": [
+     "HYENGL.HFT"
+    ],
+    "Japanese": [
+     "HYJPGL.HFT"
+    ],
+    "Symbol": [
+     "HYSPGL.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "시스템",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한양시스템즈"
+   ],
+   "hftLineage": [
+    "한양"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "시스템[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "Hobo BT",
+   "files": {
+    "Latin": [
+     "ENHOBO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Hollyhock",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 3
+  },
+  {
+   "hft": "Liberty BT",
+   "files": {
+    "Latin": [
+     "ENLIBRTY.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Centaurea",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Centaurea[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "MurrayHill Bd BT",
+   "files": {
+    "Latin": [
+     "ENMUHB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Centaurea",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Centaurea[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "Newtext Bk BT",
+   "files": {
+    "Latin": [
+     "ENITCNBK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Acacia",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Acacia[HFT]",
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 4
+  },
+  {
+   "hft": "OCR-A BT",
+   "files": {
+    "Latin": [
+     "ENOCRA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "산세리프",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "산세리프[HFT]",
+    "Calibri[TTF]"
+   ],
+   "landsOnTTF": "Calibri",
+   "hops": 2
+  },
+  {
+   "hft": "OCR-B-10 BT",
+   "files": {
+    "Latin": [
+     "ENOCRB10.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "산세리프",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "산세리프[HFT]",
+    "Calibri[TTF]"
+   ],
+   "landsOnTTF": "Calibri",
+   "hops": 2
+  },
+  {
+   "hft": "Orator10 BT",
+   "files": {
+    "Latin": [
+     "ENORAT10.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "산세리프",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "산세리프[HFT]",
+    "Calibri[TTF]"
+   ],
+   "landsOnTTF": "Calibri",
+   "hops": 2
+  },
+  {
+   "hft": "Orbit-B BT",
+   "files": {
+    "Latin": [
+     "ENORBITB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Hollyhock",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Hollyhock[HFT]",
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 3
+  },
+  {
+   "hft": "ParkAvenue BT",
+   "files": {
+    "Latin": [
+     "ENPKAV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Centaurea",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Centaurea[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "Stencil BT",
+   "files": {
+    "Latin": [
+     "ENSTEN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": "HCI Bellflower",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HCI Bellflower[HFT]",
+    "HCI Tulip[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 4
+  },
+  {
+   "hft": "Swis721 Lt BT",
+   "files": {
+    "Latin": [
+     "ENSW721L.HFT",
+     "ENS721LI.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "가는공한",
+   "files": {
+    "Hangul": [
+     "KHANL.HFT"
+    ],
+    "Latin": [
+     "KHANENGL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "가는샘물",
+   "files": {
+    "Hangul": [
+     "HGGNSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "가는샘물세로",
+   "files": {
+    "Hangul": [
+     "HSGNSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "가는안상수체",
+   "files": {
+    "Hangul": [
+     "HMKLA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "가는한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "가는한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "가는안상수체영문",
+   "files": {
+    "Latin": [
+     "HMEAHNL.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "가는한",
+   "files": {
+    "Hangul": [
+     "HANL.HFT"
+    ],
+    "Latin": [
+     "HANENGL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "샘물",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "가로무늬헤드",
+   "files": {
+    "Hangul": [
+     "HGMH17.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "가로수",
+   "files": {
+    "Hangul": [
+     "HGGRS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "가지",
+   "files": {
+    "Hangul": [
+     "HGEGPLNT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "필기",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "필기[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 3
+  },
+  {
+   "hft": "각헤드",
+   "files": {
+    "Hangul": [
+     "HGMH12.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "강낭콩",
+   "files": {
+    "Hangul": [
+     "HGKDNYBN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양그래픽",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양그래픽[HFT]",
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 2
+  },
+  {
+   "hft": "강철",
+   "files": {
+    "Hangul": [
+     "HGIRON.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "강철세로",
+   "files": {
+    "Hangul": [
+     "HSIRON.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "고딕",
+   "files": {
+    "Hangul": [
+     "HGGT.HFT"
+    ],
+    "Latin": [
+     "ENGT.HFT"
+    ],
+    "Japanese": [
+     "JPGT.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한컴돋움",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 1
+  },
+  {
+   "hft": "곧은체",
+   "files": {
+    "Hangul": [
+     "PHHGKT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "교회",
+   "files": {
+    "Hangul": [
+     "HGKYH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "굵은공한",
+   "files": {
+    "Hangul": [
+     "KHANB.HFT"
+    ],
+    "Latin": [
+     "KHANENGB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "굵은샘물",
+   "files": {
+    "Hangul": [
+     "HGGSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "굵은샘물세로",
+   "files": {
+    "Hangul": [
+     "HSGSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "굵은안상수체",
+   "files": {
+    "Hangul": [
+     "HMKBA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "굵은한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "굵은한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "굵은안상수체영문",
+   "files": {
+    "Latin": [
+     "HMEAHNB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "굵은한",
+   "files": {
+    "Hangul": [
+     "HANB.HFT"
+    ],
+    "Latin": [
+     "HANENGB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "샘물",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "궁서1",
+   "files": {
+    "Hangul": [
+     "HGGS1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "궁서1세로",
+   "files": {
+    "Hangul": [
+     "HSGS1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "궁행서",
+   "files": {
+    "Hangul": [
+     "HGGHS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "궁행서세로",
+   "files": {
+    "Hangul": [
+     "HSGHS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "그래픽1",
+   "files": {
+    "Hangul": [
+     "HGGRP1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "그래픽1세로",
+   "files": {
+    "Hangul": [
+     "HSGRP1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "그림",
+   "files": {
+    "Hangul": [
+     "HGGRIM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "긴고딕",
+   "files": {
+    "Hangul": [
+     "HGGG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "긴고딕세로",
+   "files": {
+    "Hangul": [
+     "HSGG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "김치",
+   "files": {
+    "Hangul": [
+     "HGKIM1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "깜장",
+   "files": {
+    "Latin": [
+     "ENBLACK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "낙서",
+   "files": {
+    "Hangul": [
+     "HGNAK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "둥근안상수",
+   "files": {
+    "Hangul": [
+     "HGDAHN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "둥근안상수세로",
+   "files": {
+    "Hangul": [
+     "HSDAHN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "디나루",
+   "files": {
+    "Hangul": [
+     "HGDINA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "디나루세로",
+   "files": {
+    "Hangul": [
+     "HSDINA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "디자인",
+   "files": {
+    "Hangul": [
+     "HGDG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "딸기",
+   "files": {
+    "Hangul": [
+     "HGSTRBRY.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼옛체",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼옛체[HFT]",
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "류강",
+   "files": {
+    "Hangul": [
+     "HGYK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "류강세로",
+   "files": {
+    "Hangul": [
+     "HSYK.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "명조",
+   "files": {
+    "Hangul": [
+     "HGMJ.HFT"
+    ],
+    "Latin": [
+     "ENMJ.HFT"
+    ],
+    "Hanja": [
+     "HJMJ.HFT"
+    ],
+    "Japanese": [
+     "JPMJ.HFT"
+    ],
+    "Other": [
+     "FLMJ.HFT"
+    ],
+    "Symbol": [
+     "SPMJ.HFT"
+    ],
+    "User": [
+     "USER.HFT"
+    ]
+   },
+   "fileCount": 7,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Other",
+    "Symbol",
+    "User"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY견명조",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 1
+  },
+  {
+   "hft": "명조2",
+   "files": {
+    "Hangul": [
+     "HGMJ2.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "명조2세로",
+   "files": {
+    "Hangul": [
+     "HSMJ2.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "모란",
+   "files": {
+    "Hangul": [
+     "HGMORAN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "모란세로",
+   "files": {
+    "Hangul": [
+     "HSMORAN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "문헤드",
+   "files": {
+    "Hangul": [
+     "HGMH11.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "문화돋움",
+   "files": {
+    "Hangul": [
+     "HGDU.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "문화돋움제목",
+   "files": {
+    "Hangul": [
+     "HGDUJM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "문화바탕",
+   "files": {
+    "Hangul": [
+     "HGBT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "문화바탕제목",
+   "files": {
+    "Hangul": [
+     "HGBTJM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "문화쓰기",
+   "files": {
+    "Hangul": [
+     "MHHGSSG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "문화쓰기흘림",
+   "files": {
+    "Hangul": [
+     "MHHGSSP.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "바다",
+   "files": {
+    "Hangul": [
+     "HGVADA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "바이트",
+   "files": {
+    "Hangul": [
+     "HANBYTE.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "베틀",
+   "files": {
+    "Hangul": [
+     "HGBAETL.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "복숭아",
+   "files": {
+    "Hangul": [
+     "HGPEACH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼중간팸체",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼중간팸체[HFT]",
+    "휴먼중간샘체[HFT]",
+    "중간한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 6
+  },
+  {
+   "hft": "본문",
+   "files": {
+    "Hangul": [
+     "HGBON.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "본문세로",
+   "files": {
+    "Hangul": [
+     "HSBON.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "붓글씨",
+   "files": {
+    "Hangul": [
+     "HGHYES.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "빗살무늬",
+   "files": {
+    "Hangul": [
+     "HGMH13.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "빠꼼",
+   "files": {
+    "Hangul": [
+     "HGMH15.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "사각",
+   "files": {
+    "Hangul": [
+     "HGMH14.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 ClipArt",
+   "files": {
+    "User": [
+     "USSDCLIP.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 독수리 Bold",
+   "files": {
+    "Hangul": [
+     "HGEAGLEB.HFT"
+    ],
+    "Latin": [
+     "ENEAGLEB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 둥근장식 Bold",
+   "files": {
+    "Hangul": [
+     "HGDUNGB.HFT"
+    ],
+    "Latin": [
+     "ENDUNGB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 사인 1",
+   "files": {
+    "User": [
+     "USSDSGN1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 사인 2",
+   "files": {
+    "User": [
+     "USSDSGN2.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 사인 3",
+   "files": {
+    "User": [
+     "USSDSGN3.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 사인 4",
+   "files": {
+    "User": [
+     "USSDSGN4.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 상아 Bold",
+   "files": {
+    "Hangul": [
+     "HGSANGAB.HFT"
+    ],
+    "Latin": [
+     "ENSANGAB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 숲 Light",
+   "files": {
+    "Hangul": [
+     "HGSUPL.HFT"
+    ],
+    "Latin": [
+     "ENSUPL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 스케치 Light",
+   "files": {
+    "Hangul": [
+     "HGSKETL.HFT"
+    ],
+    "Latin": [
+     "ENSKETL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 예일 Light",
+   "files": {
+    "Hangul": [
+     "HGYEILL.HFT"
+    ],
+    "Latin": [
+     "ENYEILL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 패턴",
+   "files": {
+    "User": [
+     "USSDPATN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 픽토그램 1",
+   "files": {
+    "User": [
+     "USSDPG1.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산돌 픽토그램 2",
+   "files": {
+    "User": [
+     "USSDPG2.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "산세리프",
+   "files": {
+    "Latin": [
+     "ENSS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "Calibri",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "Microsoft",
+   "substLineage": [
+    "마소"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "Calibri[TTF]"
+   ],
+   "landsOnTTF": "Calibri",
+   "hops": 1
+  },
+  {
+   "hft": "샘물",
+   "files": {
+    "Hangul": [
+     "HGSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 2
+  },
+  {
+   "hft": "샘물고딕",
+   "files": {
+    "Hangul": [
+     "HGSMGO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "샘물고딕세로",
+   "files": {
+    "Hangul": [
+     "HSSMGO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "샘물인포",
+   "files": {
+    "Hangul": [
+     "HGSMINF.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "샘물인포세로",
+   "files": {
+    "Hangul": [
+     "HSSMINF.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "세나루",
+   "files": {
+    "Hangul": [
+     "HGSENA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "세나루세로",
+   "files": {
+    "Hangul": [
+     "HSSENA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "세로무늬헤드",
+   "files": {
+    "Hangul": [
+     "HGMH18.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "세로영화체",
+   "files": {
+    "Hangul": [
+     "HGYH90.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "소라",
+   "files": {
+    "Hangul": [
+     "HGSORA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "소망",
+   "files": {
+    "Hangul": [
+     "HGSOMANG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "손글예쁜",
+   "files": {
+    "Hangul": [
+     "HGEAPN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "손글이쁜",
+   "files": {
+    "Hangul": [
+     "HGIPN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송각진필기",
+   "files": {
+    "Hangul": [
+     "HGSGKPL.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송경아",
+   "files": {
+    "Hangul": [
+     "HGKA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송경아-O",
+   "files": {
+    "Hangul": [
+     "HGKAO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송고딕",
+   "files": {
+    "Hangul": [
+     "HGSNGO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송샘",
+   "files": {
+    "Hangul": [
+     "HGSS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송샘물필기",
+   "files": {
+    "Hangul": [
+     "HGSSMPG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "송필",
+   "files": {
+    "Latin": [
+     "ENSPL.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(곤충)",
+   "files": {
+    "User": [
+     "SRART-D.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(동물)",
+   "files": {
+    "User": [
+     "SRART-B.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(사람)",
+   "files": {
+    "User": [
+     "SRART-A.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(사물)",
+   "files": {
+    "User": [
+     "SRART-G.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(식물)",
+   "files": {
+    "User": [
+     "SRART-C.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(어류)",
+   "files": {
+    "User": [
+     "SRART-F.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(조류)",
+   "files": {
+    "User": [
+     "SRART-E.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수려아트(종교)",
+   "files": {
+    "User": [
+     "SRART-H.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "수식",
+   "files": {
+    "Latin": [
+     "HSUSR.HFT",
+     "HSUSRI.HFT"
+    ],
+    "Other": [
+     "HSUSFL.HFT"
+    ],
+    "Symbol": [
+     "HSUSSP.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Latin",
+    "Other",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "수줍음",
+   "files": {
+    "Hangul": [
+     "HGSHY.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "시스템",
+   "files": {
+    "Hangul": [
+     "HGSYS.HFT"
+    ],
+    "Latin": [
+     "ENSYS.HFT"
+    ],
+    "Hanja": [
+     "HJSYS.HFT"
+    ],
+    "Japanese": [
+     "JPSYS.HFT"
+    ],
+    "Symbol": [
+     "SPSYS.HFT"
+    ]
+   },
+   "fileCount": 5,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 2
+  },
+  {
+   "hft": "시스템 간자",
+   "files": {
+    "Hanja": [
+     "HJGSYS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명조 간자",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한미디어"
+   ],
+   "hftLineage": [
+    "한미"
+   ],
+   "substHolder": "한미디어",
+   "substLineage": [
+    "한미"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "신명조 간자[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "시스템 약자",
+   "files": {
+    "Hanja": [
+     "HJYSYS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명조 약자",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "신명조 약자[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "신명 견고딕",
+   "files": {
+    "Hangul": [
+     "TEGGTHG.HFT"
+    ],
+    "Latin": [
+     "TEGGTEN.HFT"
+    ],
+    "Hanja": [
+     "TEGGTHJ.HFT"
+    ],
+    "Symbol": [
+     "TEGGTSP.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY견고딕",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 1
+  },
+  {
+   "hft": "신명 견명조",
+   "files": {
+    "Hangul": [
+     "TEGMJHG.HFT"
+    ],
+    "Latin": [
+     "TEGMJEN.HFT"
+    ],
+    "Hanja": [
+     "TEGMJHJ.HFT"
+    ],
+    "Japanese": [
+     "TEGMJJP.HFT"
+    ],
+    "Symbol": [
+     "TEGMJSP.HFT"
+    ]
+   },
+   "fileCount": 5,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY견명조",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 1
+  },
+  {
+   "hft": "신명 견명조V",
+   "files": {
+    "Japanese": [
+     "TEGMJJPV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 궁서",
+   "files": {
+    "Hangul": [
+     "TEGNSHG.HFT"
+    ],
+    "Latin": [
+     "TEGNSEN.HFT"
+    ],
+    "Hanja": [
+     "TEGNSHJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양궁서",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양궁서[HFT]",
+    "궁서[TTF]"
+   ],
+   "landsOnTTF": "궁서",
+   "hops": 2
+  },
+  {
+   "hft": "신명 디나루",
+   "files": {
+    "Hangul": [
+     "TEDNRHG.HFT"
+    ],
+    "Latin": [
+     "TEDNREN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "신명 세고딕",
+   "files": {
+    "Hangul": [
+     "TESEGHG.HFT"
+    ],
+    "Latin": [
+     "TESEGEN.HFT"
+    ],
+    "Hanja": [
+     "TESEGHJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "신명 세나루",
+   "files": {
+    "Hangul": [
+     "TESENHG.HFT"
+    ],
+    "Latin": [
+     "TESENEN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "신명 세명조",
+   "files": {
+    "Hangul": [
+     "TESEMHG.HFT"
+    ],
+    "Latin": [
+     "TESEMEN.HFT"
+    ],
+    "Hanja": [
+     "TESEMHJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 순명조",
+   "files": {
+    "Hangul": [
+     "TESUNHG.HFT"
+    ],
+    "Latin": [
+     "TESUNEN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 신그래픽",
+   "files": {
+    "Hangul": [
+     "TESGRHG.HFT"
+    ],
+    "Latin": [
+     "TESGREN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양그래픽",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양그래픽[HFT]",
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 2
+  },
+  {
+   "hft": "신명 신명조",
+   "files": {
+    "Hangul": [
+     "TESMJHG.HFT"
+    ],
+    "Latin": [
+     "TESMJEN.HFT"
+    ],
+    "Japanese": [
+     "TESMJJP.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 신명조V",
+   "files": {
+    "Japanese": [
+     "TESMJJPV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 신문고딕",
+   "files": {
+    "Latin": [
+     "TESMGEN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 신문명조",
+   "files": {
+    "Hangul": [
+     "TESMMHG.HFT"
+    ],
+    "Latin": [
+     "TESMMEN.HFT"
+    ],
+    "Hanja": [
+     "TESMMHJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 신신명조",
+   "files": {
+    "Hangul": [
+     "TESSMHG.HFT"
+    ],
+    "Latin": [
+     "TESSMEN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 중고딕",
+   "files": {
+    "Hangul": [
+     "TEJGTHG.HFT"
+    ],
+    "Latin": [
+     "TEJGTEN.HFT"
+    ],
+    "Hanja": [
+     "TEJGTHJ.HFT"
+    ],
+    "Japanese": [
+     "TEJGTJP.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY중고딕",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "미설치",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 1
+  },
+  {
+   "hft": "신명 중고딕V",
+   "files": {
+    "Japanese": [
+     "TEJGTJPV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "신명 중명조",
+   "files": {
+    "Hangul": [
+     "TEJMJHG.HFT"
+    ],
+    "Latin": [
+     "TEJMJEN.HFT"
+    ],
+    "Hanja": [
+     "TEJMJHJ.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명 태고딕",
+   "files": {
+    "Hangul": [
+     "TETGTHG.HFT"
+    ],
+    "Latin": [
+     "TETGTEN.HFT"
+    ],
+    "Hanja": [
+     "TETGTHJ.HFT"
+    ],
+    "Japanese": [
+     "TETGTJP.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY중고딕",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "미설치",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 1
+  },
+  {
+   "hft": "신명 태고딕V",
+   "files": {
+    "Japanese": [
+     "TETGTJPV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "신명 태그래픽",
+   "files": {
+    "Hangul": [
+     "TETGRHG.HFT"
+    ],
+    "Latin": [
+     "TETGREN.HFT"
+    ],
+    "Symbol": [
+     "TETGRSP.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY그래픽",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY그래픽[TTF]"
+   ],
+   "landsOnTTF": "HY그래픽",
+   "hops": 1
+  },
+  {
+   "hft": "신명 태명조",
+   "files": {
+    "Hangul": [
+     "TETMJHG.HFT"
+    ],
+    "Latin": [
+     "TETMJEN.HFT"
+    ],
+    "Hanja": [
+     "TETMJHJ.HFT"
+    ],
+    "Japanese": [
+     "TETMJJP.HFT"
+    ]
+   },
+   "fileCount": 4,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY신명조",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "미설치",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 1
+  },
+  {
+   "hft": "신명 태명조V",
+   "files": {
+    "Japanese": [
+     "TETMJJPV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명조 간자",
+   "files": {
+    "Hanja": [
+     "HJGSMJ.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한미디어"
+   ],
+   "hftLineage": [
+    "한미"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "신명조 약자",
+   "files": {
+    "Hanja": [
+     "HJYSMJ.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "신선",
+   "files": {
+    "Hangul": [
+     "HGSSUN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "신선명조",
+   "files": {
+    "Hangul": [
+     "HGSSMJ.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "신선명조세로",
+   "files": {
+    "Hangul": [
+     "HSSSMJ.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "실팸",
+   "files": {
+    "Hangul": [
+     "HGPM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "실팸세로",
+   "files": {
+    "Hangul": [
+     "HSPM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "안샘",
+   "files": {
+    "Hangul": [
+     "HGANSAM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "안샘세로",
+   "files": {
+    "Hangul": [
+     "HSANSAM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "양재 다운명조M",
+   "files": {
+    "Hangul": [
+     "YJHGDNMJ.HFT"
+    ],
+    "Latin": [
+     "YJENDNMJ.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "양재 둘기",
+   "files": {
+    "Hangul": [
+     "YJHGDUG.HFT"
+    ],
+    "Latin": [
+     "YJENDUG.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "가지",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "가지[HFT]",
+    "필기[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 4
+  },
+  {
+   "hft": "양재 매화",
+   "files": {
+    "Hangul": [
+     "YJHGMAE.HFT"
+    ],
+    "Latin": [
+     "YJENMAE.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "옥수수",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "옥수수[HFT]",
+    "휴먼옛체[HFT]",
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 5
+  },
+  {
+   "hft": "양재 본목각M",
+   "files": {
+    "Hangul": [
+     "YJHGBMGM.HFT"
+    ],
+    "Latin": [
+     "YJENBMGM.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "옥수수",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "옥수수[HFT]",
+    "휴먼옛체[HFT]",
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 5
+  },
+  {
+   "hft": "양재 샤넬",
+   "files": {
+    "Hangul": [
+     "YJHGSHN.HFT"
+    ],
+    "Latin": [
+     "YJENSHN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "태 나무",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "태 나무[HFT]",
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "양재 소슬",
+   "files": {
+    "Hangul": [
+     "YJHGSOSL.HFT"
+    ],
+    "Latin": [
+     "YJENSOSL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "태 나무",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "태 나무[HFT]",
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "양재 와당",
+   "files": {
+    "Hangul": [
+     "YJHGWDA.HFT"
+    ],
+    "Latin": [
+     "YJENWDA.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "양재 참숯B",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "양재",
+   "substLineage": [
+    "양재"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "양재 참숯B[HFT]",
+    "한양견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 3
+  },
+  {
+   "hft": "양재 이니셜",
+   "files": {
+    "Hangul": [
+     "YJHGINI.HFT"
+    ],
+    "Latin": [
+     "YJENINI.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "양재 참숯B",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "양재",
+   "substLineage": [
+    "양재"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "양재 참숯B[HFT]",
+    "한양견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 3
+  },
+  {
+   "hft": "양재 참숯B",
+   "files": {
+    "Hangul": [
+     "YJHGCHM.HFT"
+    ],
+    "Latin": [
+     "YJENCHM.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양견고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 2
+  },
+  {
+   "hft": "양재 튼튼B",
+   "files": {
+    "Hangul": [
+     "YJHGTTB.HFT"
+    ],
+    "Latin": [
+     "YJENTTB.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "양재튼튼체B",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "양재"
+   ],
+   "hftLineage": [
+    "양재"
+   ],
+   "substHolder": "양재",
+   "substLineage": [
+    "양재"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "양재튼튼체B[TTF]"
+   ],
+   "landsOnTTF": "양재튼튼체B",
+   "hops": 1
+  },
+  {
+   "hft": "어린이",
+   "files": {
+    "Hangul": [
+     "HGCHD.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "영화체",
+   "files": {
+    "Hangul": [
+     "HGYH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "옛고딕",
+   "files": {
+    "Hangul": [
+     "HGYETGO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "옛고딕세로",
+   "files": {
+    "Hangul": [
+     "HSYETGO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "옛한글",
+   "files": {
+    "Hangul": [
+     "HGOLD.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "오이",
+   "files": {
+    "Hangul": [
+     "HGCUCMBR.HFT"
+    ],
+    "Latin": [
+     "ENCUCMBR.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "필기",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "필기[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 3
+  },
+  {
+   "hft": "오퍼스",
+   "files": {
+    "Latin": [
+     "ENOPUS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "옥수수",
+   "files": {
+    "Hangul": [
+     "HGCORN.HFT"
+    ],
+    "Latin": [
+     "ENCORN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼옛체",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼옛체[HFT]",
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "용수철고딕",
+   "files": {
+    "Hangul": [
+     "HGIONG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "용수철고딕세로",
+   "files": {
+    "Hangul": [
+     "HSIONG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "원주",
+   "files": {
+    "Hangul": [
+     "HGWJ.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "이야기",
+   "files": {
+    "Latin": [
+     "ENIYAGI.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "인영",
+   "files": {
+    "Hangul": [
+     "HGTAJA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "인포",
+   "files": {
+    "Hangul": [
+     "HGINFO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "전서",
+   "files": {
+    "Hangul": [
+     "HGJS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "전서세로",
+   "files": {
+    "Hangul": [
+     "HSJS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "중간공한",
+   "files": {
+    "Hangul": [
+     "KHANM.HFT"
+    ],
+    "Latin": [
+     "KHANENGM.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "중간안상수체",
+   "files": {
+    "Hangul": [
+     "HMKMA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "중간한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "중간한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "중간안상수체영문",
+   "files": {
+    "Latin": [
+     "HMEAHNM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "중간한",
+   "files": {
+    "Hangul": [
+     "HANM.HFT"
+    ],
+    "Latin": [
+     "HANENGM.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "샘물",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "중고딕 간자",
+   "files": {
+    "Hanja": [
+     "HJGJGT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명조 간자",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한미디어"
+   ],
+   "hftLineage": [
+    "한미"
+   ],
+   "substHolder": "한미디어",
+   "substLineage": [
+    "한미"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "신명조 간자[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "중고딕 약자",
+   "files": {
+    "Hanja": [
+     "HJYJGT.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명조 약자",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한미디어"
+   ],
+   "hftLineage": [
+    "한미"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "신명조 약자[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "쥐파먹은헤드",
+   "files": {
+    "Hangul": [
+     "HGMH16.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "직선체",
+   "files": {
+    "Hangul": [
+     "PHHGCS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "찬현",
+   "files": {
+    "Hangul": [
+     "HGCHANH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "청개구리",
+   "files": {
+    "Hangul": [
+     "HGFROG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "청개구리세로",
+   "files": {
+    "Hangul": [
+     "HSFROG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "큰머리",
+   "files": {
+    "Hangul": [
+     "HGKN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "큰머리세로",
+   "files": {
+    "Hangul": [
+     "HSKN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "키다리",
+   "files": {
+    "Hangul": [
+     "HGKDR.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "키다리세로",
+   "files": {
+    "Hangul": [
+     "HSKDR.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "타이프",
+   "files": {
+    "Hangul": [
+     "HGTYPE.HFT"
+    ],
+    "Latin": [
+     "ENTYPE.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "굵은공한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "굵은공한[HFT]",
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 3
+  },
+  {
+   "hft": "태 가는 헤드라인D",
+   "files": {
+    "Hangul": [
+     "TEHDDRHG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY헤드라인M",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY헤드라인M[TTF]"
+   ],
+   "landsOnTTF": "HY헤드라인M",
+   "hops": 1
+  },
+  {
+   "hft": "태 가는 헤드라인T",
+   "files": {
+    "Hangul": [
+     "TEHDTRHG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY헤드라인M",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "HY헤드라인M[TTF]"
+   ],
+   "landsOnTTF": "HY헤드라인M",
+   "hops": 1
+  },
+  {
+   "hft": "태 굵은고딕",
+   "files": {
+    "Latin": [
+     "TAEGTBEN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "태 나무",
+   "files": {
+    "Hangul": [
+     "TAENMRKR.HFT"
+    ],
+    "Latin": [
+     "TAENMREN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "태 물방울-R",
+   "files": {
+    "Hangul": [
+     "TAEMBWR.HFT"
+    ],
+    "Latin": [
+     "TAEMBWRE.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "태 바람D-B",
+   "files": {
+    "Hangul": [
+     "TAEBRDB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "태 사다리-B",
+   "files": {
+    "Hangul": [
+     "TAESDRB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "태 으뜸-L",
+   "files": {
+    "Hangul": [
+     "TAEOTL.HFT"
+    ],
+    "Latin": [
+     "TAEOTLEN.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "태 조각V-B",
+   "files": {
+    "Hangul": [
+     "TAEJKVB.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "태 헤드라인D",
+   "files": {
+    "Hangul": [
+     "TEHDDHG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명 견명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "신명 견명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "태 헤드라인T",
+   "files": {
+    "Hangul": [
+     "TEHDTHG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명 견고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "신명 견고딕[HFT]",
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 2
+  },
+  {
+   "hft": "태 흘림체-L",
+   "files": {
+    "Hangul": [
+     "TAEHLK.HFT"
+    ],
+    "Latin": [
+     "TAEHLROM.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글맵시",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글맵시"
+   ],
+   "hftLineage": [],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "파도",
+   "files": {
+    "Hangul": [
+     "HGPADO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "파도세로",
+   "files": {
+    "Hangul": [
+     "HSPADO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "펜흘림",
+   "files": {
+    "Hangul": [
+     "HGPENHL.HFT"
+    ],
+    "Latin": [
+     "ENPENHL.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "휴먼명조[HFT]",
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 2
+  },
+  {
+   "hft": "필기",
+   "files": {
+    "Hangul": [
+     "HGPG.HFT"
+    ],
+    "Latin": [
+     "ENPG.HFT"
+    ]
+   },
+   "fileCount": 2,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "한궁",
+   "files": {
+    "Hangul": [
+     "HGGUNG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "한궁세로",
+   "files": {
+    "Hangul": [
+     "HSGUNG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "한글 풀어쓰기",
+   "files": {
+    "User": [
+     "USHGPL.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "User"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "명조[HFT]",
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 2
+  },
+  {
+   "hft": "한메샘물",
+   "files": {
+    "Hangul": [
+     "HGHMSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "한양견고딕",
+   "files": {
+    "Hangul": [
+     "HGGGT.HFT"
+    ],
+    "Latin": [
+     "ENGGT.HFT",
+     "ENGGTI.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY견고딕",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한양시스템즈"
+   ],
+   "hftLineage": [
+    "한양"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HY견고딕[TTF]"
+   ],
+   "landsOnTTF": "HY견고딕",
+   "hops": 1
+  },
+  {
+   "hft": "한양견명조",
+   "files": {
+    "Hangul": [
+     "HGGMJ.HFT"
+    ],
+    "Latin": [
+     "ENGMJ.HFT",
+     "ENGMJI.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY견명조",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한양시스템즈"
+   ],
+   "hftLineage": [
+    "한양"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HY견명조[TTF]"
+   ],
+   "landsOnTTF": "HY견명조",
+   "hops": 1
+  },
+  {
+   "hft": "한양궁서",
+   "files": {
+    "Hangul": [
+     "HGGS.HFT"
+    ],
+    "Latin": [
+     "ENGS.HFT",
+     "ENGSI.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "궁서",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한양시스템즈"
+   ],
+   "hftLineage": [
+    "한양"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "궁서[TTF]"
+   ],
+   "landsOnTTF": "궁서",
+   "hops": 1
+  },
+  {
+   "hft": "한양그래픽",
+   "files": {
+    "Hangul": [
+     "HGGRP.HFT"
+    ],
+    "Latin": [
+     "ENGRP.HFT",
+     "ENGRPI.HFT"
+    ]
+   },
+   "fileCount": 3,
+   "langs": [
+    "Hangul",
+    "Latin"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "굴림",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한양시스템즈"
+   ],
+   "hftLineage": [
+    "한양"
+   ],
+   "substHolder": "한양정보통신",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "굴림[TTF]"
+   ],
+   "landsOnTTF": "굴림",
+   "hops": 1
+  },
+  {
+   "hft": "한양신명조",
+   "files": {
+    "Hangul": [
+     "HGSMJ.HFT"
+    ],
+    "Latin": [
+     "ENSMJ.HFT",
+     "ENSMJI.HFT"
+    ],
+    "Hanja": [
+     "HJSMJ.HFT"
+    ],
+    "Japanese": [
+     "JPSMJ.HFT"
+    ],
+    "Other": [
+     "FLSMJ.HFT"
+    ],
+    "Symbol": [
+     "SPSMJ.HFT"
+    ]
+   },
+   "fileCount": 7,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Other",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY신명조",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한양시스템즈",
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한양",
+    "한컴"
+   ],
+   "substHolder": "미설치",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 1
+  },
+  {
+   "hft": "한양신명조V",
+   "files": {
+    "Japanese": [
+     "JPSMJV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양신명조",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈 · 한글과컴퓨터",
+   "substLineage": [
+    "한양",
+    "한컴"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 2
+  },
+  {
+   "hft": "한양중고딕",
+   "files": {
+    "Hangul": [
+     "HGJGT.HFT"
+    ],
+    "Latin": [
+     "ENJGT.HFT",
+     "ENJGTI.HFT"
+    ],
+    "Hanja": [
+     "HJJGT.HFT"
+    ],
+    "Japanese": [
+     "JPJGT.HFT"
+    ],
+    "Symbol": [
+     "SPJGT.HFT"
+    ]
+   },
+   "fileCount": 6,
+   "langs": [
+    "Hangul",
+    "Latin",
+    "Hanja",
+    "Japanese",
+    "Symbol"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "HY중고딕",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "한양시스템즈"
+   ],
+   "hftLineage": [
+    "한양"
+   ],
+   "substHolder": "미설치",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 1
+  },
+  {
+   "hft": "한양중고딕V",
+   "files": {
+    "Japanese": [
+     "JPJGTV.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Japanese"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "한양중고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": "한양시스템즈",
+   "substLineage": [
+    "한양"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "한양중고딕[HFT]",
+    "HY중고딕[TTF]"
+   ],
+   "landsOnTTF": "HY중고딕",
+   "hops": 2
+  },
+  {
+   "hft": "해서 간자",
+   "files": {
+    "Hanja": [
+     "HJGHS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명조 간자",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한미디어"
+   ],
+   "hftLineage": [
+    "한미"
+   ],
+   "substHolder": "한미디어",
+   "substLineage": [
+    "한미"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "신명조 간자[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "해서 약자",
+   "files": {
+    "Hanja": [
+     "HJYHS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hanja"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": "신명조 약자",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "한미디어"
+   ],
+   "hftLineage": [
+    "한미"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "신명조 약자[HFT]",
+    "한양신명조[HFT]",
+    "HY신명조[TTF]"
+   ],
+   "landsOnTTF": "HY신명조",
+   "hops": 3
+  },
+  {
+   "hft": "혜성",
+   "files": {
+    "Hangul": [
+     "HGHCH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "훈민정음",
+   "files": {
+    "Hangul": [
+     "HGHM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼가는샘체",
+   "files": {
+    "Hangul": [
+     "HMKLS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "가는한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "가는한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "휴먼가는팸체",
+   "files": {
+    "Hangul": [
+     "HMKLP.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "휴먼가는샘체",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "휴먼가는샘체[HFT]",
+    "가는한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 5
+  },
+  {
+   "hft": "휴먼고딕",
+   "files": {
+    "Hangul": [
+     "HMKMG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 2
+  },
+  {
+   "hft": "휴먼굵은샘체",
+   "files": {
+    "Hangul": [
+     "HMKBS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "굵은한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "굵은한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "휴먼굵은팸체",
+   "files": {
+    "Hangul": [
+     "HMKBP.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "휴먼굵은샘체",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "휴먼굵은샘체[HFT]",
+    "굵은한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 5
+  },
+  {
+   "hft": "휴먼궁서",
+   "files": {
+    "Hangul": [
+     "HMKGS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼둥근고딕",
+   "files": {
+    "Hangul": [
+     "HMKDN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼둥근헤드라인",
+   "files": {
+    "Hangul": [
+     "HMKRHD.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼매직체",
+   "files": {
+    "Hangul": [
+     "HMKMAG.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼명조",
+   "files": {
+    "Hangul": [
+     "HMKSM.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "휴먼명조",
+   "declaredType": "TTF",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "휴먼명조[TTF]"
+   ],
+   "landsOnTTF": "휴먼명조",
+   "hops": 1
+  },
+  {
+   "hft": "휴먼세엑스포",
+   "files": {
+    "Hangul": [
+     "HMKLEXPO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼소하체",
+   "files": {
+    "Hangul": [
+     "HMKSOHA.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼엑스포",
+   "files": {
+    "Hangul": [
+     "HMKMEXPO.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "휴먼옛체",
+   "files": {
+    "Hangul": [
+     "HMKOLD.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "휴먼고딕",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "휴먼고딕[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 3
+  },
+  {
+   "hft": "휴먼중간샘체",
+   "files": {
+    "Hangul": [
+     "HMKMS.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "중간한",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "한글과컴퓨터",
+   "substLineage": [
+    "한컴"
+   ],
+   "sameHolder": false,
+   "chain": [
+    "중간한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 4
+  },
+  {
+   "hft": "휴먼중간팸체",
+   "files": {
+    "Hangul": [
+     "HMKMP.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": "휴먼중간샘체",
+   "declaredType": "HFT",
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": "휴먼컴퓨터",
+   "substLineage": [
+    "휴먼"
+   ],
+   "sameHolder": true,
+   "chain": [
+    "휴먼중간샘체[HFT]",
+    "중간한[HFT]",
+    "샘물[HFT]",
+    "고딕[HFT]",
+    "한컴돋움[TTF]"
+   ],
+   "landsOnTTF": "한컴돋움",
+   "hops": 5
+  },
+  {
+   "hft": "휴먼편지체",
+   "files": {
+    "Hangul": [
+     "HMKPYUN.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "휴먼컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "휴먼컴퓨터"
+   ],
+   "hftLineage": [
+    "휴먼"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "흘림",
+   "files": {
+    "Hangul": [
+     "HGCH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "흘림세로",
+   "files": {
+    "Hangul": [
+     "HSCH.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  },
+  {
+   "hft": "희망",
+   "files": {
+    "Hangul": [
+     "HGHEE.HFT"
+    ]
+   },
+   "fileCount": 1,
+   "langs": [
+    "Hangul"
+   ],
+   "vendor": "한글과컴퓨터",
+   "declared": null,
+   "declaredType": null,
+   "hftHolder": [
+    "한글과컴퓨터"
+   ],
+   "hftLineage": [
+    "한컴"
+   ],
+   "substHolder": null,
+   "substLineage": [],
+   "sameHolder": false,
+   "chain": [],
+   "landsOnTTF": null,
+   "hops": 0
+  }
+ ]
+}

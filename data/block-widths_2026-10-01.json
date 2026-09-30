@@ -1,0 +1,4484 @@
+{
+ "blocks": [
+  "한글",
+  "한자",
+  "히라가나",
+  "가타카나",
+  "전각기호",
+  "ASCII"
+ ],
+ "fonts": [
+  {
+   "family": "휴먼가는샘체",
+   "file": "HMKLS.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.541,
+     "share": 0.3333
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 44,
+     "em": 0.3789,
+     "share": 0.2316
+    }
+   }
+  },
+  {
+   "family": "휴먼가는팸체",
+   "file": "HMKLP.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.541,
+     "share": 0.3333
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 44,
+     "em": 0.3789,
+     "share": 0.2316
+    }
+   }
+  },
+  {
+   "family": "휴먼중간샘체",
+   "file": "HMKMS.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.5645,
+     "share": 0.3333
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 36,
+     "em": 0.3789,
+     "share": 0.2316
+    }
+   }
+  },
+  {
+   "family": "휴먼중간팸체",
+   "file": "HMKMP.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.5645,
+     "share": 0.3333
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 36,
+     "em": 0.3789,
+     "share": 0.2316
+    }
+   }
+  },
+  {
+   "family": "휴먼굵은샘체",
+   "file": "HMKBS.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.6113,
+     "share": 0.3333
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 37,
+     "em": 0.3789,
+     "share": 0.2421
+    }
+   }
+  },
+  {
+   "family": "휴먼굵은팸체",
+   "file": "HMKBP.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.6113,
+     "share": 0.3333
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 37,
+     "em": 0.3789,
+     "share": 0.2421
+    }
+   }
+  },
+  {
+   "family": "Haan Cooljazz B",
+   "file": "HANCooljazzB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 9,
+     "em": 0.65,
+     "share": 0.9988
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 4,
+     "em": 0.28,
+     "share": 0.4706
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 33,
+     "em": 0.46,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "Haan Cooljazz L",
+   "file": "HANCooljazzL.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 16,
+     "em": 0.65,
+     "share": 0.9972
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 5,
+     "em": 0.28,
+     "share": 0.4706
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 33,
+     "em": 0.46,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "Haan Cooljazz M",
+   "file": "HANCooljazzM.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.65,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 4,
+     "em": 0.28,
+     "share": 0.4706
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 63,
+     "em": 0.46,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "YJ BELLA Medium",
+   "file": "YBLA05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 147,
+     "em": 0.659,
+     "share": 0.0881
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 68,
+     "em": 0.447,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": "Yj GABI",
+   "file": "YGBI08.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 144,
+     "em": 0.715,
+     "share": 0.2877
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.976,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 72,
+     "em": 0.588,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "Yj MAEHWA  SemiBold",
+   "file": "YMAE07.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 378,
+     "em": 0.72,
+     "share": 0.0132
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 65,
+     "em": 0.563,
+     "share": 0.1684
+    }
+   }
+  },
+  {
+   "family": "Haan Sale B",
+   "file": "HANSaleB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.8,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 70,
+     "em": 0.35,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Haan Sale M",
+   "file": "HANSaleM.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.8,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 70,
+     "em": 0.35,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "KBIZgo R",
+   "file": "KBIZ한마음고딕 R.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 128,
+     "em": 0.824,
+     "share": 0.239
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 4,
+     "em": 0.922,
+     "share": 0.6024
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 2,
+     "em": 0.922,
+     "share": 0.593
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 7,
+     "em": 0.95,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 78,
+     "em": 0.572,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "KBIZgo B",
+   "file": "KBIZ한마음고딕 B.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 128,
+     "em": 0.84,
+     "share": 0.2456
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.95,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.95,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 9,
+     "em": 0.95,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 75,
+     "em": 0.614,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "KBIZgo_M",
+   "file": "KBIZ한마음고딕 M.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 119,
+     "em": 0.846,
+     "share": 0.2436
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.95,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.95,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 7,
+     "em": 0.95,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 78,
+     "em": 0.612,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "Haan Baekje B",
+   "file": "HANBaekB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.85,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 64,
+     "em": 0.662,
+     "share": 0.0632
+    }
+   }
+  },
+  {
+   "family": "Haan Baekje M",
+   "file": "HANBaekM.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.85,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 64,
+     "em": 0.662,
+     "share": 0.0632
+    }
+   }
+  },
+  {
+   "family": "Haan YHead B",
+   "file": "HANYheadB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 4,
+     "em": 0.82,
+     "share": 0.9994
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.85,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 41,
+     "em": 0.562,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": "Haan YHead L",
+   "file": "HANYheadL.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 0.82,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.85,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 41,
+     "em": 0.554,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": "Haan YHead M",
+   "file": "HANYheadM.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 0.82,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.85,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.85,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 40,
+     "em": 0.562,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": ".Apple SD Gothic NeoI",
+   "file": "AppleSDGothicNeo.ttc",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.865,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 0.865,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 85,
+     "unique": 2,
+     "em": 0.865,
+     "share": 0.9765
+    },
+    "가타카나": {
+     "chars": 88,
+     "unique": 2,
+     "em": 0.865,
+     "share": 0.9886
+    },
+    "전각기호": {
+     "chars": 31,
+     "unique": 16,
+     "em": 0.865,
+     "share": 0.3226
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 77,
+     "em": 0.536,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Apple SD Gothic Neo",
+   "file": "AppleSDGothicNeo.ttc",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.865,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 0.865,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 85,
+     "unique": 2,
+     "em": 0.865,
+     "share": 0.9765
+    },
+    "가타카나": {
+     "chars": 88,
+     "unique": 2,
+     "em": 0.865,
+     "share": 0.9886
+    },
+    "전각기호": {
+     "chars": 31,
+     "unique": 16,
+     "em": 0.865,
+     "share": 0.3226
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 77,
+     "em": 0.536,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Haan YoonGothic 720",
+   "file": "HANYoonGothic720.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 4,
+     "em": 0.88,
+     "share": 0.9996
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 3,
+     "em": 1.0,
+     "share": 0.9991
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.88,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 88,
+     "unique": 2,
+     "em": 0.88,
+     "share": 0.9886
+    },
+    "전각기호": {
+     "chars": 26,
+     "unique": 6,
+     "em": 0.505,
+     "share": 0.5385
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 76,
+     "em": 0.601,
+     "share": 0.0632
+    }
+   }
+  },
+  {
+   "family": "Hancom MalangMalang",
+   "file": "MalangmalangB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 2,
+     "em": 0.88,
+     "share": 0.7619
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.88,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 87,
+     "unique": 2,
+     "em": 0.88,
+     "share": 0.9885
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 4,
+     "em": 0.52,
+     "share": 0.4706
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 69,
+     "em": 0.639,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "KBIZmjo R",
+   "file": "KBIZ한마음명조 R.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.887,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 7,
+     "em": 1.0,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.361,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "KBIZmjo M",
+   "file": "KBIZ한마음명조 M.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.893,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 7,
+     "em": 1.0,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 51,
+     "em": 0.361,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "KBIZmjo B",
+   "file": "KBIZ한마음명조 B.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.896,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 7,
+     "em": 1.0,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.361,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "MDAlong",
+   "file": "Along.ttf",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.8984,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": {
+     "chars": 2,
+     "unique": 1,
+     "em": 0.8984,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.4492,
+     "share": 0.2842
+    }
+   }
+  },
+  {
+   "family": "Haan Sollip B",
+   "file": "HANSolB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.9,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 60,
+     "em": 0.7,
+     "share": 0.0842
+    }
+   }
+  },
+  {
+   "family": "Haan Sollip M",
+   "file": "HANSolM.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.9,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 63,
+     "em": 0.7,
+     "share": 0.0737
+    }
+   }
+  },
+  {
+   "family": "Haan YGodic 230",
+   "file": "HANYGO230.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 3,
+     "em": 0.92,
+     "share": 0.9976
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.9,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 64,
+     "em": 0.35,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "Haan YGodic 240",
+   "file": "HANYGO240.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 5,
+     "em": 0.9,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 64,
+     "em": 0.35,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "Haan YGodic 250",
+   "file": "HANYGO250.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.9,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 5,
+     "em": 0.9,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 65,
+     "em": 0.45,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "Hancom Ulju Bangudae Petroglyph",
+   "file": "HancomUljuBangudaePetroglyph.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 192,
+     "em": 0.9,
+     "share": 0.7434
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.8,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 87,
+     "unique": 2,
+     "em": 0.8,
+     "share": 0.9885
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 7,
+     "em": 0.8,
+     "share": 0.2353
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 73,
+     "em": 0.38,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "Haan YoonGothic 740",
+   "file": "HANYoonGothic740.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 5,
+     "em": 1.0,
+     "share": 0.9963
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 88,
+     "unique": 2,
+     "em": 0.92,
+     "share": 0.9886
+    },
+    "전각기호": {
+     "chars": 26,
+     "unique": 7,
+     "em": 0.505,
+     "share": 0.4615
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 73,
+     "em": 0.621,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "Hancom Hoonminjeongeum_H",
+   "file": "HancomHoonminjeongeumH.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 87,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 20,
+     "unique": 5,
+     "em": 0.92,
+     "share": 0.3
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 74,
+     "em": 0.573,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "Hancom Hoonminjeongeum_V",
+   "file": "Hancom HMJE_V.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 87,
+     "unique": 1,
+     "em": 0.92,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 20,
+     "unique": 5,
+     "em": 0.92,
+     "share": 0.3
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 75,
+     "em": 0.573,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "Han Santteut Dotum",
+   "file": "HanSantteutDotum-Bold.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.932,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20940,
+     "unique": 2,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.932,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.932,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.486,
+     "share": 0.8235
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 47,
+     "em": 0.583,
+     "share": 0.1579
+    }
+   }
+  },
+  {
+   "family": "Hancom Gothic",
+   "file": "Hancom Gothic Bold.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.932,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20940,
+     "unique": 2,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.932,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.932,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.486,
+     "share": 0.8235
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 47,
+     "em": 0.583,
+     "share": 0.1579
+    }
+   }
+  },
+  {
+   "family": "MDEasop",
+   "file": "Easop.ttf",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9492,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": {
+     "chars": 2,
+     "unique": 1,
+     "em": 0.9453,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 54,
+     "em": 0.4746,
+     "share": 0.2737
+    }
+   }
+  },
+  {
+   "family": "MDGaesung",
+   "file": "Gaesung.ttf",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.9492,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": {
+     "chars": 2,
+     "unique": 1,
+     "em": 0.9492,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 48,
+     "em": 0.4746,
+     "share": 0.2737
+    }
+   }
+  },
+  {
+   "family": "Haan YoonGothic 760",
+   "file": "HANYoonGothic760.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.96,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 3,
+     "em": 1.0,
+     "share": 0.9976
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.96,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 88,
+     "unique": 2,
+     "em": 0.96,
+     "share": 0.9886
+    },
+    "전각기호": {
+     "chars": 26,
+     "unique": 6,
+     "em": 0.51,
+     "share": 0.5385
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 73,
+     "em": 0.66,
+     "share": 0.0632
+    }
+   }
+  },
+  {
+   "family": "HCR Batang",
+   "file": "HANBatang.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.97,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20940,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 93,
+     "unique": 1,
+     "em": 0.97,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 0.97,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 64,
+     "unique": 5,
+     "em": 0.97,
+     "share": 0.6094
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 45,
+     "em": 0.55,
+     "share": 0.2316
+    }
+   }
+  },
+  {
+   "family": "HCR Dotum",
+   "file": "HANDotum.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.97,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20940,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 93,
+     "unique": 3,
+     "em": 0.97,
+     "share": 0.9677
+    },
+    "가타카나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 0.97,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 64,
+     "unique": 5,
+     "em": 0.97,
+     "share": 0.6094
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 71,
+     "em": 0.55,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "Hancom Ulju Cheonjeonri Petroglyph",
+   "file": "HancomUljuCheonjeonriPetroglyph.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.98,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 87,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9885
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 0.5,
+     "share": 0.5882
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 57,
+     "em": 0.606,
+     "share": 0.1158
+    }
+   }
+  },
+  {
+   "family": "AppleMyungjo",
+   "file": "AppleMyungjo.ttf",
+   "upem": 1025,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 0.999,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4621,
+     "unique": 3,
+     "em": 0.999,
+     "share": 0.9996
+    },
+    "히라가나": {
+     "chars": 85,
+     "unique": 2,
+     "em": 0.999,
+     "share": 0.9765
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.999,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 31,
+     "unique": 1,
+     "em": 0.999,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 56,
+     "em": 0.4995,
+     "share": 0.1684
+    }
+   }
+  },
+  {
+   "family": "AppleGothic",
+   "file": "AppleGothic.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 85,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9765
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 30,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 64,
+     "em": 0.5,
+     "share": 0.1684
+    }
+   }
+  },
+  {
+   "family": "Arial Unicode MS",
+   "file": "Arial Unicode.ttf",
+   "upem": 2048,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20902,
+     "unique": 4,
+     "em": 1.0,
+     "share": 0.9999
+    },
+    "히라가나": {
+     "chars": 90,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 94,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 57,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 20,
+     "em": 0.5562,
+     "share": 0.2632
+    }
+   }
+  },
+  {
+   "family": "Batang",
+   "file": "batang.ttc",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7476,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.5957,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "BatangChe",
+   "file": "BatangChe.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7477,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "Dotum",
+   "file": "gulim.ttc",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7476,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 53,
+     "em": 0.583,
+     "share": 0.1474
+    }
+   }
+  },
+  {
+   "family": "DotumChe",
+   "file": "DotumChe.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7477,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "Gulim",
+   "file": "Gulim.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7477,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 49,
+     "em": 0.5,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": "GulimChe",
+   "file": "GulimChe.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7477,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "Gungsuh",
+   "file": "Gungsuh.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7477,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.583,
+     "share": 0.1474
+    }
+   }
+  },
+  {
+   "family": "GungsuhChe",
+   "file": "GungsuhChe.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7477,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "HYHeadLine M",
+   "file": "H2HDRM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 18,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 63,
+     "em": 0.583,
+     "share": 0.1789
+    }
+   }
+  },
+  {
+   "family": "HYbdaL",
+   "file": "HYBDAL.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 80,
+     "em": 0.4639,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "HYbdaM",
+   "file": "HYBDAM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 79,
+     "em": 0.4639,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "HYbsrB",
+   "file": "HYBSRB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 16,
+     "em": 0.583,
+     "share": 0.2316
+    }
+   }
+  },
+  {
+   "family": "HYcysM",
+   "file": "HYCYSM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 49,
+     "em": 0.625,
+     "share": 0.1684
+    }
+   }
+  },
+  {
+   "family": "HYdnkB",
+   "file": "HYDNKB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 66,
+     "em": 0.625,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "HYdnkM",
+   "file": "HYDNKM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 66,
+     "em": 0.624,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "HYgprM",
+   "file": "HYGPRM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 19,
+     "em": 0.583,
+     "share": 0.2842
+    }
+   }
+  },
+  {
+   "family": "HYgsrB",
+   "file": "HYGSRB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.583,
+     "share": 0.1474
+    }
+   }
+  },
+  {
+   "family": "HYgtrE",
+   "file": "HYGTRE.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 17,
+     "em": 0.625,
+     "share": 0.1895
+    }
+   }
+  },
+  {
+   "family": "HYhaeseo",
+   "file": "UNI_HSR.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20992,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 64,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 11,
+     "em": 0.625,
+     "share": 0.2211
+    }
+   }
+  },
+  {
+   "family": "HYkanB",
+   "file": "HYKANB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 43,
+     "em": 0.5312,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "HYkanM",
+   "file": "HYKANM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 41,
+     "em": 0.5312,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "HYmjrE",
+   "file": "HYMJRE.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 4620,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 18,
+     "em": 0.666,
+     "share": 0.1789
+    }
+   }
+  },
+  {
+   "family": "HYmprL",
+   "file": "HYMPRL.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 19,
+     "em": 0.625,
+     "share": 0.3053
+    }
+   }
+  },
+  {
+   "family": "HYnamB",
+   "file": "HYNAMB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 81,
+     "em": 0.541,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "HYnamL",
+   "file": "HYNAML.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 80,
+     "em": 0.5996,
+     "share": 0.0421
+    }
+   }
+  },
+  {
+   "family": "HYnamM",
+   "file": "HYNAMM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 83,
+     "em": 0.627,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "HYporM",
+   "file": "HYPORM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 18,
+     "em": 0.708,
+     "share": 0.1895
+    }
+   }
+  },
+  {
+   "family": "HYsanB",
+   "file": "HYSANB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 70,
+     "em": 0.5996,
+     "share": 0.0737
+    }
+   }
+  },
+  {
+   "family": "HYsnrL",
+   "file": "HYSNRL.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 18,
+     "em": 0.625,
+     "share": 0.2526
+    }
+   }
+  },
+  {
+   "family": "HYsupB",
+   "file": "HYSUPB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 70,
+     "em": 0.625,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "HYsupM",
+   "file": "HYSUPM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 58,
+     "em": 0.6338,
+     "share": 0.1158
+    }
+   }
+  },
+  {
+   "family": "HYtbrB",
+   "file": "HYTBRB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 17,
+     "em": 0.667,
+     "share": 0.1474
+    }
+   }
+  },
+  {
+   "family": "HYwulB",
+   "file": "HYWULB.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.8235
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 60,
+     "em": 0.6621,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "HYwulM",
+   "file": "HYWULM.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 68,
+     "em": 0.6309,
+     "share": 0.1158
+    }
+   }
+  },
+  {
+   "family": "Haan Somang B",
+   "file": "HANSomaB.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 1.0,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 69,
+     "em": 0.45,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Haan Somang M",
+   "file": "HANSomaM.ttf",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 3,
+     "em": 1.0,
+     "share": 0.9995
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 6,
+     "em": 1.0,
+     "share": 0.2941
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 68,
+     "em": 0.74,
+     "share": 0.0526
+    }
+   }
+  },
+  {
+   "family": "MBatang",
+   "file": "MT.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MDArt",
+   "file": "Art.ttf",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": {
+     "chars": 2,
+     "unique": 1,
+     "em": 0.9961,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 52,
+     "em": 0.5,
+     "share": 0.2737
+    }
+   }
+  },
+  {
+   "family": "MDSol",
+   "file": "Sol.ttf",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": {
+     "chars": 2,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 51,
+     "em": 0.5,
+     "share": 0.2421
+    }
+   }
+  },
+  {
+   "family": "MDotum",
+   "file": "MG.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.96
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MGungHeulim",
+   "file": "MM.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MGungJeong",
+   "file": "MJ.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MHunmin",
+   "file": "MH.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MJemokBatang",
+   "file": "MB.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MJemokGothic",
+   "file": "MK.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MSugiHeulim",
+   "file": "MP.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "MSugiJeong",
+   "file": "MN.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 1,
+     "unique": 1,
+     "em": 0.5,
+     "share": 1.0
+    }
+   }
+  },
+  {
+   "family": "Malgun Gothic",
+   "file": "malgun.ttf",
+   "upem": 2048,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 7476,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 19,
+     "unique": 8,
+     "em": 1.0,
+     "share": 0.2632
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 65,
+     "em": 0.5508,
+     "share": 0.1158
+    }
+   }
+  },
+  {
+   "family": "YJ INJANG Medium",
+   "file": "YINJ05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 78,
+     "em": 0.602,
+     "share": 0.0632
+    }
+   }
+  },
+  {
+   "family": "Yj BLOCK Medium",
+   "file": "YBLO05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 6,
+     "em": 1.0,
+     "share": 0.9966
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 63,
+     "em": 1.0,
+     "share": 0.1789
+    }
+   }
+  },
+  {
+   "family": "Yj CHMSOOT Bold",
+   "file": "YCHM08.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 95,
+     "unique": 78,
+     "em": 0.549,
+     "share": 0.0737
+    }
+   }
+  },
+  {
+   "family": "Yj DOOLGI Medium",
+   "file": "YDUG05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 86,
+     "em": 0.62,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Yj GOTGAE Medium",
+   "file": "YGGE05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.976,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 71,
+     "em": 0.646,
+     "share": 0.0947
+    }
+   }
+  },
+  {
+   "family": "Yj INITIALPOSITIVE Medium",
+   "file": "YINP05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.976,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 2,
+     "em": 0.999,
+     "share": 0.9895
+    }
+   }
+  },
+  {
+   "family": "Yj NANCHO Medium",
+   "file": "YNCH05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 314,
+     "em": 1.0,
+     "share": 0.1719
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.976,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 55,
+     "em": 0.556,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": "Yj SHANALL Medium ",
+   "file": "YSHN05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 67,
+     "em": 0.782,
+     "share": 0.0632
+    }
+   }
+  },
+  {
+   "family": "Yj WADAG Medium",
+   "file": "YWDA05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": null,
+    "가타카나": null,
+    "전각기호": null,
+    "ASCII": {
+     "chars": 95,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9895
+    }
+   }
+  },
+  {
+   "family": "한컴돋움",
+   "file": "HDotum.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20902,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 93,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 64,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9844
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 50,
+     "em": 0.583,
+     "share": 0.1474
+    }
+   }
+  },
+  {
+   "family": "한컴바탕",
+   "file": "HBatang.TTF",
+   "upem": 1024,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20902,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 93,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 64,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.9844
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 18,
+     "em": 0.583,
+     "share": 0.1684
+    }
+   }
+  },
+  {
+   "family": "휴먼고딕",
+   "file": "HMKMG.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 54,
+     "em": 0.5,
+     "share": 0.1474
+    }
+   }
+  },
+  {
+   "family": "휴먼명조",
+   "file": "HMKMM.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 58,
+     "em": 0.5,
+     "share": 0.2105
+    }
+   }
+  },
+  {
+   "family": "휴먼옛체",
+   "file": "HMKMOLD.TTF",
+   "upem": 512,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 59,
+     "em": 0.5352,
+     "share": 0.1263
+    }
+   }
+  },
+  {
+   "family": "Yj BONMOKGAK Medium ",
+   "file": "YBMG05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 5,
+     "em": 1.017,
+     "share": 0.6523
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 1.0,
+     "share": 0.8824
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 75,
+     "em": 0.604,
+     "share": 0.0737
+    }
+   }
+  },
+  {
+   "family": "Yj BACDOO Bold ",
+   "file": "YDOO08.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.024,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 82,
+     "em": 0.55,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Yj BUTGOT Light ",
+   "file": "YBUU02.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.024,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 68,
+     "em": 0.5,
+     "share": 0.1053
+    }
+   }
+  },
+  {
+   "family": "Yj DWMMOOGJO",
+   "file": "YDWM05.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.024,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 1,
+     "em": 1.0,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 65,
+     "em": 0.613,
+     "share": 0.1368
+    }
+   }
+  },
+  {
+   "family": "Yj SOSEL SemiBold",
+   "file": "YSOS07.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 1,
+     "em": 1.024,
+     "share": 1.0
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.976,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 81,
+     "em": 0.54,
+     "share": 0.0316
+    }
+   }
+  },
+  {
+   "family": "Yj TEUNTEUN Bold",
+   "file": "YTTE08.TTF",
+   "upem": 1000,
+   "blocks": {
+    "한글": {
+     "chars": 2350,
+     "unique": 3,
+     "em": 1.024,
+     "share": 0.8179
+    },
+    "한자": null,
+    "히라가나": {
+     "chars": 83,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 86,
+     "unique": 1,
+     "em": 0.976,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 17,
+     "unique": 2,
+     "em": 0.976,
+     "share": 0.9412
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 62,
+     "em": 0.627,
+     "share": 0.1158
+    }
+   }
+  },
+  {
+   "family": ".LastResort",
+   "file": "LastResort.otf",
+   "upem": 2048,
+   "blocks": {
+    "한글": {
+     "chars": 11172,
+     "unique": 1,
+     "em": 1.1001,
+     "share": 1.0
+    },
+    "한자": {
+     "chars": 20992,
+     "unique": 1,
+     "em": 1.1001,
+     "share": 1.0
+    },
+    "히라가나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 1.1001,
+     "share": 1.0
+    },
+    "가타카나": {
+     "chars": 96,
+     "unique": 1,
+     "em": 1.1001,
+     "share": 1.0
+    },
+    "전각기호": {
+     "chars": 64,
+     "unique": 1,
+     "em": 1.1001,
+     "share": 1.0
+    },
+    "ASCII": {
+     "chars": 95,
+     "unique": 1,
+     "em": 1.1001,
+     "share": 1.0
+    }
+   }
+  }
+ ]
+}
