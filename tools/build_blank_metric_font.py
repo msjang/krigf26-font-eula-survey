@@ -102,7 +102,9 @@ def build(cfg):
     kern = {}
     if cfg.get("kerning", True):
         run = shaper(cfg["sourcePath"], index)
-        ascii_chars = [c for c in chars if 0x21 <= ord(c) < 0x7F]
+        # 공백(U+0020)을 반드시 포함한다. 공백이 낀 커닝 쌍(예: "A ", " T")이
+        # 실제로 존재하며, 빼면 문장 전체 폭이 어긋난다
+        ascii_chars = [c for c in chars if 0x20 <= ord(c) < 0x7F]
         kern = measure_kerning(run, adv, ascii_chars)
 
     fb = FontBuilder(upem, isTTF=True)
