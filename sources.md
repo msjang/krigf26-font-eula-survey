@@ -130,6 +130,12 @@
 |---|---|---|
 | S.-B. Lim, H.-Y. Kim, K. Seo, J. Yoo, Y. Song, "Development of K-PANOSE Algorithm for Measuring and Classifying Shape Elements of Hangul Fonts", *IEEE Access*, vol. 13, pp. 82388–82406, 2025 | <https://doi.org/10.1109/ACCESS.2025.3566598> · 오픈 액세스 | 상용 한글 폰트의 **윤곽선 제어점 좌표**를 읽어 형태 요소를 정량화한다. 교육부 한국연구재단 지원(RS-2023-00210863, RS-2022-00165818). 공동저자에 폰트 기업 BoinIT. → [report.md 라. 1) 라)](report.md) |
 
+## 마-3. 어문 규범
+
+| 자료 | 출처 | 비고 |
+|---|---|---|
+| 한글 맞춤법 문장부호 — 줄임표 | 국립국어원 <https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=303518> | 가운데 여섯 점이 원칙, 2015. 1. 1. 시행 개정으로 가운데 세 점·아래 여섯 점·아래 세 점 허용 → [findings-substchain.md](findings-substchain.md) |
+
 ## 마. 법령
 
 | 조문 | 출처 |
