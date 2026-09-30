@@ -1,0 +1,1190 @@
+{
+ "fonts": [
+  "Gulim",
+  "GulimChe",
+  "Dotum",
+  "DotumChe",
+  "Batang",
+  "BatangChe",
+  "Gungsuh",
+  "GungsuhChe",
+  "Malgun Gothic",
+  "한컴바탕",
+  "한컴돋움",
+  "HCR Batang",
+  "HCR Dotum",
+  "HYmjrE",
+  "HYgtrE",
+  "휴먼명조"
+ ],
+ "groups": [
+  {
+   "group": "가운뎃점처럼 보이는 것",
+   "chars": [
+    {
+     "cp": "U+00B7",
+     "char": "·",
+     "name": "MIDDLE DOT",
+     "fonts": {
+      "Gulim": {
+       "em": 0.375,
+       "inkMid": 0.359
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Dotum": {
+       "em": 0.332,
+       "inkMid": 0.36
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.36
+      },
+      "Batang": {
+       "em": 0.333,
+       "inkMid": 0.364
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.364
+      },
+      "Gungsuh": {
+       "em": 0.332,
+       "inkMid": 0.359
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Malgun Gothic": {
+       "em": 0.2188,
+       "inkMid": 0.312
+      },
+      "한컴바탕": {
+       "em": 0.333,
+       "inkMid": 0.362
+      },
+      "한컴돋움": {
+       "em": 0.3311,
+       "inkMid": 0.357
+      },
+      "HCR Batang": {
+       "em": 0.32,
+       "inkMid": 0.367
+      },
+      "HCR Dotum": {
+       "em": 0.294,
+       "inkMid": 0.355
+      },
+      "HYmjrE": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "HYgtrE": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "휴먼명조": {
+       "em": 1.0,
+       "inkMid": 0.358
+      }
+     },
+     "distinctWidths": 8,
+     "minEm": 0.2188,
+     "maxEm": 1.0,
+     "missing": 0
+    },
+    {
+     "cp": "U+0387",
+     "char": "·",
+     "name": "GREEK ANO TELEIA",
+     "fonts": {
+      "Gulim": {
+       "em": 0.3125,
+       "inkMid": 0.41
+      },
+      "GulimChe": {
+       "em": 0.5,
+       "inkMid": 0.41
+      },
+      "Dotum": {
+       "em": 0.3125,
+       "inkMid": 0.41
+      },
+      "DotumChe": {
+       "em": 0.5,
+       "inkMid": 0.41
+      },
+      "Batang": {
+       "em": 0.3135,
+       "inkMid": 0.414
+      },
+      "BatangChe": {
+       "em": 0.5,
+       "inkMid": 0.414
+      },
+      "Gungsuh": {
+       "em": 0.3125,
+       "inkMid": 0.411
+      },
+      "GungsuhChe": {
+       "em": 0.5,
+       "inkMid": 0.411
+      },
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 0.3135,
+       "inkMid": 0.412
+      },
+      "한컴돋움": {
+       "em": 0.3125,
+       "inkMid": 0.429
+      },
+      "HCR Batang": {
+       "em": 0.161,
+       "inkMid": 0.367
+      },
+      "HCR Dotum": {
+       "em": 0.254,
+       "inkMid": 0.405
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 5,
+     "minEm": 0.161,
+     "maxEm": 0.5,
+     "missing": 4
+    },
+    {
+     "cp": "U+2022",
+     "char": "•",
+     "name": "BULLET",
+     "fonts": {
+      "Gulim": {
+       "em": 0.375,
+       "inkMid": 0.359
+      },
+      "GulimChe": {
+       "em": 0.5,
+       "inkMid": 0.359
+      },
+      "Dotum": {
+       "em": 0.375,
+       "inkMid": 0.358
+      },
+      "DotumChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Batang": {
+       "em": 0.375,
+       "inkMid": 0.359
+      },
+      "BatangChe": {
+       "em": 0.5,
+       "inkMid": 0.359
+      },
+      "Gungsuh": {
+       "em": 0.375,
+       "inkMid": 0.359
+      },
+      "GungsuhChe": {
+       "em": 0.5,
+       "inkMid": 0.359
+      },
+      "Malgun Gothic": {
+       "em": 0.4175,
+       "inkMid": 0.309
+      },
+      "한컴바탕": {
+       "em": 0.4629,
+       "inkMid": 0.359
+      },
+      "한컴돋움": {
+       "em": 0.4629,
+       "inkMid": 0.358
+      },
+      "HCR Batang": {
+       "em": 0.399,
+       "inkMid": 0.367
+      },
+      "HCR Dotum": {
+       "em": 0.586,
+       "inkMid": 0.319
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 6,
+     "minEm": 0.375,
+     "maxEm": 0.586,
+     "missing": 3
+    },
+    {
+     "cp": "U+2027",
+     "char": "‧",
+     "name": "HYPHENATION POINT",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 0.1738,
+       "inkMid": 0.359
+      },
+      "한컴돋움": {
+       "em": 0.3008,
+       "inkMid": 0.357
+      },
+      "HCR Batang": {
+       "em": 0.289,
+       "inkMid": 0.369
+      },
+      "HCR Dotum": {
+       "em": 0.288,
+       "inkMid": 0.345
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 4,
+     "minEm": 0.1738,
+     "maxEm": 0.3008,
+     "missing": 12
+    },
+    {
+     "cp": "U+2219",
+     "char": "∙",
+     "name": "BULLET OPERATOR",
+     "fonts": {
+      "Gulim": {
+       "em": 0.25,
+       "inkMid": 0.359
+      },
+      "GulimChe": {
+       "em": 0.5,
+       "inkMid": 0.359
+      },
+      "Dotum": {
+       "em": 0.292,
+       "inkMid": 0.357
+      },
+      "DotumChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Batang": {
+       "em": 0.2646,
+       "inkMid": 0.358
+      },
+      "BatangChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Gungsuh": {
+       "em": 0.25,
+       "inkMid": 0.359
+      },
+      "GungsuhChe": {
+       "em": 0.5,
+       "inkMid": 0.36
+      },
+      "Malgun Gothic": {
+       "em": 0.3149,
+       "inkMid": 0.286
+      },
+      "한컴바탕": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "한컴돋움": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.33
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.33
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 6,
+     "minEm": 0.25,
+     "maxEm": 0.97,
+     "missing": 3
+    },
+    {
+     "cp": "U+22C5",
+     "char": "⋅",
+     "name": "DOT OPERATOR",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.361
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.333
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.333
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 12
+    },
+    {
+     "cp": "U+25CF",
+     "char": "●",
+     "name": "BLACK CIRCLE",
+     "fonts": {
+      "Gulim": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Dotum": {
+       "em": 0.9375,
+       "inkMid": 0.358
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Batang": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Gungsuh": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Malgun Gothic": {
+       "em": 1.0,
+       "inkMid": 0.299
+      },
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.359
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.359
+      },
+      "HYmjrE": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "HYgtrE": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "휴먼명조": {
+       "em": 1.0,
+       "inkMid": 0.358
+      }
+     },
+     "distinctWidths": 3,
+     "minEm": 0.9375,
+     "maxEm": 1.0,
+     "missing": 0
+    },
+    {
+     "cp": "U+25CB",
+     "char": "○",
+     "name": "WHITE CIRCLE",
+     "fonts": {
+      "Gulim": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Dotum": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Batang": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Gungsuh": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Malgun Gothic": {
+       "em": 1.0,
+       "inkMid": 0.299
+      },
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.359
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.359
+      },
+      "HYmjrE": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "HYgtrE": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "휴먼명조": {
+       "em": 1.0,
+       "inkMid": 0.355
+      }
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 0
+    },
+    {
+     "cp": "U+25E6",
+     "char": "◦",
+     "name": "WHITE BULLET",
+     "fonts": {
+      "Gulim": {
+       "em": 0.375,
+       "inkMid": 0.358
+      },
+      "GulimChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Dotum": {
+       "em": 0.375,
+       "inkMid": 0.358
+      },
+      "DotumChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Batang": {
+       "em": 0.375,
+       "inkMid": 0.358
+      },
+      "BatangChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Gungsuh": {
+       "em": 0.375,
+       "inkMid": 0.358
+      },
+      "GungsuhChe": {
+       "em": 0.5,
+       "inkMid": 0.358
+      },
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.361
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.361
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.36
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.36
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 4,
+     "minEm": 0.375,
+     "maxEm": 1.0,
+     "missing": 4
+    },
+    {
+     "cp": "U+30FB",
+     "char": "・",
+     "name": "KATAKANA MIDDLE DOT",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.343
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.312
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.344
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.362
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 12
+    },
+    {
+     "cp": "U+FF65",
+     "char": "･",
+     "name": "HALFWIDTH KATAKANA MIDDLE DOT",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 0.5,
+       "inkMid": 0.345
+      },
+      "한컴돋움": {
+       "em": 0.5,
+       "inkMid": 0.357
+      },
+      "HCR Batang": {
+       "em": 0.485,
+       "inkMid": 0.437
+      },
+      "HCR Dotum": {
+       "em": 0.485,
+       "inkMid": 0.399
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.485,
+     "maxEm": 0.5,
+     "missing": 12
+    },
+    {
+     "cp": "U+318D",
+     "char": "ㆍ",
+     "name": "HANGUL LETTER ARAEA",
+     "fonts": {
+      "Gulim": {
+       "em": 1.0,
+       "inkMid": 0.345
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.345
+      },
+      "Dotum": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "Batang": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Gungsuh": {
+       "em": 1.0,
+       "inkMid": 0.352
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.352
+      },
+      "Malgun Gothic": {
+       "em": 1.0,
+       "inkMid": 0.382
+      },
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.326
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.351
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.295
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.308
+      },
+      "HYmjrE": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "HYgtrE": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "휴먼명조": {
+       "em": 1.0,
+       "inkMid": 0.358
+      }
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 0
+    },
+    {
+     "cp": "U+11A2",
+     "char": "ᆢ",
+     "name": "HANGUL JUNGSEONG SSANGARAEA",
+     "fonts": {
+      "Gulim": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Dotum": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "Batang": {
+       "em": 1.0,
+       "inkMid": 0.392
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.392
+      },
+      "Gungsuh": {
+       "em": 1.0,
+       "inkMid": 0.395
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.395
+      },
+      "Malgun Gothic": {
+       "em": 1.0,
+       "inkMid": 0.392
+      },
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.392
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.358
+      },
+      "HCR Batang": {
+       "em": 0.0,
+       "inkMid": 0.283
+      },
+      "HCR Dotum": {
+       "em": 0.0,
+       "inkMid": 0.328
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.0,
+     "maxEm": 1.0,
+     "missing": 3
+    },
+    {
+     "cp": "U+002E",
+     "char": ".",
+     "name": "FULL STOP",
+     "fonts": {
+      "Gulim": {
+       "em": 0.334,
+       "inkMid": 0.038
+      },
+      "GulimChe": {
+       "em": 0.5,
+       "inkMid": 0.038
+      },
+      "Dotum": {
+       "em": 0.375,
+       "inkMid": 0.044
+      },
+      "DotumChe": {
+       "em": 0.5,
+       "inkMid": 0.044
+      },
+      "Batang": {
+       "em": 0.292,
+       "inkMid": 0.042
+      },
+      "BatangChe": {
+       "em": 0.5,
+       "inkMid": 0.042
+      },
+      "Gungsuh": {
+       "em": 0.333,
+       "inkMid": 0.049
+      },
+      "GungsuhChe": {
+       "em": 0.5,
+       "inkMid": 0.049
+      },
+      "Malgun Gothic": {
+       "em": 0.2188,
+       "inkMid": 0.043
+      },
+      "한컴바탕": {
+       "em": 0.291,
+       "inkMid": 0.041
+      },
+      "한컴돋움": {
+       "em": 0.375,
+       "inkMid": 0.04
+      },
+      "HCR Batang": {
+       "em": 0.32,
+       "inkMid": 0.051
+      },
+      "HCR Dotum": {
+       "em": 0.27,
+       "inkMid": 0.009
+      },
+      "HYmjrE": {
+       "em": 0.375,
+       "inkMid": 0.069
+      },
+      "HYgtrE": {
+       "em": 0.375,
+       "inkMid": 0.079
+      },
+      "휴먼명조": {
+       "em": 0.2695,
+       "inkMid": 0.057
+      }
+     },
+     "distinctWidths": 10,
+     "minEm": 0.2188,
+     "maxEm": 0.5,
+     "missing": 0
+    }
+   ]
+  },
+  {
+   "group": "말줄임표처럼 보이는 것",
+   "chars": [
+    {
+     "cp": "U+2026",
+     "char": "…",
+     "name": "HORIZONTAL ELLIPSIS",
+     "fonts": {
+      "Gulim": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Dotum": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Batang": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Gungsuh": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Malgun Gothic": {
+       "em": 0.7397,
+       "inkMid": 0.045
+      },
+      "한컴바탕": {
+       "em": 0.8301,
+       "inkMid": 0.298
+      },
+      "한컴돋움": {
+       "em": 0.8301,
+       "inkMid": 0.359
+      },
+      "HCR Batang": {
+       "em": 0.96,
+       "inkMid": 0.368
+      },
+      "HCR Dotum": {
+       "em": 0.702,
+       "inkMid": 0.355
+      },
+      "HYmjrE": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "HYgtrE": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "휴먼명조": {
+       "em": 1.0,
+       "inkMid": 0.366
+      }
+     },
+     "distinctWidths": 5,
+     "minEm": 0.702,
+     "maxEm": 1.0,
+     "missing": 0
+    },
+    {
+     "cp": "U+22EF",
+     "char": "⋯",
+     "name": "MIDLINE HORIZONTAL ELLIPSIS",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.361
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.333
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.333
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 12
+    },
+    {
+     "cp": "U+2025",
+     "char": "‥",
+     "name": "TWO DOT LEADER",
+     "fonts": {
+      "Gulim": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "GulimChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Dotum": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "DotumChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Batang": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "BatangChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Gungsuh": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "GungsuhChe": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "Malgun Gothic": {
+       "em": 0.437,
+       "inkMid": 0.043
+      },
+      "한컴바탕": {
+       "em": 0.5664,
+       "inkMid": 0.298
+      },
+      "한컴돋움": {
+       "em": 0.5664,
+       "inkMid": 0.359
+      },
+      "HCR Batang": {
+       "em": 0.64,
+       "inkMid": 0.368
+      },
+      "HCR Dotum": {
+       "em": 0.544,
+       "inkMid": 0.355
+      },
+      "HYmjrE": {
+       "em": 1.0,
+       "inkMid": 0.359
+      },
+      "HYgtrE": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "휴먼명조": {
+       "em": 1.0,
+       "inkMid": 0.364
+      }
+     },
+     "distinctWidths": 5,
+     "minEm": 0.437,
+     "maxEm": 1.0,
+     "missing": 0
+    },
+    {
+     "cp": "U+2024",
+     "char": "․",
+     "name": "ONE DOT LEADER",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 0.1738,
+       "inkMid": 0.299
+      },
+      "한컴돋움": {
+       "em": 0.1738,
+       "inkMid": 0.359
+      },
+      "HCR Batang": {
+       "em": 0.289,
+       "inkMid": 0.029
+      },
+      "HCR Dotum": {
+       "em": 0.288,
+       "inkMid": 0.021
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 3,
+     "minEm": 0.1738,
+     "maxEm": 0.289,
+     "missing": 12
+    },
+    {
+     "cp": "U+22EE",
+     "char": "⋮",
+     "name": "VERTICAL ELLIPSIS",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": null,
+      "한컴바탕": {
+       "em": 1.0,
+       "inkMid": 0.357
+      },
+      "한컴돋움": {
+       "em": 1.0,
+       "inkMid": 0.361
+      },
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.333
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.333
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 12
+    },
+    {
+     "cp": "U+FE19",
+     "char": "︙",
+     "name": "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS",
+     "fonts": {
+      "Gulim": null,
+      "GulimChe": null,
+      "Dotum": null,
+      "DotumChe": null,
+      "Batang": null,
+      "BatangChe": null,
+      "Gungsuh": null,
+      "GungsuhChe": null,
+      "Malgun Gothic": {
+       "em": 1.0,
+       "inkMid": 0.468
+      },
+      "한컴바탕": null,
+      "한컴돋움": null,
+      "HCR Batang": {
+       "em": 0.97,
+       "inkMid": 0.343
+      },
+      "HCR Dotum": {
+       "em": 0.97,
+       "inkMid": 0.343
+      },
+      "HYmjrE": null,
+      "HYgtrE": null,
+      "휴먼명조": null
+     },
+     "distinctWidths": 2,
+     "minEm": 0.97,
+     "maxEm": 1.0,
+     "missing": 13
+    }
+   ]
+  }
+ ]
+}
