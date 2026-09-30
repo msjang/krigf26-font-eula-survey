@@ -102,6 +102,7 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
 
 HWPTAG_FACE_NAME = 19
 FACE_PROP_HAS_SUBSTITUTE = 0x80
+SUBST_TYPE = {0: "Unknown", 1: "TTF", 2: "HFT"}   # HWP 5.0 대체 글꼴 유형
 
 # 목록 항목의 출처 표기. 섹션에 따라 부처명이 없고 날짜만 있는 경우가 있다.
 SOURCE_RE = (r'.*?<span class="source">\s*(?:<span>)?(?P<date>[\d.\-]{8,10})(?:</span>)?'
@@ -170,9 +171,14 @@ def parse_hwpx(blob):
                 r'(?:/>|>(.*?)</hh:font>)', block.group("body"), re.S):
             face, ftype, inner = fm.group(1), fm.group(2), fm.group(3) or ""
             faces.append({"face": face, "type": ftype})
-            for sub in re.findall(r'<hh:substFont\s+face="([^"]*)"', inner):
-                subs.append({"lang": lang, "requested": face,
-                             "substituted": sub, "type": ftype})
+            for sm in re.finditer(r'<hh:substFont\s+([^>]*)/?>', inner):
+                attrs = dict(re.findall(r'(\w+)="([^"]*)"', sm.group(1)))
+                if not attrs.get("face"):
+                    continue
+                subs.append({"lang": lang, "requested": face, "type": ftype,
+                             "substituted": attrs["face"],
+                             "substType": attrs.get("type"),
+                             "substEmbedded": attrs.get("isEmbedded") == "1"})
         per_lang[lang] = faces
     return {"fonts": per_lang, "substitutions": subs, "format": "HWPX"}
 
@@ -215,12 +221,15 @@ def parse_hwp(blob):
             name = body[i:i + ln * 2].decode("utf-16-le").strip("\x00"); i += ln * 2
             faces.append({"face": name, "type": "HWP"})
             if prop & FACE_PROP_HAS_SUBSTITUTE:
-                i += 1
+                # 규격이 이 자리에 대체 글꼴의 유형을 한 바이트로 둔다.
+                # 0 Unknown / 1 TTF / 2 HFT — 무엇으로 대체되는지가 여기 있다
+                subtype = SUBST_TYPE.get(body[i], str(body[i])); i += 1
                 sl = struct.unpack("<H", body[i:i + 2])[0]; i += 2
                 sub = body[i:i + sl * 2].decode("utf-16-le").strip("\x00")
                 if sub:
                     subs.append({"lang": "ALL", "requested": name,
-                                 "substituted": sub, "type": "HWP"})
+                                 "substituted": sub, "type": "HWP",
+                                 "substType": subtype})
         except Exception:
             continue
     if not faces:
