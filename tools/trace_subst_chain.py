@@ -30,13 +30,20 @@ from fontTools.ttLib import TTFont, TTCollection
 
 MAC = "/Applications/Hancom Office HWP.app/Contents/Resources/Hnc/Shared"
 
-# 문자 블록 ↔ fontinfo.dat 의 섹션. 대체 연쇄가 이 단위로 따로 선언돼 있다
+# 문자 블록 ↔ fontinfo.dat 의 섹션.
+#
+# 주의 — 이 대응은 **이 도구의 가정**이다. fontinfo.dat 은 섹션 이름만 줄 뿐,
+# 어떤 유니코드 문자가 어느 언어 칸으로 가는지는 말해 주지 않는다. 그 분류는
+# 한/글 내부에 있다. 앞의 셋(한글·한자·ASCII)은 이름과 범위가 곧바로 맞으나
+# `전각기호 → Symbol` 은 근거가 약하다. 섹션을 바꾸면 결과가 크게 달라진다
+# (전각기호 깨짐 비율: Symbol 51% · Hangul 73% · Hanja 37% · Other 34%).
+# `--symbol-section` 으로 바꿔 가며 확인할 수 있다.
 PARTITIONS = [
-    ("한글", "Hangul", 0xAC00, 0xD7A3),
-    ("한자", "Hanja", 0x4E00, 0x9FFF),
-    ("가나", "Japanese", 0x3040, 0x30FF),
-    ("전각기호", "Symbol", 0x3000, 0x303F),
-    ("ASCII", "Latin", 0x20, 0x7E),
+    ("한글", "Hangul", 0xAC00, 0xD7A3),      # 확실
+    ("한자", "Hanja", 0x4E00, 0x9FFF),       # 확실
+    ("가나", "Japanese", 0x3040, 0x30FF),    # 거의 확실
+    ("전각기호", "Symbol", 0x3000, 0x303F),   # **가정** — 검증 못 함
+    ("ASCII", "Latin", 0x20, 0x7E),         # 확실
 ]
 EXT = (".ttf", ".otf", ".ttc", ".otc")
 
@@ -184,7 +191,12 @@ def main():
     ap.add_argument("--start", nargs="*",
                     help="추적을 시작할 글꼴 이름 (없으면 선언된 전부)")
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--symbol-section", default="Symbol",
+                    help="전각기호 블록을 어느 섹션으로 볼지. 기본값은 가정이다")
     args = ap.parse_args()
+    for i, (label, sec, lo, hi) in enumerate(PARTITIONS):
+        if label == "전각기호":
+            PARTITIONS[i] = (label, args.symbol_section, lo, hi)
 
     root = os.path.expanduser(args.root)
     tables = subst_sections(root)
