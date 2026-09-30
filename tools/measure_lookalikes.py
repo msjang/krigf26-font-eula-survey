@@ -11,6 +11,11 @@
   advance width(em)와 **잉크의 세로 중심**(em, 0이 베이스라인). 세로 중심은
   같은 문자라도 글꼴에 따라 점이 바닥에 깔리는지 가운데 오는지를 말해 준다.
 
+  그리고 그 문자가 **KS X 1001(1987) 완성형에 있었는지**를 함께 적는다.
+  한글 글꼴은 이 국가 표준에 맞춰 만들어졌다. 표준 안에 있던 문자는 모든
+  글꼴이 갖고 폭도 안정적인데, 밖에 있던 문자는 제작자가 각자 넣어서
+  있거나 없고 폭도 흔들린다. 그 경계가 위험의 경계다.
+
 주의
   문자는 **코드포인트에서 만든다**(`chr()`). 원본에 글자를 직접 적으면
   `U+318D ㆍ` 와 `U+11A2 ᆞ` 처럼 비슷하게 생긴 것을 잘못 넣기 쉽다.
@@ -85,6 +90,15 @@ def load(paths):
     return fonts
 
 
+def in_ksx1001(cp):
+    """KS X 1001(1987) 완성형에 그 문자가 있었나. euc-kr 코덱이 그 대응을 담는다."""
+    try:
+        chr(cp).encode("euc_kr")
+        return True
+    except Exception:
+        return False
+
+
 def measure(font, cp):
     cmap = font.getBestCmap()
     if cp not in cmap:
@@ -119,7 +133,9 @@ def main():
         rows = []
         for cp in cps:
             row = {"cp": f"U+{cp:04X}", "char": chr(cp),
-                   "name": unicodedata.name(chr(cp), "?"), "fonts": {}}
+                   "name": unicodedata.name(chr(cp), "?"),
+                   "category": unicodedata.category(chr(cp)),
+                   "ksx1001": in_ksx1001(cp), "fonts": {}}
             for fam, font in fonts.items():
                 row["fonts"][fam] = measure(font, cp)
             vals = {v["em"] for v in row["fonts"].values() if v}
@@ -139,7 +155,7 @@ def main():
     print("값은  폭(em) / 잉크 세로중심(em, 0 = 베이스라인)\n")
     for g in out:
         print(f"### {g['group']}")
-        print(f"{'코드':8s} {'글자':3s} " + " ".join(f"{n[:10]:>11s}" for n in names)
+        print(f"{'코드':8s} {'글자':3s} {'KS':>3s} " + " ".join(f"{n[:10]:>11s}" for n in names)
               + "   폭 범위")
         for r in g["chars"]:
             cells = []
@@ -150,8 +166,9 @@ def main():
             span = ("—" if r["minEm"] is None
                     else f"{r['minEm']:.3f}~{r['maxEm']:.3f}"
                          + (f"  ({r['maxEm']/r['minEm']:.1f}배)" if r["minEm"] else ""))
-            print(f"{r['cp']:8s} {r['char']:3s} " + " ".join(f"{c:>11s}" for c in cells)
-                  + f"   {span}")
+            ks = " ○ " if r["ksx1001"] else " · "
+            print(f"{r['cp']:8s} {r['char']:3s} {ks:>3s} "
+                  + " ".join(f"{c:>11s}" for c in cells) + f"   {span}")
         print()
 
 

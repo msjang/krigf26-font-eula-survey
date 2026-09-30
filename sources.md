@@ -134,6 +134,8 @@
 
 | 자료 | 출처 | 비고 |
 |---|---|---|
+| KS X 1001(1987) 완성형 대응 | Python `euc_kr` 코덱 (CPython 표준 라이브러리)로 전수 판정 | 문자가 국가 표준 안에 있었는지를 가린다 → [findings-substchain.md](findings-substchain.md) |
+| Unicode `DerivedAge.txt` (UCD latest) | <https://www.unicode.org/Public/UCD/latest/ucd/DerivedAge.txt> | 코드포인트별 등재 버전. `2026`·`22EF` 모두 1.1 |
 | Unicode `NamesList.txt` (UCD latest) | <https://www.unicode.org/Public/UCD/latest/ucd/NamesList.txt> | `2026 HORIZONTAL ELLIPSIS` 의 호환 분해가 `002E 002E 002E`, `22EF` 만 이름에 `MIDLINE` 을 담는다 → [findings-substchain.md](findings-substchain.md) |
 | 한글 맞춤법 문장부호 — 줄임표 | 국립국어원 <https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&qna_seq=303518> | 가운데 여섯 점이 원칙, 2015. 1. 1. 시행 개정으로 가운데 세 점·아래 여섯 점·아래 세 점 허용 → [findings-substchain.md](findings-substchain.md) |
 

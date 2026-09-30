@@ -25,6 +25,8 @@
      "cp": "U+00B7",
      "char": "·",
      "name": "MIDDLE DOT",
+     "category": "Po",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 0.375,
@@ -100,6 +102,8 @@
      "cp": "U+0387",
      "char": "·",
      "name": "GREEK ANO TELEIA",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": {
        "em": 0.3125,
@@ -163,6 +167,8 @@
      "cp": "U+2022",
      "char": "•",
      "name": "BULLET",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": {
        "em": 0.375,
@@ -229,6 +235,8 @@
      "cp": "U+2027",
      "char": "‧",
      "name": "HYPHENATION POINT",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -268,6 +276,8 @@
      "cp": "U+2219",
      "char": "∙",
      "name": "BULLET OPERATOR",
+     "category": "Sm",
+     "ksx1001": false,
      "fonts": {
       "Gulim": {
        "em": 0.25,
@@ -334,6 +344,8 @@
      "cp": "U+22C5",
      "char": "⋅",
      "name": "DOT OPERATOR",
+     "category": "Sm",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -373,6 +385,8 @@
      "cp": "U+25CF",
      "char": "●",
      "name": "BLACK CIRCLE",
+     "category": "So",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 1.0,
@@ -448,6 +462,8 @@
      "cp": "U+25CB",
      "char": "○",
      "name": "WHITE CIRCLE",
+     "category": "So",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 1.0,
@@ -523,6 +539,8 @@
      "cp": "U+25E6",
      "char": "◦",
      "name": "WHITE BULLET",
+     "category": "So",
+     "ksx1001": false,
      "fonts": {
       "Gulim": {
        "em": 0.375,
@@ -586,6 +604,8 @@
      "cp": "U+30FB",
      "char": "・",
      "name": "KATAKANA MIDDLE DOT",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -625,6 +645,8 @@
      "cp": "U+FF65",
      "char": "･",
      "name": "HALFWIDTH KATAKANA MIDDLE DOT",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -664,6 +686,8 @@
      "cp": "U+318D",
      "char": "ㆍ",
      "name": "HANGUL LETTER ARAEA",
+     "category": "Lo",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 1.0,
@@ -739,6 +763,8 @@
      "cp": "U+11A2",
      "char": "ᆢ",
      "name": "HANGUL JUNGSEONG SSANGARAEA",
+     "category": "Lo",
+     "ksx1001": false,
      "fonts": {
       "Gulim": {
        "em": 1.0,
@@ -805,6 +831,8 @@
      "cp": "U+002E",
      "char": ".",
      "name": "FULL STOP",
+     "category": "Po",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 0.334,
@@ -885,6 +913,8 @@
      "cp": "U+2026",
      "char": "…",
      "name": "HORIZONTAL ELLIPSIS",
+     "category": "Po",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 1.0,
@@ -960,6 +990,8 @@
      "cp": "U+22EF",
      "char": "⋯",
      "name": "MIDLINE HORIZONTAL ELLIPSIS",
+     "category": "Sm",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -999,6 +1031,8 @@
      "cp": "U+2025",
      "char": "‥",
      "name": "TWO DOT LEADER",
+     "category": "Po",
+     "ksx1001": true,
      "fonts": {
       "Gulim": {
        "em": 1.0,
@@ -1074,6 +1108,8 @@
      "cp": "U+2024",
      "char": "․",
      "name": "ONE DOT LEADER",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -1113,6 +1149,8 @@
      "cp": "U+22EE",
      "char": "⋮",
      "name": "VERTICAL ELLIPSIS",
+     "category": "Sm",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
@@ -1152,6 +1190,8 @@
      "cp": "U+FE19",
      "char": "︙",
      "name": "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS",
+     "category": "Po",
+     "ksx1001": false,
      "fonts": {
       "Gulim": null,
       "GulimChe": null,
