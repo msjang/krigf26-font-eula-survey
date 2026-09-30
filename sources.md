@@ -66,6 +66,17 @@
 
 원문 공문서(기안문)가 있는 정보공개포털이 가장 적합한 자료이나 robots.txt가 전면 금지이므로 수집 대상에서 제외했다.
 
+## 다-3. 정책연구 산출물
+
+| 항목 | 내용 |
+|---|---|
+| 출처 | 정책연구관리시스템 PRISM <https://www.prism.go.kr/> — 공개 API `entire/list-organtheme` · `entire/info` · `progress/download-file` |
+| 대상 | 중앙행정기관 72곳의 공개 과제 1,855건에 붙은 HWP·HWPX **9,159개** (기관당 최근 30과제) |
+| robots.txt | `User-agent: *` / `Disallow:` — 제한 없음, 2026-09-30 확인 |
+| 수집 방식 | 순차 요청, 요청 간 0.35초 지연. PDF 는 받지 않음(HFT 식별 불가). 본문은 집계하지 않고 글꼴 이름과 메타데이터만 추출 |
+| 도구 | [`tools/harvest_prism_reports.py`](tools/harvest_prism_reports.py) |
+| 원자료 | [`data/prism-report-fonts_2026-09-30.json.gz`](data/prism-report-fonts_2026-09-30.json.gz) |
+
 ## 다-2. 라이선스 고지 보존 사본
 
 | 문서 | 사본 | 원 출처 |
