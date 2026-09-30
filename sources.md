@@ -66,6 +66,17 @@
 
 원문 공문서(기안문)가 있는 정보공개포털이 가장 적합한 자료이나 robots.txt가 전면 금지이므로 수집 대상에서 제외했다.
 
+## 다-4. 법령 서식
+
+| 항목 | 내용 |
+|---|---|
+| 출처 | 법제처 국가법령정보 OPEN API <https://open.law.go.kr> — `lawSearch.do?target=licbyl&knd=2` (서식) |
+| 대상 | 현행 법령 서식 **28,639건** 전수 (전체 28,645건 중 오류 6건 제외), 소관부처 98곳 |
+| robots.txt | `User-agent: *` / `Allow: /` — 2026-09-30 확인 |
+| 수집 방식 | 순차 요청, 요청 간 0.35초 지연. PDF 가 아니라 HWP 를 받음(PDF 는 HFT 식별 불가). 본문은 집계하지 않고 글꼴 이름과 메타데이터만 추출 |
+| 도구 | [`tools/harvest_law_forms.py`](tools/harvest_law_forms.py) |
+| 원자료 | [`data/law-form-fonts_2026-09-30.json.gz`](data/law-form-fonts_2026-09-30.json.gz) |
+
 ## 다-3. 정책연구 산출물
 
 | 항목 | 내용 |
