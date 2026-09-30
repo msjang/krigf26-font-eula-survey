@@ -59,7 +59,7 @@
 | 사이트 | robots | 수집 여부 |
 |---|---|---|
 | www.korea.kr (정책브리핑) | `User-agent: *` `Allow: /` | 수집함 |
-| www.prism.go.kr (정책연구관리시스템) | `Disallow:` 비어 있음 | 미수집 (이번 범위 밖) |
+| www.prism.go.kr (정책연구관리시스템) | `Disallow:` 비어 있음 (제한 없음) | **수집함** (2026-09-30). 2026-09-24 에 "자동 접근 거부"로 적은 것은 `curl` 직접 호출에 한정된 관찰이었다 — [정정](findings-trend.md) |
 | **www.open.go.kr (정보공개포털)** | **`Disallow: /`** | **수집하지 않음** |
 | **www.ntis.go.kr** | **`Disallow: /`** | **수집하지 않음** |
 | www.data.go.kr | 일부 경로만 제한 | 미수집 |
