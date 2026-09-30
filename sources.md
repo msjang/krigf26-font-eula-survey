@@ -102,6 +102,12 @@
 |---|---|---|
 | 「새국어생활」 제2권 제3호(1992년 가을) | <https://www.korean.go.kr/nkview/nklife/1992_3/3_20.html> | 국립국어원. 1992년 문화체육부 글자체 용어 순화안(`명조체`→`바탕체`, `고딕체`→`돋움체`) |
 
+## 마-2. 선행 연구
+
+| 자료 | 출처 | 비고 |
+|---|---|---|
+| S.-B. Lim, H.-Y. Kim, K. Seo, J. Yoo, Y. Song, "Development of K-PANOSE Algorithm for Measuring and Classifying Shape Elements of Hangul Fonts", *IEEE Access*, vol. 13, pp. 82388–82406, 2025 | <https://doi.org/10.1109/ACCESS.2025.3566598> · 오픈 액세스 | 상용 한글 폰트의 **윤곽선 제어점 좌표**를 읽어 형태 요소를 정량화한다. 교육부 한국연구재단 지원(RS-2023-00210863, RS-2022-00165818). 공동저자에 폰트 기업 BoinIT. → [report.md 라. 1) 라)](report.md) |
+
 ## 마. 법령
 
 | 조문 | 출처 |

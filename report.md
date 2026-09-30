@@ -195,6 +195,32 @@
 - 한양정보통신 EULA의 "역 설계"는 저작권법상 정의를 원용하지 않은 **계약상 고유 용어**이며, 계약 해석상 더 넓게 읽힐 가능성을 배제할 수 없다
 - Microsoft 계열 **396종**의 `Any other use is prohibited` 는 열거되지 않은 모든 행위를 포괄 금지하는 형태다
 
+#### 라) 선행 연구는 이미 제어점 좌표까지 읽고 있다
+
+한글 폰트의 형태 요소를 정량화하는 알고리즘 K-PANOSE 를 제안한 연구가 2025년 IEEE Access 에 실렸다 (임순범·김현영·서강현·유주한·송유정, [DOI 10.1109/ACCESS.2025.3566598](https://doi.org/10.1109/ACCESS.2025.3566598)). 공동저자에 국내 폰트 기업(BoinIT)이 있고, 교육부 한국연구재단 기초연구사업 지원(RS-2023-00210863, RS-2022-00165818)을 받았다.
+
+이 연구가 밝힌 자료 취득 방법은 이렇다.
+
+> Contour information can be calculated by **opening a TrueType or OpenType font data file** to access the text glyphs and then use the contour and contour point information that represents each property.
+>
+> Figure 6 shows the font **contour coordinate values and coordinate positions** used in the algorithm and the coordinates corresponding to the straight line and curve information for **the control points of the contour line**.
+
+대상은 상용 폰트다 — *"Commercialized fonts are represented in image forms by using contour information included in fonts"*. TTA 한글 폰트 분류 초안에 따라 고른 15종과, 집단별 30종 이상을 표본으로 썼다.
+
+| | 이 조사 | K-PANOSE 연구 |
+|---|---|---|
+| 여는 파일 | TrueType/OpenType | TrueType/OpenType (동일) |
+| 읽는 것 | `hmtx`·`OS/2`·`name` 의 **수치** | **윤곽선 제어점의 좌표값** |
+| 99다23246 이 든 요소와의 거리 | 제어점 좌표 **0개** | 제어점 좌표 **그 자체** |
+| 발표 | 개인 조사 | IEEE Access (국가 연구비·폰트 기업 공동저자) |
+
+- (사실) 99다23246 이 서체파일의 보호 대상으로 특정한 것은 *"제어점들의 좌표값과 그 지시·명령어의 선택"* 이다. 이 연구는 **그중 앞의 것을 직접 읽어** 측정값을 표로 싣고 공개했다
+- (사실) 이 조사가 읽는 것은 제어점이 아니라 `hmtx` 의 폭 수치다. [투명도화지 폰트](findings-blankfont.md)에서 확인했듯 제어점은 **0개**다
+- (추론) 그러므로 **폰트 파일을 규격대로 열어 수치를 읽는 행위는 학술적으로 이미 통상적 연구 방법**이며, 국가 연구비와 산업계 공동저자를 두고 국제 학술지에 실릴 만큼 문제시되지 않았다
+- (추론) 이 조사의 판독은 그보다 **얕은 층**에 머문다. RQ3 에 대한 답이 한 단계 더 뒷받침된다
+- (유의) 학술 연구가 이루어졌다는 사실이 적법성을 판정하지 않는다. 다만 *"규격에 따른 파일 판독을 역설계라 부르는 해석"* 이 실제 연구 관행과 얼마나 떨어져 있는지를 보여준다
+- (구별) 이 연구의 목적은 **분류·추천**이지 호환 폰트 제작이 아니다. 목적이 다르므로 그대로 원용할 수는 없다
+
 ### 2) RQ4 — 렌더링 출력물 측정 방식
 
 - 폰트 파일 테이블을 읽지 않고 렌더링된 출력물의 글자 폭·행 위치를 측정하는 방식
