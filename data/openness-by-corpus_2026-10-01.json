@@ -1,0 +1,54 @@
+{
+ "judgedWith": "font-openness-db.json",
+ "note": "점수는 재현 가능한 글꼴 수 / 전체 글꼴 수. 0점은 자유 소프트웨어만으로 같은 조판을 만들 길이 전혀 없다는 뜻이다",
+ "corpora": [
+  {
+   "corpus": "law-form-fonts_2026-09-30.json.gz",
+   "documents": 28638,
+   "mean": 7.4,
+   "median": 0.0,
+   "zeroScore": 17603,
+   "zeroPct": 61.5,
+   "fullScore": 242,
+   "fontsPerDoc": 10.2,
+   "verdicts": {
+    "MISSING": 163646,
+    "UNLICENSED": 96143,
+    "UNKNOWN": 10164,
+    "OK": 21175
+   }
+  },
+  {
+   "corpus": "prism-report-fonts_2026-09-30.json.gz",
+   "documents": 9003,
+   "mean": 39.6,
+   "median": 28.6,
+   "zeroScore": 1345,
+   "zeroPct": 14.9,
+   "fullScore": 117,
+   "fontsPerDoc": 12.5,
+   "verdicts": {
+    "MISSING": 50975,
+    "OK": 34471,
+    "UNKNOWN": 8104,
+    "UNLICENSED": 18927
+   }
+  },
+  {
+   "corpus": "gov-doc-press-merged_2026-10-01.json.gz",
+   "documents": 4827,
+   "mean": 8.2,
+   "median": 7.7,
+   "zeroScore": 2015,
+   "zeroPct": 41.7,
+   "fullScore": 0,
+   "fontsPerDoc": 18.4,
+   "verdicts": {
+    "UNLICENSED": 18380,
+    "MISSING": 54869,
+    "OK": 7435,
+    "UNKNOWN": 8067
+   }
+  }
+ ]
+}
