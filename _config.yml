@@ -45,6 +45,9 @@ nav:
   - { name: 폰트 목록,    url: /font-registry.html }
   - { name: 내장 라이선스, url: /findings-licenses.html }
   - { name: 연도·부처 추세, url: /findings-trend.html }
+  - { name: 법령 서식,    url: /findings-lawforms.html }
+  - { name: 정책연구,     url: /findings-prism.html }
+  - { name: 대체 연쇄,    url: /findings-substchain.html }
   - { name: 대체 폰트,    url: /findings-substfont.html }
   - { name: 메트릭 실측,  url: /findings-metrics.html }
   - { name: 개방성 점검,  url: /findings-openness.html }
@@ -58,6 +61,7 @@ nav:
   - { name: 공문서 실태,  url: /findings-gov-docs.html }
   - { name: 출처,        url: /sources.html }
   - { name: 남은 질문,    url: /open-questions.html }
+  - { name: 작성 규칙,    url: /PROCESS.html }
 
 # .md 링크를 .html 로 바꿔 주는 설정은 없으므로 문서 안에서는 상대 .md 링크를 쓴다.
 # GitHub 웹에서 읽을 때는 그대로 동작하고, Pages 에서는 아래 redirect 로 넘어간다.
@@ -68,7 +72,6 @@ kramdown:
   syntax_highlighter: rouge
 
 exclude:
-  - PROCESS.md
   - tools/
   - data/
   - sources/
