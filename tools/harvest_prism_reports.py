@@ -227,6 +227,9 @@ def main():
     ap.add_argument("--all-inst", action="store_true", help="지자체 포함 전체 기관")
     ap.add_argument("--since", default="2010.01.01")
     ap.add_argument("--until", default=time.strftime("%Y.%m.%d"))
+    ap.add_argument("--per-year", type=int, metavar="N",
+                    help="기관 × 연도 칸마다 최대 N건. 최근 편향을 없앤다")
+    ap.add_argument("--years", default="2010-2026", help="--per-year 와 함께 쓸 연도 범위")
     ap.add_argument("--delay", type=float, default=0.35)
     ap.add_argument("--build-index", action="store_true")
     args = ap.parse_args()
@@ -249,19 +252,29 @@ def main():
 
         log = open(manifest, "a", encoding="utf-8")
         got = errors = 0
+        if args.per_year:
+            lo, hi = (int(v) for v in args.years.split("-"))
+            windows = [(f"{y}.01.01", f"{y}.12.31", y) for y in range(lo, hi + 1)]
+            size = args.per_year
+        else:
+            windows = [(args.since, args.until, None)]
+            size = args.per_inst
+
         for i, inst in enumerate(insts, 1):
             gno, name = inst["instGrntNo"], inst["instNm"]
-            try:
-                rd = api.json("/v1/entire/list-organtheme", {
-                    "asmtNm": "", "startDate": args.since, "endDate": args.until,
-                    "rcmdtnAsmtYn": "", "instGrntNo": gno,
-                    "currentPage": 1, "pageSize": args.per_inst})
-            except Exception as exc:
-                print(f"  [{i}/{len(insts)}] {name} 목록 실패: {exc}", file=sys.stderr)
-                errors += 1
-                continue
-            tasks = rd.get("organthemeRschList") or []
-            before = got
+            tasks, before = [], got
+            for start, end, year in windows:
+                try:
+                    rd = api.json("/v1/entire/list-organtheme", {
+                        "asmtNm": "", "startDate": start, "endDate": end,
+                        "rcmdtnAsmtYn": "", "instGrntNo": gno,
+                        "currentPage": 1, "pageSize": size})
+                except Exception as exc:
+                    print(f"  [{i}/{len(insts)}] {name} {year or ''} 목록 실패: {exc}",
+                          file=sys.stderr)
+                    errors += 1
+                    continue
+                tasks.extend(rd.get("organthemeRschList") or [])
 
             for t in tasks:
                 asmt = t["asmtId"]
