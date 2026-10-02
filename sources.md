@@ -106,6 +106,8 @@
 | 오픈넷 세션 정리 「[2026 KrIGF] 공익적 상호운영성을 위한 사전 법적 확신 메커니즘」 (2026-09-19) | <https://www.opennet.or.kr/27856> | 사단법인 오픈넷이 게재한 세션 소개 |
 | 「모나리자 크기로 도화지를 자르면 저작권 위반인가?」 (GeekNews) | <https://news.hada.io/topic?id=29327> · 원문 <https://github.com/edwardkim/rhwp/discussions/736> | 이 조사 작성자의 글. `투명도화지` 라는 말이 여기서 나왔다 |
 | Polaris MCFG | <https://github.com/PolarisOffice/polaris_mcfg> | 수치만 추출해 자유 글꼴에 적용하는 도구 (MIT). 도구만 배포한다 |
+| rHWP | <https://github.com/edwardkim/rhwp> | Rust·WebAssembly 기반 오픈소스 한글 문서 뷰어·에디터 (MIT). HWP 5.0 바이너리·HWPX·HML 읽기와 편집·저장. 형식 쪽 병목이 코드로 풀리고 있음을 보여주는 사례 |
+| Unicode UAX #14 (Line Breaking Algorithm) | <https://www.unicode.org/reports/tr14/> | 한국어에 대해 LB26(음절 내부 분리 금지)만 정하고 어절 중간 분리 규칙은 두지 않는다 |
 
 ## 라. 판례
 

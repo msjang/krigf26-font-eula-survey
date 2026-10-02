@@ -142,6 +142,7 @@ python3 tools/build_font_registry.py > font-registry.md
 - 세션 발제 자료 — <https://msjang.github.io/krigf26-no-action-letter>
 - 세션 영상 — <https://www.youtube.com/live/c7Ok_kNfgjI>
 - Polaris MCFG — <https://github.com/PolarisOffice/polaris_mcfg>
+- rHWP — <https://github.com/edwardkim/rhwp> (Rust·WASM·MIT. HWP 5.0·HWPX·HML 읽기·편집·저장)
 - pypandoc-hwpx — <https://github.com/msjang/pypandoc-hwpx>
 
 ## 라이선스
