@@ -82,11 +82,11 @@
 | 항목 | 내용 |
 |---|---|
 | 출처 | 정책연구관리시스템 PRISM <https://www.prism.go.kr/> — 공개 API `entire/list-organtheme` · `entire/info` · `progress/download-file` |
-| 대상 | 중앙행정기관 72곳의 공개 과제 1,855건에 붙은 HWP·HWPX **9,159개** (기관당 최근 30과제) |
+| 대상 | 중앙행정기관 72곳의 공개 과제 **12,575건**에 붙은 HWP·HWPX **67,950개** (기관 × 연도 칸마다 최대 20과제, 2010~2026년) |
 | robots.txt | `User-agent: *` / `Disallow:` — 제한 없음, 2026-09-30 확인 |
 | 수집 방식 | 순차 요청, 요청 간 0.35초 지연. PDF 는 받지 않음(HFT 식별 불가). 본문은 집계하지 않고 글꼴 이름과 메타데이터만 추출 |
 | 도구 | [`tools/harvest_prism_reports.py`](tools/harvest_prism_reports.py) |
-| 원자료 | [`data/prism-report-fonts_2026-09-30.json.gz`](data/prism-report-fonts_2026-09-30.json.gz) |
+| 원자료 | [`data/prism-report-fonts_2026-10-02.json.gz`](data/prism-report-fonts_2026-10-02.json.gz) · 이전 판 [`…_2026-09-30`](data/prism-report-fonts_2026-09-30.json.gz) |
 
 ## 다-2. 라이선스 고지 보존 사본
 
