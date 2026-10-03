@@ -1,0 +1,28 @@
+{
+ "embedded": {
+  "files": 2000,
+  "failed": 0,
+  "isEmbeddedFlags": {},
+  "binDataKinds": {
+   "IMG:JPEG": 13,
+   "IMG:PNG": 4,
+   "IMG:GIF": 1,
+   "IMG:BMP": 27,
+   "IMG:TIFF": 1,
+   "기타": 1
+  },
+  "fontStreams": 0
+ },
+ "permission": {
+  "documents": 28639,
+  "fontsUsed": 261,
+  "fsTypeKnown": 69,
+  "fsTypeUnknown": 192,
+  "restricted": [
+   "AmeriGarmnd BT",
+   "문체부 바탕체",
+   "문체부 제목 돋음체"
+  ],
+  "noSubsetting": []
+ }
+}
